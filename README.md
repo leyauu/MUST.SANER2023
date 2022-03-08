@@ -20,8 +20,6 @@ saner2018
 │   └── website (网站主要文件)
 ├── php
 │   ├── Dockerfile
-│   ├── www.conf
-│   ├── php-fpm.conf
 │   ├── php.ini
 │   └── log
 │       └── php-fpm.log
@@ -34,7 +32,17 @@ saner2018
 ```bash
 git clone https://github.com/MUST-ISDA/saner2018.git
 cd saner2018
+./run.sh
+# or
 docker-compose up -d
+```
+
+**停止**
+
+```bash
+./stop.sh
+# or
+docker-compose down -v
 ```
 
 站点根目录为`website`
