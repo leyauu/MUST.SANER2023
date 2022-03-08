@@ -1,6 +1,14 @@
-# Docker 部署 Saner2018 环境
+# Docker 部署 Saner2018
 
-### 目录结构
+### Thanks 感谢 🙏
+
+Thanks to the following repositories:
+
+[https://github.com/aparzi/saner2018](https://github.com/aparzi/saner2018)
+
+[https://github.com/voocel/docker-lnmp](https://github.com/voocel/docker-lnmp)
+
+### Directory 目录结构
 
 ```
 saner2018
@@ -19,11 +27,11 @@ saner2018
 │       └── php-fpm.log
 ```
 
-### 创建镜像与安装
+### Run 创建镜像与安装
 
 **运行**
 
-```
+```bash
 git clone https://github.com/MUST-ISDA/saner2018.git
 cd saner2018
 docker-compose up -d
@@ -39,7 +47,7 @@ docker-compose up -d
 
 1. 使用 docker exec
 
-```
+```bash
 docker exec -it nginx /bin/sh
 ```
 
@@ -49,7 +57,7 @@ docker exec -it nginx /bin/sh
 
 _在 php 的 Dockerfile 中加入以下命令_
 
-```
+```bash
 RUN apk add libpng-dev \
     && docker-php-ext-install pdo_mysql mysqli pcntl gd \
 ```
@@ -58,8 +66,7 @@ _注:因为该镜像缺少 gd 库所需的 libpng-dev 包，所以需要先下�
 
 2. PECL 扩展安装
 
-```
-# 安装扩展
+```bash
 RUN pecl install memcached-2.2.0 \
     # 启用扩展
     && docker-php-ext-enable memcached \
@@ -112,7 +119,7 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/bin/ 
 
 **删除所有容器和镜像的命令**
 
-```
+```bash
 docker rm `docker ps -a |awk '{print $1}' | grep [0-9a-z]` 删除停止的容器
 docker rmi $(docker images | awk '/^<none>/ { print $3 }')
 ```
