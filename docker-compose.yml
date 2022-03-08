@@ -1,0 +1,46 @@
+version: '3'
+services:
+    nginx:
+        build:
+            context: ./nginx
+            args:
+                NGINX_VERSION: $NGINX_VERSION
+        depends_on:
+            - php
+        ports:
+            - '80:80'
+            - '443:443'
+        volumes:
+            - ./www:/usr/share/nginx/html
+            - ./nginx/conf.d:/etc/nginx/conf.d
+            - ./nginx/cert:/etc/nginx/cert
+            - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+            - ./nginx/log/error.log:/var/log/nginx/error.log
+        networks:
+            - frontend
+        restart: always
+        container_name: nginx
+
+    php:
+        build:
+            context: ./php
+            args:
+                PHP_VERSION: $PHP_VERSION
+                SWOOLE_VERSION: $SWOOLE_VERSION
+                AMQP_VERSION: $AMQP_VERSION
+        ports:
+            - '9501:9501'
+        volumes:
+            - ./website:/var/www/html
+            - ./php/config/php.ini:/usr/local/etc/php/php.ini
+            - ./php/config/php-fpm.conf:/usr/local/etc/php-fpm.conf
+            - ./php/config/php-fpm.d:/usr/local/etc/php-fpm.d
+        networks:
+            - frontend
+            - backend
+        restart: always
+        container_name: php
+
+networks:
+    frontend:
+    backend:
