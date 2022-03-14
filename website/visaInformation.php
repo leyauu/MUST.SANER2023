@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>SANER 2018 - Campobasso, Italy</title>
+    <title>SANER 2023 - Campobasso, Italy</title>
     <meta charset="utf-8">
-    <meta name="description" content="SANER 2018 - Campobasso, Italy">
+    <meta name="description" content="SANER 2023 - Campobasso, Italy">
     <meta name="author" content="Angelo Parziale"/>
     <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise"/>
     <!-- Bootstrap -->
@@ -68,7 +68,7 @@ require_once('./utils/breadcrumb.php');
                     should initiate the application process at least 3 months prior to their departure date.
                     The conference organizers cannot assist participants with their visa application process and cannot
                     intervene with Embassies or Consulates on behalf of any participant.
-                    <br/>The SANER 2018 organizers are able to provide <b>official invitation letters</b> to attendees
+                    <br/>The SANER 2023 organizers are able to provide <b>official invitation letters</b> to attendees
                     and authors of accepted papers, posters, or members of the conference committee. For people who have
                     not participated in any SANER or related event before, are not an author of an accepted paper, and
                     for which the committee is not aware of their work in this area we kindly ask to furnish your vitae,

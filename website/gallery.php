@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>SANER 2018 - Campobasso, Italy</title>
+    <title>SANER 2023 - Campobasso, Italy</title>
     <meta charset="utf-8">
-    <meta name="description" content="SANER 2018 - Campobasso, Italy">
+    <meta name="description" content="SANER 2023 - Campobasso, Italy">
     <meta name="author" content="Angelo Parziale"/>
     <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise"/>
     <!-- Bootstrap -->
@@ -67,7 +67,7 @@ require_once('./utils/breadcrumb.php');
         <!-- CAROUSEL resturant -->
         <div class="row">
             <div class="col-md-12">
-                <h5>SANER 2018 Monday 19</h5>
+                <h5>SANER 2023 Monday 19</h5>
                 <hr class="lineHr" style="margin-bottom: 20px;">
                 <div class="owl-carousel-custom">
                     <?php loadImages('monday', 14) ?>
@@ -77,7 +77,7 @@ require_once('./utils/breadcrumb.php');
         <!-- CAROUSEL futsal -->
         <div class="row">
             <div class="col-md-12">
-                <h5>SANER 2018 Futsal</h5>
+                <h5>SANER 2023 Futsal</h5>
                 <hr class="lineHr" style="margin-bottom: 20px;">
                 <div class="owl-carousel-custom">
                     <?php loadImages('futsal', 13) ?>
@@ -87,7 +87,7 @@ require_once('./utils/breadcrumb.php');
         <!-- CAROUSEL tuesday -->
         <div class="row">
             <div class="col-md-12">
-                <h5>SANER 2018 Tuesday 20</h5>
+                <h5>SANER 2023 Tuesday 20</h5>
                 <hr class="lineHr" style="margin-bottom: 20px;">
                 <div class="owl-carousel-custom">
                     <?php loadImages('tuesday', 14) ?>
@@ -97,7 +97,7 @@ require_once('./utils/breadcrumb.php');
         <!-- CAROUSEL wednesday -->
         <div class="row">
             <div class="col-md-12">
-                <h5>SANER 2018 Wednesday 21</h5>
+                <h5>SANER 2023 Wednesday 21</h5>
                 <hr class="lineHr" style="margin-bottom: 20px;">
                 <div class="owl-carousel-custom">
                     <?php loadImages('wednesday', 10) ?>
@@ -107,7 +107,7 @@ require_once('./utils/breadcrumb.php');
         <!-- CAROUSEL thursday -->
         <div class="row">
             <div class="col-md-12">
-                <h5>SANER 2018 Thursday 22</h5>
+                <h5>SANER 2023 Thursday 22</h5>
                 <hr class="lineHr" style="margin-bottom: 20px;">
                 <div class="owl-carousel-custom">
                     <?php loadImages('thursday', 17) ?>
@@ -117,7 +117,7 @@ require_once('./utils/breadcrumb.php');
         <!-- CAROUSEL friday -->
         <div class="row">
             <div class="col-md-12">
-                <h5>SANER 2018 Friday 23</h5>
+                <h5>SANER 2023 Friday 23</h5>
                 <hr class="lineHr" style="margin-bottom: 20px;">
                 <div class="owl-carousel-custom">
                     <?php loadImages('friday', 16) ?>

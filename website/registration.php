@@ -2,8 +2,8 @@
 <?php
 $registration_mail = "rocco.oliveto@unimol.it";
 
-$open_reg = strtotime("1/1/2018 12:10 CET");
-$early_reg = strtotime("3/1/2018 23:59 CET");
+$open_reg = strtotime("1/1/2023 12:10 CET");
+$early_reg = strtotime("3/1/2023 23:59 CET");
 
 $registration_open = time() >= $open_reg;
 $late_registration = time() >= $early_reg;
@@ -27,9 +27,9 @@ if ($registration_open) {
 ?>
 <html lang="en">
     <head>
-        <title>SANER 2018 - Campobasso, Italy</title>
+        <title>SANER 2023 - Campobasso, Italy</title>
         <meta charset="utf-8">
-        <meta name="description" content="SANER 2018 - Campobasso, Italy">
+        <meta name="description" content="SANER 2023 - Campobasso, Italy">
         <meta name="author" content="Angelo Parziale" />
         <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise" />
         <!-- Bootstrap -->
@@ -117,20 +117,20 @@ if ($registration_open) {
                             if ($registration_open) { 
                                 echo "The <a href=\"$registration_link\">registration system</a> is open.<br/>";
                             } else {
-                                echo "The registration system will be open from January 1st, 2018.";
+                                echo "The registration system will be open from January 1st, 2023.";
                             }
                             ?>
                             
-                            At least <b>one author per paper</b> has to register before February 22nd, 2018. Student authors can register at student rates unless the student is the sole author attending for a given paper. In that case, the author must register at professional rate (see below).
+                            At least <b>one author per paper</b> has to register before February 22nd, 2023. Student authors can register at student rates unless the student is the sole author attending for a given paper. In that case, the author must register at professional rate (see below).
                         </p>
                         
                         <!--For registering you first need to create an account. Using the account, you can register to all SANER events. Note, modifications are only possible as long as the payment has not been performed.</p>-->
                         
                         <!--<p style="text-align:justified;">Please select the corresponding registration type. Furthermore, please complete the payment to guarantee your registration. A receipt for your registration fee is separately issued and will be available at the registration desk on site.</p>-->
                         
-                        <p style="text-align:justified;">The deadline for early registration is 23:59 of <del>February 22nd, 2018</del> <b>March 1st, 2018</b>, Central Europe Time (GMT+1)</p>
+                        <p style="text-align:justified;">The deadline for early registration is 23:59 of <del>February 22nd, 2023</del> <b>March 1st, 2023</b>, Central Europe Time (GMT+1)</p>
                         
-                        <p style="text-align:justified;">The deadline for online registration is 23:59 of <b>March 18th, 2018, Central Europe Time (GMT+1)</b></p>
+                        <p style="text-align:justified;">The deadline for online registration is 23:59 of <b>March 18th, 2023, Central Europe Time (GMT+1)</b></p>
                         
                         <p style="text-align:justified;">For questions about the registration, please contact <a href="mailto:<?=$registration_mail?>"><?=$registration_mail?></a>.</p>
                         
@@ -323,10 +323,10 @@ if ($registration_open) {
                             
                             <h4>Changes and Cancellation Policy</h4>
                             <p style="text-align:justified;">
-                                <strong>Changes</strong> of already paid registrations are only possible through the SANER 2018 registration office. Send an email mentioning your registration id and listing your changes to <a href="mailto:<?=$registration_mail?>"><?=$registration_mail?></a>.
+                                <strong>Changes</strong> of already paid registrations are only possible through the SANER 2023 registration office. Send an email mentioning your registration id and listing your changes to <a href="mailto:<?=$registration_mail?>"><?=$registration_mail?></a>.
                             </p>
                             <p style="text-align:justified;">
-                                <strong>Cancellations</strong> of already paid registrations are only possible through the SANER 2018 registration office. Send an email mentioning your registration id to <a href="mailto:<?=$registration_mail?>"><?=$registration_mail?></a>. Cancellations made until <strong>February 22nd, 2018</strong> will be accepted subject to a <strong>50 Euro</strong> cancellation fee. Refunds will be made within 30 days after the end of the conference. Cancellations will not be accepted after February 22nd, 2018.
+                                <strong>Cancellations</strong> of already paid registrations are only possible through the SANER 2023 registration office. Send an email mentioning your registration id to <a href="mailto:<?=$registration_mail?>"><?=$registration_mail?></a>. Cancellations made until <strong>February 22nd, 2023</strong> will be accepted subject to a <strong>50 Euro</strong> cancellation fee. Refunds will be made within 30 days after the end of the conference. Cancellations will not be accepted after February 22nd, 2023.
                             </p>
                             <p style="text-align:justified;">
                                 <strong>“No shows”</strong> are not refundable and are liable for the full registration fee. Instead of cancelling, your registration may be transferred to a colleague. If you would like to transfer your registration to a colleague, please email <a href="mailto:<?=$registration_mail?>"><?=$registration_mail?></a>.

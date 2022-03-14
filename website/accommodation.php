@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>SANER 2018 - Campobasso, Italy</title>
+    <title>SANER 2023 - Campobasso, Italy</title>
     <meta charset="utf-8">
-    <meta name="description" content="SANER 2018 - Campobasso, Italy">
+    <meta name="description" content="SANER 2023 - Campobasso, Italy">
     <meta name="author" content="Angelo Parziale" />
     <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise" />
     <!-- Bootstrap -->
@@ -66,7 +66,7 @@ require_once ('./utils/breadcrumb.php');
                     Centrum Palace is a modern hotel offers free on-site parking  has a bar and a restaurant where you can try local and national Italian cuisine. Rooms at Centrum Palace Hotel are bright and comfortable, some also have a hydromassage bath.
                 </p>
                 <p style="text-align: justify;">
-                    <strong>A number of rooms are available at special rates at the Centrum Palace Hotel in Campobasso. The rates (listed below) are valid if you reserve a room by <span style="font-weight: bolder;">February 12, 2018</span>. To reserve a room at these rates, please send an email to <a href="mailto:prenotazioni@centrumpalace.it?subject=SANER2018">prenotazioni@centrumpalace.it</a> and specify that you will be a SANER 2018 attendee.</strong>
+                    <strong>A number of rooms are available at special rates at the Centrum Palace Hotel in Campobasso. The rates (listed below) are valid if you reserve a room by <span style="font-weight: bolder;">February 12, 2023</span>. To reserve a room at these rates, please send an email to <a href="mailto:prenotazioni@centrumpalace.it?subject=SANER2023">prenotazioni@centrumpalace.it</a> and specify that you will be a SANER 2023 attendee.</strong>
                 </p>
                 <h6 style="padding-top: 5px;"><u>Conference rates:</u></h6>
                 <ul style="padding: 0; margin-top: 10px;">

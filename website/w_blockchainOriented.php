@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>SANER 2018 - Campobasso, Italy</title>
+        <title>SANER 2023 - Campobasso, Italy</title>
         <meta charset="utf-8">
-        <meta name="description" content="SANER 2018 - Campobasso, Italy">
+        <meta name="description" content="SANER 2023 - Campobasso, Italy">
         <meta name="author" content="Angelo Parziale"/>
         <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise"/>
         <!-- Bootstrap -->
@@ -58,13 +58,13 @@
                 <div class="col-md-12">
                     <div class="top-description-text" style="text-align: left; margin: 30px 0 0 0;">
                         <h3>1st International Workshop on Blockchain Oriented Software Engineering</h3>
-                        <p><b>Home page:</b><span>&nbsp;<a target="_blank" href="http://www.agilegroup.eu/iwbose2018/">http://www.agilegroup.eu/iwbose2018/</a></span></p>
+                        <p><b>Home page:</b><span>&nbsp;<a target="_blank" href="http://www.agilegroup.eu/iwbose2023/">http://www.agilegroup.eu/iwbose2023/</a></span></p>
                         <hr class="lineHr">
                     </div><!-- end top-description-text -->
 
                         <p style="text-align: justify;">
                             The First International Workshop on Blockchain Oriented Software Engineering is held as a
-                            Workshop at SANER 2018, and aims at gathering together researchers from the academia and
+                            Workshop at SANER 2023, and aims at gathering together researchers from the academia and
                             from the industry to focus on the new challenges posed by the new software technology
                             supporting the various blockchains infrastructure. The Workshop’s goal is to gather together
                             practitioners and researchers to discuss on progresses on the research and on the practical usage

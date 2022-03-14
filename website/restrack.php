@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>SANER 2018 - Campobasso, Italy</title>
+    <title>SANER 2023 - Campobasso, Italy</title>
     <meta charset="utf-8">
-    <meta name="description" content="SANER 2018 - Campobasso, Italy">
+    <meta name="description" content="SANER 2023 - Campobasso, Italy">
     <meta name="author" content="Angelo Parziale" />
     <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise" />
     <!-- Bootstrap -->
@@ -60,7 +60,7 @@ require_once('./utils/breadcrumb.php');
         <div class="row">
             <div class="col-md-12">
                 <p style="text-align: justify;">
-                The SANER 2018 technical track invites high quality submissions of papers describing original and unpublished research results. We encourage submissions describing various types of research, such as, empirical, theoretical, tool-oriented, etc.
+                The SANER 2023 technical track invites high quality submissions of papers describing original and unpublished research results. We encourage submissions describing various types of research, such as, empirical, theoretical, tool-oriented, etc.
                 </p>
                 <p style="text-align: justify;">
                 The topics of the submissions should be of direct interest to the software analysis, evolution, and reengineering community. Topics of interest include, but are not limited to:
@@ -100,12 +100,12 @@ require_once('./utils/breadcrumb.php');
                     All submissions must be in English. Submissions should not exceed 12 pages (the last 2 pages for references only), and should be uploaded electronically in PDF format via EasyChair. Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review.
                 </p>
                 <p style="text-align: justify;">
-                    <strong>Important note: SANER 2018 follows a full double-blind review process.</strong>
+                    <strong>Important note: SANER 2023 follows a full double-blind review process.</strong>
                     In order to be compliant with the double-blind policy, submitted papers must adhere to the following rules (largely reused from <a href="http://ase2017.org/author_instructions" target="_blank">ASE 2017 double-blind instructions</a>):
                     <ul>
                         <li>Author names and affiliations must be omitted.</li>
                         <li>References to authors' own related work must be in the third person. (For example, not "We build on our previous work..." but rather "We build on the work of...")</li>
-                        <li>There may be cases in which the current submission is clear follow up of one of your previous work, and despite what recommended in the previous point, reviewers will clearly associate authorship of such a previous work to the current submission. In this case, you may decide to anonymize the reference itself at submission time. For example: "based on previous results [10]" .. where the reference is reported as "[10] Anonymous Authors. Omitted per double blind reviewing." In doing so, however, please make sure that the Saner 2018 submission is self-contained and its content can be reviewed and understood without accessing the previous paper.</li>
+                        <li>There may be cases in which the current submission is clear follow up of one of your previous work, and despite what recommended in the previous point, reviewers will clearly associate authorship of such a previous work to the current submission. In this case, you may decide to anonymize the reference itself at submission time. For example: "based on previous results [10]" .. where the reference is reported as "[10] Anonymous Authors. Omitted per double blind reviewing." In doing so, however, please make sure that the Saner 2023 submission is self-contained and its content can be reviewed and understood without accessing the previous paper.</li>
                         <li>Do not include acknowledgements of people, grants, organizations, etc. that would give away your identity. You may, of course, add these acknowledgements in the camera-ready version.</li>
                         <li>If you use an identifiable naming convention for your work, such as a project name, use a different name for your submission, which you may indicate has been changed for the purposes of double-blind reviewing. This includes names that may unblind individual authors and their institutions. For example, if your project is called GoogleDeveloperHelper, which makes it clear the work was done at Google, for the submission version, use the name DeveloperHelper or BigCompanyDeveloperHelper instead.</li>
                         <li>Avoid revealing the institution affiliations of authors or at which the work was performed. For example, if the evaluation includes a user study conducted with undergraduates from the CS 101 class that you teach, you might say "The study participants consist of 200 students in an introductory CS course." You can of course add the institutional information in the camera-ready. Similar suggestions apply for work conducted in specific organizations (e.g., industrial studies). In such cases, avoid to mention the organization's name. Instead, you may just refer the organization as "Org" or "Company", etc. When appropriate and when this does not help too much in revealing the company's name, you might mention the context (e.g., financial organization, videogame development company, etc.).</li>
@@ -115,7 +115,7 @@ require_once('./utils/breadcrumb.php');
                 <br>
                 <strong>Special Issue</strong>
                 <p style="text-align: justify; margin-top: 15px;">
-                    Authors of selected research papers accepted at SANER 2018 will be invited to submit revised,
+                    Authors of selected research papers accepted at SANER 2023 will be invited to submit revised,
                     extended versions of their manuscripts for a special issue of the <a href="https://link.springer.com/journal/10664" target="_blank">Empirical Software Engineering journal (EMSE)</a>, edited by Springer.
                 </p>
                 <p style="text-align: justify;">
@@ -125,8 +125,8 @@ require_once('./utils/breadcrumb.php');
                     <li>Abstract submission deadline: October 20, 2017 AoE</li>
                     <li>Paper submission deadline: October 27, 2017 AoE</li>
                     <li>Notifications: December 17, 2017</li>
-                    <li>Camera Ready: January 15, 2018</li>
-                    <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2018">https://easychair.org/conferences/?conf=saner2018</a></li>
+                    <li>Camera Ready: January 15, 2023</li>
+                    <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2023">https://easychair.org/conferences/?conf=saner2023</a></li>
                 </ul>
                 </p>
             </div>

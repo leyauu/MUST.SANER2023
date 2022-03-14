@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>SANER 2018 - Campobasso, Italy</title>
+    <title>SANER 2023 - Campobasso, Italy</title>
     <meta charset="utf-8">
-    <meta name="description" content="SANER 2018 - Campobasso, Italy">
+    <meta name="description" content="SANER 2023 - Campobasso, Italy">
     <meta name="author" content="Angelo Parziale" />
     <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise" />
     <!-- Bootstrap -->
@@ -80,7 +80,7 @@ require_once ('./utils/breadcrumb.php');
                     <li>Expected numbers of submissions and participants</li>
                     <li>Expected number of accepted papers</li>
                     <li>Draft workshop schedule including duration (full day or half day), format of sessions and discussions</li>
-                    <li>Paper selection criteria and mechanism (<strong>Important note:</strong> SANER 2018 follows a full double-blind review process.)</li>
+                    <li>Paper selection criteria and mechanism (<strong>Important note:</strong> SANER 2023 follows a full double-blind review process.)</li>
                 </ul>
                 <p style="text-align: justify;">
                     Please send your proposal via email to Takashi Kobayashi <a href="mailto:tkobaya@c.titech.ac.jp">tkobaya@c.titech.ac.jp</a>

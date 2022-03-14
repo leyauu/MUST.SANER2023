@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>SANER 2018 - Campobasso, Italy</title>
+    <title>SANER 2023 - Campobasso, Italy</title>
     <meta charset="utf-8">
-    <meta name="description" content="SANER 2018 - Campobasso, Italy">
+    <meta name="description" content="SANER 2023 - Campobasso, Italy">
     <meta name="author" content="Angelo Parziale" />
     <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise" />
     <!-- Bootstrap -->
@@ -69,12 +69,12 @@ require_once ('./utils/breadcrumb.php');
                 <br>
                 <strong>Evaluation Criteria</strong>
                 <p style="text-align: justify; margin-top: 15px;">
-                    Each submission will be reviewed by at least three members of the tool demonstration program committee. The committee will review each submission on its merits and quality. <b>Important note: SANER 2018 follows a full double-blind review process.​ For details see the Instructions for Authors. Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review</b>
+                    Each submission will be reviewed by at least three members of the tool demonstration program committee. The committee will review each submission on its merits and quality. <b>Important note: SANER 2023 follows a full double-blind review process.​ For details see the Instructions for Authors. Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review</b>
                 </p>
                 <p style="text-align: justify;">
                     A good tool paper should:
                     <ul>
-                        <li>Fall under the topics mentioned for SANER 2018 research track;</li>
+                        <li>Fall under the topics mentioned for SANER 2023 research track;</li>
                         <li>Present and discuss a tool that has NOT been published before as a tool paper;</li>
                         <li>Motivate the need for the tool;</li>
                         <li>Describe the tool’s novelty and how it relates to previous industrial or research efforts;</li>
@@ -90,7 +90,7 @@ require_once ('./utils/breadcrumb.php');
                 <ul>
                     <li>adhere to the conference proceedings style (<a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target="_blank">IEEE proceedings paper format guidelines</a>.);</li>
                     <li>have a maximum of 5 pages that describe the criteria above;</li>
-                    <li>be uploaded electronically in PDF format via the SANER 2018 Easychair submission site.</li>
+                    <li>be uploaded electronically in PDF format via the SANER 2023 Easychair submission site.</li>
                 </ul>
                 </p>
                 <p style="text-align: justify;">
@@ -111,11 +111,11 @@ require_once ('./utils/breadcrumb.php');
                     <br>
                     <strong>Important Dates</strong>
                 <ul>
-                    <li>Abstract submission deadline: January 5, 2018 AoE</li>
-                    <li>Paper submission deadline: January 12, 2018 AoE</li>
-                    <li>Notifications: February 16, 2018 AoE</li>
-                    <li>Camera Ready: February 22, 2018 AoE</li>
-                    <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2018">https://easychair.org/conferences/?conf=saner2018</a></li>
+                    <li>Abstract submission deadline: January 5, 2023 AoE</li>
+                    <li>Paper submission deadline: January 12, 2023 AoE</li>
+                    <li>Notifications: February 16, 2023 AoE</li>
+                    <li>Camera Ready: February 22, 2023 AoE</li>
+                    <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2023">https://easychair.org/conferences/?conf=saner2023</a></li>
                 </ul>
                 </p>
             </div>

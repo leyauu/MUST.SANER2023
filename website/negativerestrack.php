@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>SANER 2018 - Campobasso, Italy</title>
+    <title>SANER 2023 - Campobasso, Italy</title>
     <meta charset="utf-8">
-    <meta name="description" content="SANER 2018 - Campobasso, Italy">
+    <meta name="description" content="SANER 2023 - Campobasso, Italy">
     <meta name="author" content="Angelo Parziale" />
     <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise" />
     <!-- Bootstrap -->
@@ -70,7 +70,7 @@ require_once ('./utils/navbar.php');
                     The 25th edition of the International Conference on Software Analysis, Evolution, and Reengineering (SANER’18) would like to encourage researchers to (1) reproduce results from previous papers and (2) publish studies with important and relevant negative or null results (results which fail to show an effect, yet demonstrate the research paths that did not pay off).
                 </p>
                 <p style="text-align: justify;">
-                    We would also like to encourage the publication of the negative results or reproducible aspects of previously published work (in the spirit of journal-first submissions). This previously published work includes accepted submissions for the 2018 SANER main track.
+                    We would also like to encourage the publication of the negative results or reproducible aspects of previously published work (in the spirit of journal-first submissions). This previously published work includes accepted submissions for the 2023 SANER main track.
                 </p>
                 <ol style="text-align: justify;">
                     <li>
@@ -113,17 +113,17 @@ require_once ('./utils/navbar.php');
                 </p>
                 <p style="text-align: justify;">
                     <br>
-                    <strong>Important note: the RENE track of SANER 2018 DOES NOT FOLLOW a full double-blind review process.</strong>
+                    <strong>Important note: the RENE track of SANER 2023 DOES NOT FOLLOW a full double-blind review process.</strong>
                 </p>
                 <p style="text-align: justify;">
                     <br>
                     <strong>Important Dates</strong>
                 <ul>
-                    <li>Abstract submission deadline: January 5, 2018 AoE</li>
-                    <li>Paper submission deadline: January 12, 2018 AoE</li>
-                    <li>Notifications: February 9, 2018</li>
-                    <li>Camera Ready: February 22, 2018</li>
-                    <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2018">https://easychair.org/conferences/?conf=saner2018</a></li>
+                    <li>Abstract submission deadline: January 5, 2023 AoE</li>
+                    <li>Paper submission deadline: January 12, 2023 AoE</li>
+                    <li>Notifications: February 9, 2023</li>
+                    <li>Camera Ready: February 22, 2023</li>
+                    <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2023">https://easychair.org/conferences/?conf=saner2023</a></li>
                 </ul>
                 </p>
             </div>

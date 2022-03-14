@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Stopping Website Saner2018"
+echo "Stopping Website Saner2023"
 echo "----------------------------------"
 
 docker-compose down -v

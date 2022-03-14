@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>SANER 2018 - Campobasso, Italy</title>
+    <title>SANER 2023 - Campobasso, Italy</title>
     <meta charset="utf-8">
-    <meta name="description" content="SANER 2018 - Campobasso, Italy">
+    <meta name="description" content="SANER 2023 - Campobasso, Italy">
     <meta name="author" content="Angelo Parziale"/>
     <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise"/>
     <!-- Bootstrap -->
@@ -124,10 +124,10 @@ require_once('./utils/breadcrumb.php');
                     <br>
                     <strong>Important Dates</strong>
                 <ul>
-                    <li>Submission: January 26, 2018, 23:59 AoE</li>
-                    <li>Notification: February 16, 2018</li>
-                    <li>Camera Ready: February 22, 2018</li>
-                    <li>Submission Page: <a href="https://easychair.org/conferences/?conf=saner2018j1c2" target="_blank">https://easychair.org/conferences/?conf=saner2018j1c2</a></li>
+                    <li>Submission: January 26, 2023, 23:59 AoE</li>
+                    <li>Notification: February 16, 2023</li>
+                    <li>Camera Ready: February 22, 2023</li>
+                    <li>Submission Page: <a href="https://easychair.org/conferences/?conf=saner2023j1c2" target="_blank">https://easychair.org/conferences/?conf=saner2023j1c2</a></li>
                 </ul>
                 </p>
             </div>

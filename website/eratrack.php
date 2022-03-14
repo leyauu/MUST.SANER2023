@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>SANER 2018 - Campobasso, Italy</title>
+    <title>SANER 2023 - Campobasso, Italy</title>
     <meta charset="utf-8">
-    <meta name="description" content="SANER 2018 - Campobasso, Italy">
+    <meta name="description" content="SANER 2023 - Campobasso, Italy">
     <meta name="author" content="Angelo Parziale" />
     <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise" />
     <!-- Bootstrap -->
@@ -70,7 +70,7 @@ require_once ('./utils/navbar.php');
                     The 25th edition of the International Conference on Software Analysis, Evolution, and Reengineering (SANER’18) will feature an Early Research Achievements (ERA) track.
                 </p>
                 <p style="text-align: justify;">
-                    The goal of the ERA track is to provide researchers and practitioners with a forum for presenting promising ideas in early stages of research. These ideas do not require a strong empirical evaluation. The 2018 ERA track aims to provide constructive feedback to guide authors from their initial ideas and limited evaluations toward solid SANER 2019 papers with strong empirical underpinnings. The ERA track is specifically looking for fresh, innovative, provocative ideas. We aim to create an open atmosphere where discussion and feedback stands central.
+                    The goal of the ERA track is to provide researchers and practitioners with a forum for presenting promising ideas in early stages of research. These ideas do not require a strong empirical evaluation. The 2023 ERA track aims to provide constructive feedback to guide authors from their initial ideas and limited evaluations toward solid SANER 2019 papers with strong empirical underpinnings. The ERA track is specifically looking for fresh, innovative, provocative ideas. We aim to create an open atmosphere where discussion and feedback stands central.
                 </p>
                 <p style="text-align: justify;">
                     The topics of interest for the ERA track are the same as the main research track and concern all the topics in the research and practice of software analysis, evolution, and reengineering.
@@ -86,11 +86,11 @@ require_once ('./utils/navbar.php');
                 <ul>
                     <li>Papers must not exceed five pages (including all text, figures, references, and appendices)</li>
                     <li>Papers must conform to the IEEE proceedings paper format guidelines</li>
-                    <li>Papers must be submitted electronically in PDF format via the SANER 2018 EasyChair submission site</li>
+                    <li>Papers must be submitted electronically in PDF format via the SANER 2023 EasyChair submission site</li>
                 </ul>
                 </p>
                 <p style="text-align: justify; margin-top: 15px;">
-                    <strong>Important note: SANER 2018 follows a full double-blind review process.​</strong> Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review.
+                    <strong>Important note: SANER 2023 follows a full double-blind review process.​</strong> Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review.
                 </p>
                 <p style="text-align: justify;">
                     Papers submitted to the ERA must not have been previously accepted for publication or submitted for review to another publication venue.
@@ -99,11 +99,11 @@ require_once ('./utils/navbar.php');
                     <br>
                     <strong>Important Dates</strong>
                 <ul>
-                    <li>Abstract submission deadline: <del>January 5, 2018</del> January 8, 2018 AoE</li>
-                    <li>Paper submission deadline: January 12, 2018 AoE</li>
-                    <li>Notifications: February 9, 2018</li>
-                    <li>Camera Ready: February 22, 2018</li>
-                    <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2018">https://easychair.org/conferences/?conf=saner2018</a></li>
+                    <li>Abstract submission deadline: <del>January 5, 2023</del> January 8, 2023 AoE</li>
+                    <li>Paper submission deadline: January 12, 2023 AoE</li>
+                    <li>Notifications: February 9, 2023</li>
+                    <li>Camera Ready: February 22, 2023</li>
+                    <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2023">https://easychair.org/conferences/?conf=saner2023</a></li>
                 </ul>
                 </p>
             </div>

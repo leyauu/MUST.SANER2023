@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>SANER 2018 - Campobasso, Italy</title>
+    <title>SANER 2023 - Campobasso, Italy</title>
     <meta charset="utf-8">
-    <meta name="description" content="SANER 2018 - Campobasso, Italy">
+    <meta name="description" content="SANER 2023 - Campobasso, Italy">
     <meta name="author" content="Angelo Parziale" />
     <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise" />
     <!-- Bootstrap -->
@@ -60,13 +60,13 @@ require_once ('./utils/breadcrumb.php');
         <div class="row">
             <div class="col-md-12">
                 <p style="text-align: justify;">
-                    The 25th edition of the International Conference on Software Analysis, Evolution, and Reengineering (SANER’18) will feature an Industry track. The aim of this track is to bring together practitioners and researchers for an exchange of ideas, problems, and results. It provides a platform for people in industry and academia to interact with one another. The papers in the Industry track follow the general topics specified in the SANER 2018 research track.
+                    The 25th edition of the International Conference on Software Analysis, Evolution, and Reengineering (SANER’18) will feature an Industry track. The aim of this track is to bring together practitioners and researchers for an exchange of ideas, problems, and results. It provides a platform for people in industry and academia to interact with one another. The papers in the Industry track follow the general topics specified in the SANER 2023 research track.
                 </p>
                 <p style="text-align: justify;">
                     A good industry paper can present industrial practice and experience reports describing problems (and their solutions) encountered in real applications, describe the challenges involved in the knowledge transfer from academia to industry and vice-versa for real projects, and discuss a challenging problem currently occurring in industry, for which practitioners want feedback and-or inputs from the academic community. ICSE SEIP (International Conference on Software Engineering, Software Engineering in Practice) track will be a good reference to get an understanding of the expectations.
                 </p>
                 <p style="text-align: justify;">
-                    Upon notification of acceptance, all authors of accepted papers will be asked to complete an IEEE Copyright form and will receive further instructions for preparing their camera ready versions. At least one author of each paper is expected to present the results at the SANER 2018 conference. All accepted contributions will be published in the conference electronic proceedings.
+                    Upon notification of acceptance, all authors of accepted papers will be asked to complete an IEEE Copyright form and will receive further instructions for preparing their camera ready versions. At least one author of each paper is expected to present the results at the SANER 2023 conference. All accepted contributions will be published in the conference electronic proceedings.
                 </p>
                 <br>
                 <strong>Evaluation Criteria</strong>
@@ -74,7 +74,7 @@ require_once ('./utils/breadcrumb.php');
                     Submissions will be reviewed by at least two members of the Program Committee of the Industry Track, and they will be evaluated on the basis of industry relevance, originality, soundness, empirical and-or practical validation, quality and consistency of presentation.
                 </p>
                 <p style="text-align: justify; margin-top: 15px;">
-                    <strong>Important note:</strong> SANER 2018 follows a full double-blind review process.​ Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review.
+                    <strong>Important note:</strong> SANER 2023 follows a full double-blind review process.​ Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review.
                 </p>
                 <br>
                 <strong>Submission Instructions</strong>
@@ -86,11 +86,11 @@ require_once ('./utils/breadcrumb.php');
                     <br>
                     <strong>Important Dates</strong>
                 <ul>
-                    <li>Abstract Submission deadline: January 5, 2018 AoE</li>
-                    <li>Paper Submission deadline: January 12, 2018 AoE</li>
-                    <li>Notification: February 9, 2018</li>
-                    <li>Camera Ready: February 22, 2018</li>
-                    <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2018">https://easychair.org/conferences/?conf=saner2018</a></li>
+                    <li>Abstract Submission deadline: January 5, 2023 AoE</li>
+                    <li>Paper Submission deadline: January 12, 2023 AoE</li>
+                    <li>Notification: February 9, 2023</li>
+                    <li>Camera Ready: February 22, 2023</li>
+                    <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2023">https://easychair.org/conferences/?conf=saner2023</a></li>
                 </ul>
 
                 </p>

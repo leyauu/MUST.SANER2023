@@ -1,61 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>SANER 2018 - Campobasso, Italy</title>
-        <meta charset="utf-8">
-        <meta name="description" content="SANER 2018 - Campobasso, Italy">
-        <meta name="author" content="Angelo Parziale" />
-        <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise" />
-        <!-- Bootstrap -->
-        <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
 
-        <!-- Bootstrap Core CSS -->
-        <link rel="stylesheet" href="css/bootstrap.min.css" />
-        <!-- Icons/FontAwesome -->
-        <link rel="stylesheet" href="css/font-awesome.min.css" />
-        <!-- totop -->
-        <link rel="stylesheet" href="css/ui.totop.css" />
-        <!-- owl carusol -->
-        <link rel="stylesheet" href="css/owl.carousel.css" />
-        <!-- zetta menu -->
-        <link rel="stylesheet" href="css/zetta-menu.min.css" />
-        <!-- Animation -->
-        <link rel="stylesheet" href="css/animate.css" />
-        <!-- Customizable CSS -->
-        <link rel="stylesheet" href="css/style.css" />
+<head>
+    <title>SANER 2023 - Macau, China</title>
+    <meta charset="utf-8">
+    <meta name="description" content="SANER 2023 - Macau SAR, China">
+    <meta name="author" content="Angelo Parziale, Youwei Huang" />
+    <meta name="keywords" content="saner, Macau SAR, macau, china, macao, 2023" />
+    <!-- Bootstrap -->
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
 
-        <!-- FONTS -->
-        <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <!-- Icons/FontAwesome -->
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <!-- totop -->
+    <link rel="stylesheet" href="css/ui.totop.css" />
+    <!-- owl carusol -->
+    <link rel="stylesheet" href="css/owl.carousel.css" />
+    <!-- zetta menu -->
+    <link rel="stylesheet" href="css/zetta-menu.min.css" />
+    <!-- Animation -->
+    <link rel="stylesheet" href="css/animate.css" />
+    <!-- Customizable CSS -->
+    <link rel="stylesheet" href="css/style.css" />
 
-        <!-- Favicon -->
-        <link rel="shortcut icon" href="img/favicon/favicon-96x96.png">
+    <!-- FONTS -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
 
-        <!-- HTML5 elements and media queries Support for IE8 : HTML5 shim and Respond.js -->
-        <!--[if lt IE 9]>
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="img/favicon/favicon-96x96.png">
+
+    <!-- HTML5 elements and media queries Support for IE8 : HTML5 shim and Respond.js -->
+    <!--[if lt IE 9]>
             <script src="js/html5shiv.js"></script>
             <script src="js/respond.min.js"></script>
         <![endif]-->
 
-    </head>
+</head>
 
-    <body>
+<body>
 
-      <?php
-        require_once ('./utils/headerTopBar.php');
-        require_once ('./utils/navbar.php');
-      ?>
+    <?php
+    require_once('./utils/headerTopBar.php');
+    require_once('./utils/navbar.php');
+    ?>
 
-      <!-- Breadcrumbs -->
-      <?php
-        require_once ('./utils/breadcrumb.php');
-      ?>
-      <!-- end Breadcrumbs -->
+    <!-- Breadcrumbs -->
+    <?php
+    require_once('./utils/breadcrumb.php');
+    ?>
+    <!-- end Breadcrumbs -->
 
-        <section class="content">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
+    <section class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
                     <div class="col-md-12">
                         <div class="top-description-text" style="text-align: left;">
                             <h3>General Chair</h3>
@@ -68,13 +69,13 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/roccooliveto.png" alt="Rocco Oliveto" />
+                                                    <img class="img-circle" src="img/team/taozhang.png" alt="Tao Zhang" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a href="https://dibt.unimol.it/staff/oliveto/" target="_blank">Rocco Oliveto</a></h6>
-                                                        <p>University of Molise <br/>Italy</p>
+                                                        <h6><a href="https://cszhangtao.github.io" target="_blank">Tao Zhang</a></h6>
+                                                        <p>Macau University of Science and Technology <br />Macau SAR, China</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -94,23 +95,23 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/dipenta.jpg" alt="Massimiliano Di Penta" />
+                                                    <img class="img-circle" src="img/team/xinxia.jpg" alt="Xin Xia" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a href="http://www.ing.unisannio.it/mdipenta/" target="_blank">Massimiliano Di Penta</a></h6>
-                                                        <p>University of Sannio <br/>Italy</p>
+                                                        <h6><a href="https://xin-xia.github.io/" target="_blank">Xin Xia</a></h6>
+                                                        <p>Huawei<br />China</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/davidshepherd.png" alt="David C. Shepherd" />
+                                                    <img class="img-circle" src="img/team/nicolenovielli.jpg" alt="Nicole Novielli" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a href="http://davidshepherd.weebly.com/about.html" target="_blank">David C. Shepherd</a></h6>
-                                                        <p>ABB Corporate Research<br/>USA</p>
+                                                        <h6><a href="https://collab.di.uniba.it/nicole/" target="_blank">Nicole Novielli</a></h6>
+                                                        <p>University of Bari<br />Italy</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -130,23 +131,23 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/J.Krinke.jpg" alt="Jens Krinke" />
+                                                    <img class="img-circle" src="img/team/davidlo.jpeg" alt="David Lo" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="http://www0.cs.ucl.ac.uk/staff/j.krinke/">Jens Krinke</a></h6>
-                                                        <p>University College London <br />UK</p>
+                                                        <h6><a target="_blank" href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a></h6>
+                                                        <p>Singapore Management University<br />Singapore</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/shane.jpg" alt="Shane McIntosh" />
+                                                    <img class="img-circle" src="img/team/userDefault.png" alt="Julia Rubin" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="http://shanemcintosh.org/">Shane McIntosh</a></h6>
-                                                        <p>McGill University <br />Canada</p>
+                                                        <h6><a target="_blank" href="#">Julia Rubin</a></h6>
+                                                        <p>University of British Columbia (UBC)<br />Canada</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -166,23 +167,23 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/m.linarev.jpg" alt="Mario Linares Vasquez" />
+                                                    <img class="img-circle" src="img/team/xiapuluo.jpeg" alt="Xiapu Luo" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="https://profesores.virtual.uniandes.edu.co/mlinaresv/">Mario Linares Vasquez</a></h6>
-                                                        <p>Universidad de los Andes <br /> Colombia</p>
+                                                        <h6><a target="_blank" href="https://www4.comp.polyu.edu.hk/~csxluo/">Xiapu Luo</a></h6>
+                                                        <p>Hong Kong Polytechnic University<br />Hong Kong SAR</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/ponzanelli.png" alt="Luca Ponzanelli" />
+                                                    <img class="img-circle" src="img/team/yingwang.jpeg" alt="Ying Wang" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="http://www.inf.usi.ch/phd/ponzanelli/">Luca Ponzanelli</a></h6>
-                                                        <p>Software Institute, Universit&agrave; della Svizzera italiana<br /> Switzerland</p>
+                                                        <h6><a target="_blank" href="https://wangying-neu.github.io/">Ying Wang</a></h6>
+                                                        <p>Northeastern University<br />China</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -202,23 +203,23 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/DongmeiZhang.jpg" alt="Dongmei Zhang" />
+                                                    <img class="img-circle" src="img/team/hadilabukwaik.jpg" alt="Hadil Abukwaik" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="https://www.microsoft.com/en-us/research/people/dongmeiz/">Dongmei Zhang</a></h6>
-                                                        <p>Microsoft Research <br /> China</p>
+                                                        <h6><a target="_blank" href="https://de.linkedin.com/in/hadil-abukwaik">Hadil Abukwaik</a></h6>
+                                                        <p>ABB Corporate Research<br />Germany</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/neha.jpg" alt="Neha Rungta" />
+                                                    <img class="img-circle" src="img/team/xinpeng.jpg" alt="Xin Peng" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="https://www.linkedin.com/in/neharungta/">Neha Rungta</a></h6>
-                                                        <p>Amazon Web Services <br /> USA</p>
+                                                        <h6><a target="_blank" href="https://cspengxin.github.io/">Xin Peng</a></h6>
+                                                        <p>Fudan University<br />China</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -238,23 +239,23 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/Denys.jpg" alt="Denys Poshyvanyk" />
+                                                    <img class="img-circle" src="img/team/lili.jpeg" alt="Li Li" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="http://www.cs.wm.edu/~denys/">Denys Poshyvanyk</a></h6>
-                                                        <p>The College of William and Mary <br /> USA</p>
+                                                        <h6><a target="_blank" href="https://lilicoding.github.io/">Li Li</a></h6>
+                                                        <p>Monash University<br />Australia</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/neil_ernst.png" alt="Neil Ernst" />
+                                                    <img class="img-circle" src="img/team/userDefault.png" alt="Federica Sarro" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="https://www.uvic.ca/engineering/software/research/our-researchers/ernst-neil.php">Neil Ernst</a></h6>
-                                                        <p>University of Victoria <br /> Canada</p>
+                                                        <h6><a target="_blank" href="#">Federica Sarro</a></h6>
+                                                        <p>University College London<br />UK</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -269,25 +270,36 @@
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
                             <tbody style="text-align: center;">
-                            <tr>
-                                <td style="border: none; text-align: left;">
-                                    <div class="container">
-                                        <div class="row">
-                                            <div class="col-md-2">
-                                                <img class="img-circle" src="img/team/juliarubin.png" alt="Julia Rubin" />
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="team-date padd">
-                                                    <br />
-                                                    <h6><a target="_blank" href="https://people.csail.mit.edu/mjulia/">Julia Rubin</a></h6>
-                                                    <p>University of British Columbia <br /> Canada</p>
+                                <tr>
+                                    <td style="border: none; text-align: left;">
+                                        <div class="container">
+                                            <div class="row">
+                                                <div class="col-md-2">
+                                                    <img class="img-circle" src="img/team/xingzhenchang.jpeg" alt="Zhenchang Xing" />
                                                 </div>
+                                                <div class="col-md-4">
+                                                    <div class="team-date padd">
+                                                        <br />
+                                                        <h6><a target="_blank" href="https://cecs.anu.edu.au/people/zhenchang-xing">Zhenchang Xing</a></h6>
+                                                        <p>Australian National University<br />Australia</p>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <img class="img-circle" src="img/team/jiezhang.jpeg" alt="Jie Zhang" />
+                                                </div>
+                                                <div class="col-md-4">
+                                                    <div class="team-date padd">
+                                                        <br />
+                                                        <h6><a target="_blank" href="https://sites.google.com/view/jie-zhang/home">Zhenchang Xing</a></h6>
+                                                        <p>UCL<br />UK</p>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </div>
-                                    </div>
 
-                                </td>
-                            </tr>
+                                    </td>
+                                </tr>
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
@@ -301,15 +313,26 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/tkobaya.jpg" alt="Takashi Kobayashi" />
+                                                    <img class="img-circle" src="img/team/shangweiyi.jpeg" alt="Weiyi Shang" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="http://www.sa.cs.titech.ac.jp/~tkobaya/">Takashi Kobayashi</a></h6>
-                                                        <p>Tokyo Institute of Technology <br /> Japan</p>
+                                                        <h6><a target="_blank" href="https://users.encs.concordia.ca/~shang/#publications">Weiyi Shang</a></h6>
+                                                        <p>Concordia University<br />Canada</p>
                                                     </div>
                                                 </div>
+                                                <div class="col-md-2">
+                                                    <img class="img-circle" src="img/team/foutsekhomh.jpeg" alt="Foutse Khomh" />
+                                                </div>
+                                                <div class="col-md-4">
+                                                    <div class="team-date padd">
+                                                        <br />
+                                                        <h6><a target="_blank" href="https://www.polymtl.ca/expertises/khomh-foutse">Foutse Khomh</a></h6>
+                                                        <p>École Polytechnique de Montréal<br />Canada</p>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </div>
 
@@ -318,7 +341,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>MIP Award Chair</h3>
+                            <h3>Asia-Pacific Forum Co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -328,15 +351,26 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/Ahmed-Hassan.jpg" alt="Ahmed Hassan" />
+                                                    <img class="img-circle" src="img/team/hejiang.png" alt="He Jiang" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="http://research.cs.queensu.ca/~ahmed/home/">Ahmed Hassan</a></h6>
-                                                        <p>Queen's University <br /> Canada</p>
+                                                        <h6><a target="_blank" href="http://oscar-lab.org/people/~hjiang/">He Jiang</a></h6>
+                                                        <p>Dalian University of Technology<br />China</p>
                                                     </div>
                                                 </div>
+                                                <div class="col-md-2">
+                                                    <img class="img-circle" src="img/team/yangliu.jpg" alt="Yang Liu" />
+                                                </div>
+                                                <div class="col-md-4">
+                                                    <div class="team-date padd">
+                                                        <br />
+                                                        <h6><a target="_blank" href="https://personal.ntu.edu.sg/yangliu/">Yang Liu</a></h6>
+                                                        <p>Nanyang Technological University<br />Singapore</p>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </div>
 
@@ -350,24 +384,24 @@
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
                             <tbody style="text-align: center;">
-                            <tr>
-                                <td style="border: none; text-align: left;">
-                                    <div class="container">
-                                        <div class="row">
-                                            <div class="col-md-2">
-                                                <img class="img-circle" src="img/team/damian_tamburri.jpg" alt="Damian Tamburri" />
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="team-date padd">
-                                                    <br />
-                                                    <h6><a target="_blank" href="https://www.researchgate.net/profile/Damian_Tamburri">Damian Tamburri</a></h6>
-                                                    <p>Polytechnic of Milan <br /> Italy</p>
+                                <tr>
+                                    <td style="border: none; text-align: left;">
+                                        <div class="container">
+                                            <div class="row">
+                                                <div class="col-md-2">
+                                                    <img class="img-circle" src="img/team/rubinghuang.jpeg" alt="Rubing Huang" />
+                                                </div>
+                                                <div class="col-md-4">
+                                                    <div class="team-date padd">
+                                                        <br />
+                                                        <h6><a target="_blank" href="https://huangrubing.github.io/">Rubing Huang</a></h6>
+                                                        <p>Macau University of Science and Technology<br />Macau SAR, China</p>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </td>
-                            </tr>
+                                    </td>
+                                </tr>
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
@@ -381,15 +415,26 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/faustofasano.png" alt="Fausto Fasano" />
+                                                    <img class="img-circle" src="img/team/subrotakumarmondal.jpg" alt="Subrota Kumar Mondal" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="https://dibt.unimol.it/fasano/">Fausto Fasano</a></h6>
-                                                        <p>University of Molise <br /> Italy</p>
+                                                        <h6><a target="_blank" href="https://www.must.edu.mo/en/fi/staff/subrota">Subrota Kumar Mondal</a></h6>
+                                                        <p>Macau University of Science and Technology<br />Macau SAR, China</p>
                                                     </div>
                                                 </div>
+                                                <div class="col-md-2">
+                                                    <img class="img-circle" src="img/team/zhouxu.jpeg" alt="Zhou Xu" />
+                                                </div>
+                                                <div class="col-md-4">
+                                                    <div class="team-date padd">
+                                                        <br />
+                                                        <h6><a target="_blank" href="http://www.cse.cqu.edu.cn/info/2097/5325.htm">Zhou Xu</a></h6>
+                                                        <p>Chongqing University<br />China</p>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </div>
                                     </td>
@@ -397,89 +442,36 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Publicity and Social Media</h3>
+                            <h3>Publicity and Social Media Co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
                             <tbody style="text-align: center;">
-                            <tr>
-                                <td style="border: none; text-align: left;">
-                                    <div class="container">
-                                        <div class="row">
-                                            <div class="col-md-2">
-                                                <img class="img-circle" src="img/team/damian_tamburri.jpg" alt="Damian Andrew Tamburri" />
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="team-date padd">
-                                                    <br />
-                                                    <h6><a target="_blank" href="https://www.researchgate.net/profile/Damian_Tamburri">Damian Andrew Tamburri</a>&nbsp;(Chair)</h6>
-                                                    <p>Polytechnic of Milan <br /> Italy</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </td>
-                            </tr>
-                            </tbody>
-                        </table>
-                        <table class="table" style="width: 100%;">
-                            <tbody>
                                 <tr>
                                     <td style="border: none; text-align: left;">
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/fabioPalomba.JPG" alt="Fabio Palomba" />
+                                                    <img class="img-circle" src="img/team/yuantian.jpg" alt="Yuan Tian" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="https://dibt.unimol.it/staff/fpalomba/">Fabio Palomba</a></h6>
-                                                        <p>TU Delft <br /> The Netherlands</p>
+                                                        <h6><a target="_blank" href="https://sophiaytian.com/">Yuan Tian</a></h6>
+                                                        <p>Queen’s University at Kingston<br />Canada</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/micheleTufano.png" alt="Michele Tufano" />
+                                                    <img class="img-circle" src="img/team/xiaobingsun.jpeg" alt="Xiaobing Sun" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="http://www.cs.wm.edu/~mtufano/">Michele Tufano</a></h6>
-                                                        <p>The College of William and Mary <br />USA</p>
+                                                        <h6><a target="_blank" href="https://risame.github.io/sun/project.html">Xiaobing Sun</a></h6>
+                                                        <p>Yangzhou University<br />China</p>
                                                     </div>
                                                 </div>
-                                            </div>
-                                        </div>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <table class="table" style="width: 100%;">
-                            <tbody>
-                                <tr>
-                                    <td style="border: none; text-align: left;">
-                                        <div class="container">
-                                            <div class="row">
-                                              <div class="col-md-2">
-                                                  <img class="img-circle" src="img/team/geremia.png" alt="Salvatore Geremia" />
-                                              </div>
-                                              <div class="col-md-4">
-                                                  <div class="team-date padd">
-                                                      <br />
-                                                      <h6><a target="_blank" href="#">Salvatore Geremia</a></h6>
-                                                      <p>University of Molise<br />Italy</p>
-                                                  </div>
-                                              </div>
-                                                <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/Fiorella_Zampetti.png" alt="Fiorella Zampetti" />
-                                                </div>
-                                                <div class="col-md-4">
-                                                    <div class="team-date padd">
-                                                        <br />
-                                                        <h6><a target="_blank" href="https://www.researchgate.net/profile/Fiorella_Zampetti">Fiorella Zampetti</a></h6>
-                                                        <p>University of Sannio <br />Italy</p>
-                                                    </div>
-                                                </div>
+
                                             </div>
                                         </div>
                                     </td>
@@ -497,23 +489,23 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-2">
-                                                    <img width="170" height="170" class="img-circle" src="img/team/gabriele_bavota.jpg" alt="Gabriele Bavota" />
+                                                    <img width="170" height="170" class="img-circle" src="img/team/jianqinhgli.jpeg" alt="Jianqing Li" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a href="http://www.inf.usi.ch/faculty/bavota/" target="_blank">Gabriele Bavota</a></h6>
-                                                        <p>Software Institute, Universit&agrave; della Svizzera italiana<br />Switzerland</p>
+                                                        <h6><a href="https://www.must.edu.mo/en/fi/staff/lijianqing" target="_blank">Jianqing Li</a></h6>
+                                                        <p>Macau University of Science and Technology<br />Macau SAR, China</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/simone.jpg" alt="Simone Scalabrino" />
+                                                    <img class="img-circle" src="img/team/yuyangpeng.jpeg" alt="Yuyang Peng" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a href="https://dibt.unimol.it/staff/sscalabrino/home/" target="_blank">Simone Scalabrino</a></h6>
-                                                        <p>University of Molise<br />Italy</p>
+                                                        <h6><a href="https://www.must.edu.mo/en/fi/staff/pengyuyang" target="_blank">Yuyang Peng</a></h6>
+                                                        <p>Macau University of Science and Technology<br />Macau SAR, China</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -522,30 +514,8 @@
                                 </tr>
                             </tbody>
                         </table>
-                        <table class="table" style="width: 100%;">
-                            <tbody>
-                            <tr>
-                                <td style="border: none; text-align: left;">
-                                    <div class="container">
-                                        <div class="row">
-                                            <div class="col-md-2">
-                                                <img class="img-circle" src="img/team/gianni_carugno.png" alt="Gianni Carugno" />
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="team-date padd">
-                                                    <br />
-                                                    <h6><a href="#">Gianni Carugno</a></h6>
-                                                    <p>University of Molise<br />Italy</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </td>
-                            </tr>
-                            </tbody>
-                        </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Web Master</h3>
+                            <h3>Web Chair</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -555,15 +525,26 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/angelo.jpg" alt="Angelo Parziale" />
+                                                    <img class="img-circle" src="img/team/youweihuang.jpeg" alt="Youwei Huang" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a href="http://www.angeloparziale.it/" target="_blank">Angelo Parziale</a></h6>
-                                                        <p>University of Molise<br />Italy</p>
+                                                        <h6><a href="https://www.linkedin.com/in/youwei-huang-354708b0/" target="_blank">Youwei Huang</a></h6>
+                                                        <p>Macau University of Science and Technology<br />Macau SAR, China</p>
                                                     </div>
                                                 </div>
+                                                <div class="col-md-2">
+                                                    <img class="img-circle" src="img/team/yaoli.jpeg" alt="Yao Li" />
+                                                </div>
+                                                <div class="col-md-4">
+                                                    <div class="team-date padd">
+                                                        <br />
+                                                        <h6>Yao Li</h6>
+                                                        <p>Macau University of Science and Technology<br />Macau SAR, China</p>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </div>
                                     </td>
@@ -573,29 +554,36 @@
                     </div>
                 </div>
             </div>
-        </section>
+    </section>
+    <style>
+        .img-circle {
+            width: 155px;
+            height: 155px;
+        }
+    </style>
 
-        <!-- footer -->
-        <?php require_once ('./utils/footer.php') ?>
-        <!-- end footer -->
+    <!-- footer -->
+    <?php require_once('./utils/footer.php') ?>
+    <!-- end footer -->
 
-        <!-- jQuery -->
-        <script src="js/jquery-1.11.1.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery.easing.min.js"></script>
-        <script src="js/jquery.fitvids.js"></script>
-        <script src="js/owl.carousel.js"></script>
-        <script src="js/jquery.ui.totop.min.js"></script>
-        <script src="js/jquery.countTo.js"></script>
-        <script src="js/jquery.placeholder.js"></script>
-        <script src="js/jquery.parallax-1.1.3.js"></script>
-        <script src="js/wow.min.js"></script>
-        <script src="js/main.js"></script>
+    <!-- jQuery -->
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/jquery.fitvids.js"></script>
+    <script src="js/owl.carousel.js"></script>
+    <script src="js/jquery.ui.totop.min.js"></script>
+    <script src="js/jquery.countTo.js"></script>
+    <script src="js/jquery.placeholder.js"></script>
+    <script src="js/jquery.parallax-1.1.3.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/main.js"></script>
 
-        <script>
-            //Animation Wow.js
-            new WOW().init();
-        </script>
+    <script>
+        //Animation Wow.js
+        new WOW().init();
+    </script>
 
-    </body>
+</body>
+
 </html>

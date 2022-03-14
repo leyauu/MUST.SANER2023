@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>SANER 2018 - Campobasso, Italy</title>
+    <title>SANER 2023 - Campobasso, Italy</title>
     <meta charset="utf-8">
-    <meta name="description" content="SANER 2018 - Campobasso, Italy">
+    <meta name="description" content="SANER 2023 - Campobasso, Italy">
     <meta name="author" content="Angelo Parziale"/>
     <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise"/>
     <!-- Bootstrap -->
@@ -82,7 +82,7 @@ require_once('./utils/breadcrumb.php');
                     and a tool demonstration track.
                 </p>
                 <p>
-                    <b>SANER</b> 2018 offer the following supporter packages:
+                    <b>SANER</b> 2023 offer the following supporter packages:
                 </p>
                 <br/>
                 <div class="table-responsive">
@@ -230,7 +230,7 @@ require_once('./utils/breadcrumb.php');
                 <p>Please contact <a target="_blank" href="https://dibt.unimol.it/staff/oliveto/">Rocco Oliveto</a> for
                     more information on these packages.</p>
                 <p>Should none of the packages suite your company, we are open to provide customized supporter packages
-                    (please contact Rocco Oliveto). We appreciate any support that helps us to make SANER 2018 a big
+                    (please contact Rocco Oliveto). We appreciate any support that helps us to make SANER 2023 a big
                     success!</p>
                 <br/>
                 <h3>Sponsored by</h3>

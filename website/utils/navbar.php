@@ -81,11 +81,11 @@
                             ?>
                         ><a>Workshops <span class="caret"></span></a>
                             <ul class="w-200">
-                                <li><a href="blockchainOrientedSoftwareEngineering">IWBOSE 2018</a></li>
-                                <li><a href="softwareClones">IWSC 2018</a></li>
-                                <li><a href="miningAndAnalyzingInteractionHistories">MAINT 2018</a></li>
-                                <li><a href="MachineLearningTechniques">MaLTeSQuE 2018</a></li>
-                                <li><a href="ValidationAnalysisEvolutionSoftwareTests">VST 2018</a></li>
+                                <li><a href="blockchainOrientedSoftwareEngineering">IWBOSE 2023</a></li>
+                                <li><a href="softwareClones">IWSC 2023</a></li>
+                                <li><a href="miningAndAnalyzingInteractionHistories">MAINT 2023</a></li>
+                                <li><a href="MachineLearningTechniques">MaLTeSQuE 2023</a></li>
+                                <li><a href="ValidationAnalysisEvolutionSoftwareTests">VST 2023</a></li>
                             </ul>
                         </li>
                         <!-- /Workshops -->
