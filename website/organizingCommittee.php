@@ -232,7 +232,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Journal First Chair</h3>
+                            <h3>Journal First co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -372,7 +372,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Proceedings Chair</h3>
+                            <h3>Proceedings co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -482,7 +482,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Web Chair</h3>
+                            <h3>Web co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
