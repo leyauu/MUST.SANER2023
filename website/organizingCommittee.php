@@ -50,7 +50,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Program Co-Chairs</h3>
+                            <h3>Program co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -86,7 +86,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>ERA Track Co-Chairs</h3>
+                            <h3>ERA Track co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -124,7 +124,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Tool Demo Track Co-Chairs</h3>
+                            <h3>Tool Demo Track co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -160,7 +160,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Industrial Track Co-Chairs</h3>
+                            <h3>Industrial Track co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -196,7 +196,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>REproducibility Studies and NEgative Results (RENE) Track Co-Chairs</h3>
+                            <h3>REproducibility Studies and NEgative Results (RENE) Track co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -308,7 +308,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Asia-Pacific Forum Co-Chairs</h3>
+                            <h3>Asia-Pacific Forum co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -409,7 +409,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Publicity and Social Media Co-Chairs</h3>
+                            <h3>Publicity and Social Media co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -446,7 +446,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Local Arrangement Co-Chairs</h3>
+                            <h3>Local Arrangement co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
