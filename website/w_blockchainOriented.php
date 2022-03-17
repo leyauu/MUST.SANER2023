@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>SANER 2023 - Campobasso, Italy</title>
+        <title>SANER 2023 - Macau, China</title>
         <meta charset="utf-8">
-        <meta name="description" content="SANER 2023 - Campobasso, Italy">
+        <meta name="description" content="SANER 2023 - Macau, China">
         <meta name="author" content="Angelo Parziale"/>
-        <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise"/>
+        <meta name="keywords" content="saner, html5, css3, Macau, China, molise"/>
         <!-- Bootstrap -->
         <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
 

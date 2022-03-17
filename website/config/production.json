@@ -1,884 +1,878 @@
 {
-  "commiteeMembers": {
-    "researchTrack": [
-      {
-        "name": "Massimiliano Di Penta",
-        "affiliation": "University of Sannio",
-        "nation": "Italy",
-        "website": "http://www.ing.unisannio.it/mdipenta/"
-      },
-      {
-        "name": "David C. Shepherd",
-        "affiliation": "ABB Corporate Research",
-        "nation": "USA",
-        "website": "http://davidshepherd.weebly.com/about.html"
-      },
-      {
-        "name": "Bram Adams",
-        "affiliation": "Ecole Polytechnique De Montreal",
-        "nation": "Canada",
-        "website": "http://mcis.polymtl.ca/bram.html"
-      },
-      {
-        "name": "Giuliano Antoniol",
-        "affiliation": "Ecole Polytechnique De Montreal",
-        "nation": "Canada",
-        "website": "http://www.antoniol.net"
-      },
-      {
-        "name": "Venera Arnaoudova",
-        "affiliation": "Washington State University",
-        "nation": "USA",
-        "website": "https://school.eecs.wsu.edu/people/faculty/venera-arnaoudova/"
-      },
-      {
-        "name": "Gabriele Bavota",
-        "affiliation": "Software Institute, Universit&agrave della Svizzera italiana",
-        "nation": "Switzerland",
-        "website": "http://www.inf.usi.ch/faculty/bavota/"
-      },
-      {
-        "name": "Dave Binkley",
-        "affiliation": "Loyola University Maryland",
-        "nation": "USA",
-        "website": "http://www.cs.loyola.edu/~binkley/"
-      },
-      {
-        "name": "Christian Bird",
-        "affiliation": "Microsoft Research",
-        "nation": "USA",
-        "website": "http://research.microsoft.com/en-us/people/cbird/"
-      },
-      {
-        "name": "Magiel Bruntink",
-        "affiliation": "Software Improvement Group",
-        "nation": "The Netherlands",
-        "website": null
-      },
-      {
-        "name": "Mariano Ceccato",
-        "affiliation": "Fondazione Bruno Kessler",
-        "nation": "Italy",
-        "website": "http://selab.fbk.eu/ceccato/"
-      },
-      {
-        "name": "Anthony Cleve",
-        "affiliation": "University of Namur",
-        "nation": "Belgium",
-        "website": "https://directory.unamur.be/staff/acleve"
-      },
-      {
-        "name": "Michael Collard",
-        "affiliation": "The University of Akron",
-        "nation": "USA",
-        "website": "http://mlcollard.net"
-      },
-      {
-        "name": "Kostadin Damevski",
-        "affiliation": "Virginia Commonwealth University",
-        "nation": "USA",
-        "website": "http://damevski.github.io/"
-      },
-      {
-        "name": "Andrea De Lucia",
-        "affiliation": "University of Salerno",
-        "nation": "Italy",
-        "website": "http://docenti.unisa.it/003241/home"
-      },
-      {
-        "name": "Serge Demeyer",
-        "affiliation": "Universiteit Antwerpen",
-        "nation": "Belgium",
-        "website": "http://win.ua.ac.be/~sdemey/"
-      },
-      {
-        "name": "Rudolf Ferenc",
-        "affiliation": "University of Szeged",
-        "nation": "Hungary",
-        "website": "http://www.inf.u-szeged.hu/~ferenc"
-      },
-      {
-        "name": "Mike Godfrey",
-        "affiliation": "University of Waterloo",
-        "nation": "Canada",
-        "website": "https://plg.uwaterloo.ca/~migod/"
-      },
-      {
-        "name": "Georgios Gousios",
-        "affiliation": "Delft University of Technology",
-        "nation": "The Netherlands",
-        "website": "http://www.gousios.gr"
-      },
-      {
-        "name": "Carmine Gravino",
-        "affiliation": "University of Salerno",
-        "nation": "Italy",
-        "website": "http://docenti.unisa.it/004724/home"
-      },
-      {
-        "name": "Tibor Gyimothy",
-        "affiliation": "University of Szeged",
-        "nation": "Hungary",
-        "website": "http://gyimothy.sed.hu"
-      },
-      {
-        "name": "Sonia Haiduc",
-        "affiliation": "Florida State University",
-        "nation": "USA",
-        "website": "https://www.cs.fsu.edu/~shaiduc/"
-      },
-      {
-        "name": "Shinpei Hayashi",
-        "affiliation": "Tokyo Institute of Technology",
-        "nation": "Japan",
-        "website": "http://www.se.cs.titech.ac.jp/~hayashi/"
-      },
-      {
-        "name": "Abram Hindle",
-        "affiliation": "University of Alberta",
-        "nation": "Canada",
-        "website": "https://softwareprocess.es/static/SoftwareProcess.es.html"
-      },
-      {
-        "name": "Akinori Ihara",
-        "affiliation": "Nara Institute of Science and Technology",
-        "nation": "Japan",
-        "website": "http://akinori-ihara.jpn.org"
-      },
-      {
-        "name": "Katsuro Inoue",
-        "affiliation": "Osaka University",
-        "nation": "Japan",
-        "website": "http://sel.ist.osaka-u.ac.jp/people/inoue/"
-      },
-      {
-        "name": "Yasutaka Kamei",
-        "affiliation": "Kyushu University",
-        "nation": "Japan",
-        "website": "http://posl.ait.kyushu-u.ac.jp/~kamei/"
-      },
-      {
-        "name": "Foutse Khomh",
-        "affiliation": "École Polytechnique de Montréal",
-        "nation": "Canada",
-        "website": "http://www.khomh.net"
-      },
-      {
-        "name": "Dongsun Kim",
-        "affiliation": "University of Luxemburg",
-        "nation": "Luxemburg",
-        "website": "http://www.darkrsw.net"
-      },
-      {
-        "name": "Jens Knodel",
-        "affiliation": "Caruso Dataplace",
-        "nation": "Germany",
-        "website": "http://www.caruso-dataplace.com/about-us/"
-      },
-      {
-        "name": "Takashi Kobayashi",
-        "affiliation": "Tokyo Institute of Technology",
-        "nation": "Japan",
-        "website": "http://www.sa.cs.titech.ac.jp/~tkobaya/"
-      },
-      {
-        "name": "Rainer Koschke",
-        "affiliation": "University of Bremen",
-        "nation": "Germany",
-        "website": "http://www.informatik.uni-bremen.de/~koschke/"
-      },
-      {
-        "name": "Nicholas A. Kraft",
-        "affiliation": "ABB Corporate Research",
-        "nation": "USA",
-        "website": "http://nicholasakraft.com"
-      },
-      {
-        "name": "Lucas Layman",
-        "affiliation": "University of North Carolina Wilmington",
-        "nation": "USA",
-        "website": null
-      },
-      {
-        "name": "Mircea Lungu",
-        "affiliation": "University of Bern",
-        "nation": "Switzerland",
-        "website": "University of Groningen, The Netherlands"
-      },
-      {
-        "name": "Cristina Marinescu",
-        "affiliation": "Politehnica University Timisoara",
-        "nation": "Romania",
-        "website": "http://staff.cs.upt.ro/~cristina/"
-      },
-      {
-        "name": "Shane Mcintosh",
-        "affiliation": "McGill University",
-        "nation": "Canada",
-        "website": "http://shanemcintosh.org"
-      },
-      {
-        "name": "Collin McMillan",
-        "affiliation": "University of Notre Dame",
-        "nation": "USA",
-        "website": "http://www3.nd.edu/~cmc/"
-      },
-      {
-        "name": "Andrea Mocci",
-        "affiliation": "Software Institute, Università della Svizzera italiana",
-        "nation": "Switzerland",
-        "website": "http://www.inf.usi.ch/postdoc/mocci/"
-      },
-      {
-        "name": "Laura Moreno",
-        "affiliation": "Colorado State University",
-        "nation": "USA",
-        "website": "https://www.cs.colostate.edu/~lmorenoc/"
-      },
-      {
-        "name": "Meiyappan Nagappan",
-        "affiliation": "University of Waterloo",
-        "nation": "Canada",
-        "website": "http://mei-nagappan.com"
-      },
-      {
-        "name": "Oscar Nierstrasz",
-        "affiliation": "University of Bern",
-        "nation": "Switzerland",
-        "website": "http://scg.unibe.ch/staff/oscar"
-      },
-      {
-        "name": "Sebastiano Panichella",
-        "affiliation": "University of Zurich",
-        "nation": "Switzerland",
-        "website": "http://www.ifi.uzh.ch/en/seal/people/panichella.html"
-      },
-      {
-        "name": "Xin Peng",
-        "affiliation": "Fudan University",
-        "nation": "China",
-        "website": "http://www.se.fudan.edu.cn/pengxin/"
-      },
-      {
-        "name": "Martin Pinzger",
-        "affiliation": "University of Klagenfurt",
-        "nation": "Austria",
-        "website": "https://serg.aau.at/bin/view/MartinPinzger/WebHome"
-      },
-      {
-        "name": "Denys Poshyvanyk",
-        "affiliation": "College of William and Mary",
-        "nation": "USA",
-        "website": "http://www.cs.wm.edu/~denys/"
-      },
-      {
-        "name": "Romain Robbes",
-        "affiliation": "Free University of Bozen/Bolzano",
-        "nation": "Italy",
-        "website": "https://www.inf.unibz.it/~rrobbes/"
-      },
-      {
-        "name": "Tobias Roehm",
-        "affiliation": "CQSE GmbH",
-        "nation": "Germany",
-        "website": "https://www.cqse.eu/en/team/tobias-roehm/"
-      },
-      {
-        "name": "Chanchal K. Roy",
-        "affiliation": "University of Saskatchewan",
-        "nation": "Canada",
-        "website": "https://www.cs.usask.ca/~croy/"
-      },
-      {
-        "name": "Barbara Russo",
-        "affiliation": "Free University of Bozen/Bolzano",
-        "nation": "Italy",
-        "website": "http://www.inf.unibz.it/~russo/"
-      },
-      {
-        "name": "Giuseppe Scanniello",
-        "affiliation": "University of Basilicata",
-        "nation": "Italy",
-        "website": "http://www2.unibas.it/gscanniello/"
-      },
-      {
-        "name": "Alexander Serebrenik",
-        "affiliation": "Eindhoven University of Technology",
-        "nation": "The Netherlands",
-        "website": "http://www.win.tue.nl/~aserebre/"
-      },
-      {
-        "name": "Emad Shihab",
-        "affiliation": "Concordia University",
-        "nation": "Canada",
-        "website": "http://das.encs.concordia.ca/members/emad-shihab/"
-      },
-      {
-        "name": "Christoph Treude",
-        "affiliation": "University of Adelaide",
-        "nation": "Australia",
-        "website": "http://ctreude.ca"
-      },
-      {
-        "name": "Marco Tulio Valente",
-        "affiliation": "Federal University of Minas Gerais",
-        "nation": "Brazil",
-        "website": "http://homepages.dcc.ufmg.br/~mtov/"
-      },
-      {
-        "name": "Jeroen van den Bos",
-        "affiliation": "Netherlands Forensic Institute",
-        "nation": "The Netherlands",
-        "website": null
-      },
-      {
-        "name": "Ying Zou",
-        "affiliation": "Queen's University",
-        "nation": "Canada",
-        "website": "http://my.ece.queensu.ca/People/Y-Zou/"
-      }
-    ],
-    "era_track": [
-      {
-        "name": "Jens Krinke",
-        "affiliation": "University College London",
-        "nation": "UK",
-        "website": "http://www0.cs.ucl.ac.uk/staff/j.krinke/"
-      },
-      {
-        "name": "Shane McIntosh",
-        "affiliation": "McGill University",
-        "nation": "Canada",
-        "website": "http://shanemcintosh.org/"
-      },
-      {
-        "name": "Mauricio Aniche",
-        "affiliation": "Delft University of Technology",
-        "nation": "the Netherlands",
-        "website": "http://www.mauricioaniche.com"
-      },
-      {
-        "name": "Olga Baysal",
-        "affiliation": "Carleton University",
-        "nation": "Canada",
-        "website": "http://olgabaysal.com/"
-      },
-      {
-        "name": "Alexandre Bergel",
-        "affiliation": "University of Chile",
-        "nation": "Chile",
-        "website": "http://www.bergel.eu"
-      },
-      {
-        "name": "Tse-Hsun Peter Chen",
-        "affiliation": "Concordia University",
-        "nation": "Canada",
-        "website": "http://petertsehsun.github.io/"
-      },
-      {
-        "name": "Eleni Constantinou",
-        "affiliation": "University of Mons",
-        "nation": "Belgium",
-        "website": "http://www.econst.eu"
-      },
-      {
-        "name": "Thomas Durieux",
-        "affiliation": "INRIA",
-        "nation": "France",
-        "website": "https://durieux.me"
-      },
-      {
-        "name": "Marco Gerosa",
-        "affiliation": "Northern Arizona University",
-        "nation": "USA",
-        "website": "http://www.marcoagerosa.com"
-      },
-      {
-        "name": "Hideaki Hata",
-        "affiliation": "Nara Institute of Science and Technology",
-        "nation": "Japan",
-        "website": "http://isw3.naist.jp/~hata/"
-      },
-      {
-        "name": "Syed Islam",
-        "affiliation": "University of East London",
-        "nation": "UK",
-        "website": "http://syedislam.com"
-      },
-      {
-        "name": "Kamil Jezek",
-        "affiliation": "University of West Bohemia",
-        "nation": "Czech Republic",
-        "website": "https://www.linkedin.com/in/kamiljezek/"
-      },
-      {
-        "name": "Akos Kiss",
-        "affiliation": "University of Szeged",
-        "nation": "Hungary",
-        "website": "http://www.inf.u-szeged.hu/~akiss/"
-      },
-      {
-        "name": "Raula Gaikovina Kula",
-        "affiliation": "Nara Institute of Science and Technology",
-        "nation": "Japan",
-        "website": null
-      },
-      {
-        "name": "Tanja Mayerhofer",
-        "affiliation": "TU Vienna",
-        "nation": "Austria",
-        "website": "https://www.big.tuwien.ac.at/people/tmayerhofer/"
-      },
-      {
-        "name": "Christian Newman",
-        "affiliation": "Rochester Institute of Technology",
-        "nation": "USA",
-        "website": "https://www.rit.edu/gccis/christian-d-newman"
-      },
-      {
-        "name": "Jos&eacute Carlos Ribeiro",
-        "affiliation": "Polytechnic Institute of Leiria",
-        "nation": "Portugal",
-        "website": null
-      },
-      {
-        "name": "Sandro Schulze",
-        "affiliation": "Otto-von-Guericke-University Magdeburg",
-        "nation": "Germany",
-        "website": "http://www.dbse.ovgu.de/Mitarbeiter/Sandro+Schulze.html"
-      },
-      {
-        "name": "Yuan Tian",
-        "affiliation": "Singapore Management University",
-        "nation": "Singapore",
-        "website": "http://www.mysmu.edu/phdis2012/yuan.tian.2012/"
-      },
-      {
-        "name": "Aiko Yamashita",
-        "affiliation": "Oslo and Akershus University College",
-        "nation": "Norway",
-        "website": "https://www.linkedin.com/in/aikofallasyamashita"
-      },
-      {
-        "name": "Yibiao Yang",
-        "affiliation": "Nanjing University",
-        "nation": "China",
-        "website": null
-      },
-      {
-        "name": "Vadim Zaytsev",
-        "affiliation": "Raincode Labs",
-        "nation": "belgium",
-        "website": "http://grammarware.net"
-      },
-      {
-        "name": "Yuanyuan Zhang",
-        "affiliation": "University College London",
-        "nation": "UK",
-        "website": "http://www0.cs.ucl.ac.uk/staff/Yuanyuan.Zhang/index.html"
-      }
-    ],
-    "tool_track": [
-      {
-        "name": "Mario Linares Vasquez",
-        "affiliation": "Universidad de los Andes",
-        "nation": "Colombia",
-        "website": "https://profesores.virtual.uniandes.edu.co/mlinaresv/"
-      },
-      {
-        "name": "Luca Ponzanelli",
-        "affiliation": "Software Institute, Università della Svizzera italiana",
-        "nation": "Switzerland",
-        "website": "http://www.inf.usi.ch/phd/ponzanelli/"
-      },
-      {
-        "name": "Jairo Aponte",
-        "affiliation": "Universidad Nacional de Colombia",
-        "nation": "Colombia",
-        "website": "http://www.docentes.unal.edu.co/jhapontem/"
-      },
-      {
-        "name": "Moritz Beller",
-        "affiliation": "Delft University of Technology",
-        "nation": "the Netherlands",
-        "website": "https://inventitech.com"
-      },
-      {
-        "name": "Coen De Roover",
-        "affiliation": "Vrije Universiteit Brussel",
-        "nation": "Belgium",
-        "website": "http://soft.vub.ac.be/~cderoove/"
-      },
-      {
-        "name": "Bogdan Dit",
-        "affiliation": "Boise State University",
-        "nation": "USA",
-        "website": "http://cs.boisestate.edu/~bdit/"
-      },
-      {
-        "name": "Yann-Gaël Guéhéneuc",
-        "affiliation": "Concordia University",
-        "nation": "Canada",
-        "website": "http://www.yann-gael.gueheneuc.net/Work/Info/"
-      },
-      {
-        "name": "Davood Mazinanian",
-        "affiliation": "Concordia University",
-        "nation": "Canada",
-        "website": "http://dmazinanian.me"
-      },
-      {
-        "name": "Fabio Palomba",
-        "affiliation": "Delft University of Technology",
-        "nation": "the Netherlands",
-        "website": "https://dibt.unimol.it/fpalomba/"
-      },
-      {
-        "name": "Sebastian Proksch",
-        "affiliation": "University of Zurich",
-        "nation": "Switzerland",
-        "website": "http://proks.ch"
-      },
-      {
-        "name": "Gregorio Robles",
-        "affiliation": "Universidad Rey Juan Carlos",
-        "nation": "Spain",
-        "website": "https://gsyc.urjc.es/~grex/"
-      },
-      {
-        "name": "Simone Scalabrino",
-        "affiliation": "University of Molise",
-        "nation": "Italy",
-        "website": "http://dibt.unimol.it/staff/sscalabrino"
-      },
-      {
-        "name": "Bonita Sharif",
-        "affiliation": "Youngstown State University",
-        "nation": "USA",
-        "website": "http://www.csis.ysu.edu/~bsharif/"
-      },
-      {
-        "name": "Christopher Vendome",
-        "affiliation": "The College of William and Mary",
-        "nation": "USA",
-        "website": null
-      }
-    ],
-    "industry_track": [
-      {
-        "name": "Dongmei Zhang",
-        "affiliation": "Microsoft Research",
-        "nation": "China",
-        "website": "https://www.microsoft.com/en-us/research/people/dongmeiz/"
-      },
-      {
-        "name": "Neha Rungta",
-        "affiliation": "Amazon Web Services",
-        "nation": "USA",
-        "website": "https://www.linkedin.com/in/neharungta/"
-      },
-      {
-        "name": "Mathieu Goeminne",
-        "affiliation": "University of Mons",
-        "nation": "Belgium",
-        "website": "https://www.cetic.be/Mathieu-Goeminne"
-      },
-      {
-        "name": "Takashi Kobayashi",
-        "affiliation": "The University of Tokyo",
-        "nation": "Japan",
-        "website": "http://www.sa.cs.titech.ac.jp/~tkobaya/"
-      },
-      {
-        "name": "David Lo",
-        "affiliation": "Singapore Management University",
-        "nation": "Singapore",
-        "website": "http://www.mysmu.edu/faculty/davidlo/"
-      },
-      {
-        "name": "Diptikalyan Saha",
-        "affiliation": "IBM Research",
-        "nation": "India",
-        "website": "http://researcher.watson.ibm.com/researcher/view.php?person=in-diptsaha"
-      },
-      {
-        "name": "Sagar Sen",
-        "affiliation": "Simula Research Laboratory",
-        "nation": "Norway",
-        "website": "http://lifeinflow.org"
-      },
-      {
-        "name": "Weiyi Shang",
-        "affiliation": "Concordia University",
-        "nation": "Canada",
-        "website": "http://users.encs.concordia.ca/~shang/"
-      },
-      {
-        "name": "Vibha Sinha",
-        "affiliation": "IBM Watson",
-        "nation": "USA",
-        "website": "https://researcher.watson.ibm.com/researcher/view.php?person=us-vibha.sinha"
-      },
-      {
-        "name": "Jeroen van den Bos",
-        "affiliation": "Netherlands Forensic Institute",
-        "nation": "the Netherlands",
-        "website": "http://jvdb.org/"
-      },
-      {
-        "name": "Hongyu Zhang",
-        "affiliation": "The University of Newcastle",
-        "nation": "Australia",
-        "website": "https://sites.google.com/site/hongyujohn/"
-      }
-    ],
-    "rene_track": [
-      {
-        "name": "Neil Ernst",
-        "affiliation": "University of Victoria",
-        "nation": "Canada",
-        "website": "https://www.uvic.ca/engineering/software/research/our-researchers/ernst-neil.php"
-      },
-      {
-        "name": "Denys Poshyvanyk",
-        "affiliation": "The College of William and Mary",
-        "nation": "USA",
-        "website": "http://www.cs.wm.edu/~denys/"
-      },
-      {
-        "name": "Giuliano Antoniol",
-        "affiliation": "Ecole Polytechnique de Montréal",
-        "nation": "Canada",
-        "website": "http://www.antoniol.net"
-      },
-      {
-        "name": "Gabriele Bavota",
-        "affiliation": "Software Institute, Università della Svizzera italiana",
-        "nation": "Switzerland",
-        "website": "http://www.inf.unibz.it/~gbavota/"
-      },
-      {
-        "name": "Christian Bird",
-        "affiliation": "Microsoft Research",
-        "nation": "USA",
-        "website": "https://www.microsoft.com/en-us/research/people/cbird/"
-      },
-      {
-        "name": "Jordi Cabot",
-        "affiliation": "ICREA - UOC (Internet interdisciplinary institute)",
-        "nation": "Spain",
-        "website": "https://jordicabot.com"
-      },
-      {
-        "name": "Nicholas A. Kraft",
-        "affiliation": "ABB Corporate Research",
-        "nation": "USA",
-        "website": "http://nicholasakraft.com"
-      },
-      {
-        "name": "Anna Perini",
-        "affiliation": "Fondazione Bruno Kessler",
-        "nation": "Italy",
-        "website": "https://se.fbk.eu/perini"
-      },
-      {
-        "name": "Alexander Serebrenik",
-        "affiliation": "Eindhoven University of Technology",
-        "nation": "The Netherlands",
-        "website": "http://www.win.tue.nl/~aserebre/"
-      },
-      {
-        "name": "Ayse Tosun",
-        "affiliation": "Istanbul Technical University",
-        "nation": "Turkey",
-        "website": "http://web.itu.edu.tr/~tosunay/"
-      }
-    ],
-    "journalTrack": [
-      {
-        "name": "Julia Rubin",
-        "affiliation": "University of British Columbia",
-        "nation": "Canada",
-        "website": "http://www.ece.ubc.ca/~mjulia/"
-      },
-      {
-        "name": "Paris Avgeriou",
-        "affiliation": "University of Groningen",
-        "nation": "The Netherlands",
-        "website": "http://www.cs.rug.nl/~paris/"
-      },
-      {
-        "name": "Gerardo Canfora",
-        "affiliation": "University of Sannio",
-        "nation": "Italy",
-        "website": "https://www.icse2023.org/profile/gerardocanfora"
-      },
-      {
-        "name": "Darren Dalcher",
-        "affiliation": "University of Hertfordshire",
-        "nation": "UK",
-        "website": "http://researchprofiles.herts.ac.uk/portal/en/persons/darren-dalcher(f67433c9-9939-4b48-b2d7-3ab68c143d17).html"
-      },
-      {
-        "name": "Massimiliano Di Penta",
-        "affiliation": "University of Sannio",
-        "nation": "Italy",
-        "website": "http://www.ing.unisannio.it/mdipenta/"
-      },
-      {
-        "name": "Rocco Oliveto",
-        "affiliation": "University of Molise",
-        "nation": "Italy",
-        "website": "https://dibt.unimol.it/staff/oliveto/"
-      },
-      {
-        "name": "David Raffo",
-        "affiliation": "Portland State University",
-        "nation": "USA",
-        "website": "https://www.pdx.edu/sba/david-raffo"
-      },
-      {
-        "name": "David C. Shepherd",
-        "affiliation": "ABB Corporate Research",
-        "nation": "USA",
-        "website": "http://davidshepherd.weebly.com/about.html"
-      }
-    ]
-  },
-  "steeringCommittee": {
-    "parte_uno": [
-      {
-        "name": "Serge Demeyer",
-        "affiliation": "University of Antwerp",
-        "website": "http://win.ua.ac.be/~sdemey/",
-        "img": "img/steering/SergeDemeyer.png"
-      },
-      {
-        "name": "Bram Adams",
-        "affiliation": "École Polytechnique de Montréal",
-        "website": "http://mcis.polymtl.ca/bram.html",
-        "img": "img/steering/BramAdams.png"
-      },
-      {
-        "name": "Elliot Chikofsky",
-        "affiliation": "PathBridge",
-        "website": "http://pathbridge.net/chikofsky/",
-        "img": "img/steering/ElliotChikofsky.png"
-      },
-      {
-        "name": "Foutse Khomh",
-        "affiliation": "Ecole Polytechnique de Montréal",
-        "website": "http://www.khomh.net",
-        "img": "img/steering/foutse.jpg"
-      }
-    ],
-    "parte_due": [
-      {
-        "name": "Rick Kazman",
-        "affiliation": "University of Hawaii at Mānoa",
-        "website": "http://shidler.hawaii.edu/directory/rick-kazman/itm",
-        "img": "img/steering/rick-kazamn.png"
-      },
-      {
-        "name": "Martin Pinzger",
-        "affiliation": "Alpen-Adria Universität Klagenfurt",
-        "website": "http://serg.aau.at/bin/view/MartinPinzger/WebHome",
-        "img": "img/steering/martin.png"
-      },
-      {
-        "name": "Yann-Gaël Guéhéneuc",
-        "affiliation": "Concordia University",
-        "website": "http://www.yann-gael.gueheneuc.net/Work/Info/",
-        "img": "img/steering/YannGaelGueheneuc.png"
-      },
-      {
-        "name": "Yasutaka Kamei",
-        "affiliation": "Kyushu University",
-        "website": "http://posl.ait.kyushu-u.ac.jp/~kamei/",
-        "img": "img/steering/yasutaka.png"
-      }
-    ]
-  },
-  "workshops": {
-    "blockchainOrientedSoftwareEngineering": [
-      {
-       "name": "Roberto Tonelli",
-        "affiliation": "University of Cagliari",
-        "nation": "Italy"
-      },
-      {
-        "name": "Gianni Fenu",
-        "affiliation": "University of Cagliari",
-        "nation": "Italy"
-      },
-      {
-        "name": "Andrea Bracciali",
-        "affiliation": "University of Stirling",
-        "nation": "UK"
-      },
-      {
-        "name": "Stephane Ducasse",
-        "affiliation": "INRIA",
-        "nation": "France"
-      }
-    ],
-    "softwareClones": [
-      {
-        "name": "Ying Zou",
-        "affiliation": "Queen’s University",
-        "nation": "Canada"
-      },
-      {
-        "name": "Matthew Stephan",
-        "affiliation": "Miami University",
-        "nation": "USA"
-      }
-    ],
-    "MiningandAnalyzing": [
-      {
-        "name": "Shinpei Hayashi",
-        "affiliation": "Tokyo Tech",
-        "nation": "Japan"
-      },
-      {
-        "name": "Andrea Mocci",
-        "affiliation": "Università della Svizzera Italiana",
-        "nation": "Swizerland"
-      }
-    ],
-    "MachineLearningTechniques": [
-      {
-        "name": "Francesca Arcelli Fontana",
-        "affiliation": "University of Milano-Bicocca",
-        "nation": "italy"
-      },
-      {
-        "name": "Bartosz Walter",
-        "affiliation": "Poznań University of Technology Poznań",
-        "nation": "Poland"
-      },
-      {
-      "name": "Apostolos Ampatzoglou",
-      "affiliation": "University of Macedonia Thessaloniki",
-      "nation": "Greece"
-      },
-      {
-      "name": "Fabio Palomba",
-      "affiliation": "Delft University of Technology",
-      "nation": "The Netherlands"
-      }
-    ],
-    "ValidationAnalysisSoftwareTest": [
-      {
-        "name": "Cyrille Artho",
-        "affiliation": "KTH Royal Institute of Technology",
-        "nation": "Sweden"
-      },
-      {
-        "name": "Rudolf Ramler",
-        "affiliation": "Software Competence Center Hagenberg",
-        "nation": "Austria"
-      }
-    ]
-  }
+    "commiteeMembers": {
+        "researchTrack": [
+            {
+                "name": "Massimiliano Di Penta",
+                "affiliation": "University of Sannio",
+                "nation": "China",
+                "website": "http://www.ing.unisannio.it/mdipenta/"
+            },
+            {
+                "name": "David C. Shepherd",
+                "affiliation": "ABB Corporate Research",
+                "nation": "USA",
+                "website": "http://davidshepherd.weebly.com/about.html"
+            },
+            {
+                "name": "Bram Adams",
+                "affiliation": "Ecole Polytechnique De Montreal",
+                "nation": "Canada",
+                "website": "http://mcis.polymtl.ca/bram.html"
+            },
+            {
+                "name": "Giuliano Antoniol",
+                "affiliation": "Ecole Polytechnique De Montreal",
+                "nation": "Canada",
+                "website": "http://www.antoniol.net"
+            },
+            {
+                "name": "Venera Arnaoudova",
+                "affiliation": "Washington State University",
+                "nation": "USA",
+                "website": "https://school.eecs.wsu.edu/people/faculty/venera-arnaoudova/"
+            },
+            {
+                "name": "Gabriele Bavota",
+                "affiliation": "Software Institute, Universit&agrave della Svizzera italiana",
+                "nation": "Switzerland",
+                "website": "http://www.inf.usi.ch/faculty/bavota/"
+            },
+            {
+                "name": "Dave Binkley",
+                "affiliation": "Loyola University Maryland",
+                "nation": "USA",
+                "website": "http://www.cs.loyola.edu/~binkley/"
+            },
+            {
+                "name": "Christian Bird",
+                "affiliation": "Microsoft Research",
+                "nation": "USA",
+                "website": "http://research.microsoft.com/en-us/people/cbird/"
+            },
+            {
+                "name": "Magiel Bruntink",
+                "affiliation": "Software Improvement Group",
+                "nation": "The Netherlands",
+                "website": null
+            },
+            {
+                "name": "Mariano Ceccato",
+                "affiliation": "Fondazione Bruno Kessler",
+                "nation": "China",
+                "website": "http://selab.fbk.eu/ceccato/"
+            },
+            {
+                "name": "Anthony Cleve",
+                "affiliation": "University of Namur",
+                "nation": "Belgium",
+                "website": "https://directory.unamur.be/staff/acleve"
+            },
+            {
+                "name": "Michael Collard",
+                "affiliation": "The University of Akron",
+                "nation": "USA",
+                "website": "http://mlcollard.net"
+            },
+            {
+                "name": "Kostadin Damevski",
+                "affiliation": "Virginia Commonwealth University",
+                "nation": "USA",
+                "website": "http://damevski.github.io/"
+            },
+            {
+                "name": "Andrea De Lucia",
+                "affiliation": "University of Salerno",
+                "nation": "China",
+                "website": "http://docenti.unisa.it/003241/home"
+            },
+            {
+                "name": "Serge Demeyer",
+                "affiliation": "Universiteit Antwerpen",
+                "nation": "Belgium",
+                "website": "http://win.ua.ac.be/~sdemey/"
+            },
+            {
+                "name": "Rudolf Ferenc",
+                "affiliation": "University of Szeged",
+                "nation": "Hungary",
+                "website": "http://www.inf.u-szeged.hu/~ferenc"
+            },
+            {
+                "name": "Mike Godfrey",
+                "affiliation": "University of Waterloo",
+                "nation": "Canada",
+                "website": "https://plg.uwaterloo.ca/~migod/"
+            },
+            {
+                "name": "Georgios Gousios",
+                "affiliation": "Delft University of Technology",
+                "nation": "The Netherlands",
+                "website": "http://www.gousios.gr"
+            },
+            {
+                "name": "Carmine Gravino",
+                "affiliation": "University of Salerno",
+                "nation": "China",
+                "website": "http://docenti.unisa.it/004724/home"
+            },
+            {
+                "name": "Tibor Gyimothy",
+                "affiliation": "University of Szeged",
+                "nation": "Hungary",
+                "website": "http://gyimothy.sed.hu"
+            },
+            {
+                "name": "Sonia Haiduc",
+                "affiliation": "Florida State University",
+                "nation": "USA",
+                "website": "https://www.cs.fsu.edu/~shaiduc/"
+            },
+            {
+                "name": "Shinpei Hayashi",
+                "affiliation": "Tokyo Institute of Technology",
+                "nation": "Japan",
+                "website": "http://www.se.cs.titech.ac.jp/~hayashi/"
+            },
+            {
+                "name": "Abram Hindle",
+                "affiliation": "University of Alberta",
+                "nation": "Canada",
+                "website": "https://softwareprocess.es/static/SoftwareProcess.es.html"
+            },
+            {
+                "name": "Akinori Ihara",
+                "affiliation": "Nara Institute of Science and Technology",
+                "nation": "Japan",
+                "website": "http://akinori-ihara.jpn.org"
+            },
+            {
+                "name": "Katsuro Inoue",
+                "affiliation": "Osaka University",
+                "nation": "Japan",
+                "website": "http://sel.ist.osaka-u.ac.jp/people/inoue/"
+            },
+            {
+                "name": "Yasutaka Kamei",
+                "affiliation": "Kyushu University",
+                "nation": "Japan",
+                "website": "http://posl.ait.kyushu-u.ac.jp/~kamei/"
+            },
+            {
+                "name": "Foutse Khomh",
+                "affiliation": "École Polytechnique de Montréal",
+                "nation": "Canada",
+                "website": "http://www.khomh.net"
+            },
+            {
+                "name": "Dongsun Kim",
+                "affiliation": "University of Luxemburg",
+                "nation": "Luxemburg",
+                "website": "http://www.darkrsw.net"
+            },
+            {
+                "name": "Jens Knodel",
+                "affiliation": "Caruso Dataplace",
+                "nation": "Germany",
+                "website": "http://www.caruso-dataplace.com/about-us/"
+            },
+            {
+                "name": "Takashi Kobayashi",
+                "affiliation": "Tokyo Institute of Technology",
+                "nation": "Japan",
+                "website": "http://www.sa.cs.titech.ac.jp/~tkobaya/"
+            },
+            {
+                "name": "Rainer Koschke",
+                "affiliation": "University of Bremen",
+                "nation": "Germany",
+                "website": "http://www.informatik.uni-bremen.de/~koschke/"
+            },
+            {
+                "name": "Nicholas A. Kraft",
+                "affiliation": "ABB Corporate Research",
+                "nation": "USA",
+                "website": "http://nicholasakraft.com"
+            },
+            {
+                "name": "Lucas Layman",
+                "affiliation": "University of North Carolina Wilmington",
+                "nation": "USA",
+                "website": null
+            },
+            {
+                "name": "Mircea Lungu",
+                "affiliation": "University of Bern",
+                "nation": "Switzerland",
+                "website": "University of Groningen, The Netherlands"
+            },
+            {
+                "name": "Cristina Marinescu",
+                "affiliation": "Politehnica University Timisoara",
+                "nation": "Romania",
+                "website": "http://staff.cs.upt.ro/~cristina/"
+            },
+            {
+                "name": "Shane Mcintosh",
+                "affiliation": "McGill University",
+                "nation": "Canada",
+                "website": "http://shanemcintosh.org"
+            },
+            {
+                "name": "Collin McMillan",
+                "affiliation": "University of Notre Dame",
+                "nation": "USA",
+                "website": "http://www3.nd.edu/~cmc/"
+            },
+            {
+                "name": "Andrea Mocci",
+                "affiliation": "Software Institute, Università della Svizzera italiana",
+                "nation": "Switzerland",
+                "website": "http://www.inf.usi.ch/postdoc/mocci/"
+            },
+            {
+                "name": "Laura Moreno",
+                "affiliation": "Colorado State University",
+                "nation": "USA",
+                "website": "https://www.cs.colostate.edu/~lmorenoc/"
+            },
+            {
+                "name": "Meiyappan Nagappan",
+                "affiliation": "University of Waterloo",
+                "nation": "Canada",
+                "website": "http://mei-nagappan.com"
+            },
+            {
+                "name": "Oscar Nierstrasz",
+                "affiliation": "University of Bern",
+                "nation": "Switzerland",
+                "website": "http://scg.unibe.ch/staff/oscar"
+            },
+            {
+                "name": "Sebastiano Panichella",
+                "affiliation": "University of Zurich",
+                "nation": "Switzerland",
+                "website": "http://www.ifi.uzh.ch/en/seal/people/panichella.html"
+            },
+            {
+                "name": "Xin Peng",
+                "affiliation": "Fudan University",
+                "nation": "China",
+                "website": "http://www.se.fudan.edu.cn/pengxin/"
+            },
+            {
+                "name": "Martin Pinzger",
+                "affiliation": "University of Klagenfurt",
+                "nation": "Austria",
+                "website": "https://serg.aau.at/bin/view/MartinPinzger/WebHome"
+            },
+            {
+                "name": "Denys Poshyvanyk",
+                "affiliation": "College of William and Mary",
+                "nation": "USA",
+                "website": "http://www.cs.wm.edu/~denys/"
+            },
+            {
+                "name": "Romain Robbes",
+                "affiliation": "Free University of Bozen/Bolzano",
+                "nation": "China",
+                "website": "https://www.inf.unibz.it/~rrobbes/"
+            },
+            {
+                "name": "Tobias Roehm",
+                "affiliation": "CQSE GmbH",
+                "nation": "Germany",
+                "website": "https://www.cqse.eu/en/team/tobias-roehm/"
+            },
+            {
+                "name": "Chanchal K. Roy",
+                "affiliation": "University of Saskatchewan",
+                "nation": "Canada",
+                "website": "https://www.cs.usask.ca/~croy/"
+            },
+            {
+                "name": "Barbara Russo",
+                "affiliation": "Free University of Bozen/Bolzano",
+                "nation": "China",
+                "website": "http://www.inf.unibz.it/~russo/"
+            },
+            {
+                "name": "Giuseppe Scanniello",
+                "affiliation": "University of Basilicata",
+                "nation": "China",
+                "website": "http://www2.unibas.it/gscanniello/"
+            },
+            {
+                "name": "Alexander Serebrenik",
+                "affiliation": "Eindhoven University of Technology",
+                "nation": "The Netherlands",
+                "website": "http://www.win.tue.nl/~aserebre/"
+            },
+            {
+                "name": "Emad Shihab",
+                "affiliation": "Concordia University",
+                "nation": "Canada",
+                "website": "http://das.encs.concordia.ca/members/emad-shihab/"
+            },
+            {
+                "name": "Christoph Treude",
+                "affiliation": "University of Adelaide",
+                "nation": "Australia",
+                "website": "http://ctreude.ca"
+            },
+            {
+                "name": "Marco Tulio Valente",
+                "affiliation": "Federal University of Minas Gerais",
+                "nation": "Brazil",
+                "website": "http://homepages.dcc.ufmg.br/~mtov/"
+            },
+            {
+                "name": "Jeroen van den Bos",
+                "affiliation": "Netherlands Forensic Institute",
+                "nation": "The Netherlands",
+                "website": null
+            },
+            {
+                "name": "Ying Zou",
+                "affiliation": "Queen's University",
+                "nation": "Canada",
+                "website": "http://my.ece.queensu.ca/People/Y-Zou/"
+            }
+        ],
+        "era_track": [
+            {
+                "name": "Jens Krinke",
+                "affiliation": "University College London",
+                "nation": "UK",
+                "website": "http://www0.cs.ucl.ac.uk/staff/j.krinke/"
+            },
+            {
+                "name": "Shane McIntosh",
+                "affiliation": "McGill University",
+                "nation": "Canada",
+                "website": "http://shanemcintosh.org/"
+            },
+            {
+                "name": "Mauricio Aniche",
+                "affiliation": "Delft University of Technology",
+                "nation": "the Netherlands",
+                "website": "http://www.mauricioaniche.com"
+            },
+            {
+                "name": "Olga Baysal",
+                "affiliation": "Carleton University",
+                "nation": "Canada",
+                "website": "http://olgabaysal.com/"
+            },
+            {
+                "name": "Alexandre Bergel",
+                "affiliation": "University of Chile",
+                "nation": "Chile",
+                "website": "http://www.bergel.eu"
+            },
+            {
+                "name": "Tse-Hsun Peter Chen",
+                "affiliation": "Concordia University",
+                "nation": "Canada",
+                "website": "http://petertsehsun.github.io/"
+            },
+            {
+                "name": "Eleni Constantinou",
+                "affiliation": "University of Mons",
+                "nation": "Belgium",
+                "website": "http://www.econst.eu"
+            },
+            {
+                "name": "Thomas Durieux",
+                "affiliation": "INRIA",
+                "nation": "France",
+                "website": "https://durieux.me"
+            },
+            {
+                "name": "Marco Gerosa",
+                "affiliation": "Northern Arizona University",
+                "nation": "USA",
+                "website": "http://www.marcoagerosa.com"
+            },
+            {
+                "name": "Hideaki Hata",
+                "affiliation": "Nara Institute of Science and Technology",
+                "nation": "Japan",
+                "website": "http://isw3.naist.jp/~hata/"
+            },
+            {
+                "name": "Syed Islam",
+                "affiliation": "University of East London",
+                "nation": "UK",
+                "website": "http://syedislam.com"
+            },
+            {
+                "name": "Kamil Jezek",
+                "affiliation": "University of West Bohemia",
+                "nation": "Czech Republic",
+                "website": "https://www.linkedin.com/in/kamiljezek/"
+            },
+            {
+                "name": "Akos Kiss",
+                "affiliation": "University of Szeged",
+                "nation": "Hungary",
+                "website": "http://www.inf.u-szeged.hu/~akiss/"
+            },
+            {
+                "name": "Raula Gaikovina Kula",
+                "affiliation": "Nara Institute of Science and Technology",
+                "nation": "Japan",
+                "website": null
+            },
+            {
+                "name": "Tanja Mayerhofer",
+                "affiliation": "TU Vienna",
+                "nation": "Austria",
+                "website": "https://www.big.tuwien.ac.at/people/tmayerhofer/"
+            },
+            {
+                "name": "Christian Newman",
+                "affiliation": "Rochester Institute of Technology",
+                "nation": "USA",
+                "website": "https://www.rit.edu/gccis/christian-d-newman"
+            },
+            {
+                "name": "Jos&eacute Carlos Ribeiro",
+                "affiliation": "Polytechnic Institute of Leiria",
+                "nation": "Portugal",
+                "website": null
+            },
+            {
+                "name": "Sandro Schulze",
+                "affiliation": "Otto-von-Guericke-University Magdeburg",
+                "nation": "Germany",
+                "website": "http://www.dbse.ovgu.de/Mitarbeiter/Sandro+Schulze.html"
+            },
+            {
+                "name": "Yuan Tian",
+                "affiliation": "Singapore Management University",
+                "nation": "Singapore",
+                "website": "http://www.mysmu.edu/phdis2012/yuan.tian.2012/"
+            },
+            {
+                "name": "Aiko Yamashita",
+                "affiliation": "Oslo and Akershus University College",
+                "nation": "Norway",
+                "website": "https://www.linkedin.com/in/aikofallasyamashita"
+            },
+            {
+                "name": "Yibiao Yang",
+                "affiliation": "Nanjing University",
+                "nation": "China",
+                "website": null
+            },
+            {
+                "name": "Vadim Zaytsev",
+                "affiliation": "Raincode Labs",
+                "nation": "belgium",
+                "website": "http://grammarware.net"
+            },
+            {
+                "name": "Yuanyuan Zhang",
+                "affiliation": "University College London",
+                "nation": "UK",
+                "website": "http://www0.cs.ucl.ac.uk/staff/Yuanyuan.Zhang/index.html"
+            }
+        ],
+        "tool_track": [
+            {
+                "name": "Mario Linares Vasquez",
+                "affiliation": "Universidad de los Andes",
+                "nation": "Colombia",
+                "website": "https://profesores.virtual.uniandes.edu.co/mlinaresv/"
+            },
+            {
+                "name": "Luca Ponzanelli",
+                "affiliation": "Software Institute, Università della Svizzera italiana",
+                "nation": "Switzerland",
+                "website": "http://www.inf.usi.ch/phd/ponzanelli/"
+            },
+            {
+                "name": "Jairo Aponte",
+                "affiliation": "Universidad Nacional de Colombia",
+                "nation": "Colombia",
+                "website": "http://www.docentes.unal.edu.co/jhapontem/"
+            },
+            {
+                "name": "Moritz Beller",
+                "affiliation": "Delft University of Technology",
+                "nation": "the Netherlands",
+                "website": "https://inventitech.com"
+            },
+            {
+                "name": "Coen De Roover",
+                "affiliation": "Vrije Universiteit Brussel",
+                "nation": "Belgium",
+                "website": "http://soft.vub.ac.be/~cderoove/"
+            },
+            {
+                "name": "Bogdan Dit",
+                "affiliation": "Boise State University",
+                "nation": "USA",
+                "website": "http://cs.boisestate.edu/~bdit/"
+            },
+            {
+                "name": "Yann-Gaël Guéhéneuc",
+                "affiliation": "Concordia University",
+                "nation": "Canada",
+                "website": "http://www.yann-gael.gueheneuc.net/Work/Info/"
+            },
+            {
+                "name": "Davood Mazinanian",
+                "affiliation": "Concordia University",
+                "nation": "Canada",
+                "website": "http://dmazinanian.me"
+            },
+            {
+                "name": "Fabio Palomba",
+                "affiliation": "Delft University of Technology",
+                "nation": "the Netherlands",
+                "website": "https://dibt.unimol.it/fpalomba/"
+            },
+            {
+                "name": "Sebastian Proksch",
+                "affiliation": "University of Zurich",
+                "nation": "Switzerland",
+                "website": "http://proks.ch"
+            },
+            {
+                "name": "Gregorio Robles",
+                "affiliation": "Universidad Rey Juan Carlos",
+                "nation": "Spain",
+                "website": "https://gsyc.urjc.es/~grex/"
+            },
+            {
+                "name": "Simone Scalabrino",
+                "affiliation": "University of Molise",
+                "nation": "China",
+                "website": "http://dibt.unimol.it/staff/sscalabrino"
+            },
+            {
+                "name": "Bonita Sharif",
+                "affiliation": "Youngstown State University",
+                "nation": "USA",
+                "website": "http://www.csis.ysu.edu/~bsharif/"
+            },
+            {
+                "name": "Christopher Vendome",
+                "affiliation": "The College of William and Mary",
+                "nation": "USA",
+                "website": null
+            }
+        ],
+        "industry_track": [
+            {
+                "name": "Dongmei Zhang",
+                "affiliation": "Microsoft Research",
+                "nation": "China",
+                "website": "https://www.microsoft.com/en-us/research/people/dongmeiz/"
+            },
+            {
+                "name": "Neha Rungta",
+                "affiliation": "Amazon Web Services",
+                "nation": "USA",
+                "website": "https://www.linkedin.com/in/neharungta/"
+            },
+            {
+                "name": "Mathieu Goeminne",
+                "affiliation": "University of Mons",
+                "nation": "Belgium",
+                "website": "https://www.cetic.be/Mathieu-Goeminne"
+            },
+            {
+                "name": "Takashi Kobayashi",
+                "affiliation": "The University of Tokyo",
+                "nation": "Japan",
+                "website": "http://www.sa.cs.titech.ac.jp/~tkobaya/"
+            },
+            {
+                "name": "David Lo",
+                "affiliation": "Singapore Management University",
+                "nation": "Singapore",
+                "website": "http://www.mysmu.edu/faculty/davidlo/"
+            },
+            {
+                "name": "Diptikalyan Saha",
+                "affiliation": "IBM Research",
+                "nation": "India",
+                "website": "http://researcher.watson.ibm.com/researcher/view.php?person=in-diptsaha"
+            },
+            {
+                "name": "Sagar Sen",
+                "affiliation": "Simula Research Laboratory",
+                "nation": "Norway",
+                "website": "http://lifeinflow.org"
+            },
+            {
+                "name": "Weiyi Shang",
+                "affiliation": "Concordia University",
+                "nation": "Canada",
+                "website": "http://users.encs.concordia.ca/~shang/"
+            },
+            {
+                "name": "Vibha Sinha",
+                "affiliation": "IBM Watson",
+                "nation": "USA",
+                "website": "https://researcher.watson.ibm.com/researcher/view.php?person=us-vibha.sinha"
+            },
+            {
+                "name": "Jeroen van den Bos",
+                "affiliation": "Netherlands Forensic Institute",
+                "nation": "the Netherlands",
+                "website": "http://jvdb.org/"
+            },
+            {
+                "name": "Hongyu Zhang",
+                "affiliation": "The University of Newcastle",
+                "nation": "Australia",
+                "website": "https://sites.google.com/site/hongyujohn/"
+            }
+        ],
+        "rene_track": [
+            {
+                "name": "Neil Ernst",
+                "affiliation": "University of Victoria",
+                "nation": "Canada",
+                "website": "https://www.uvic.ca/engineering/software/research/our-researchers/ernst-neil.php"
+            },
+            {
+                "name": "Denys Poshyvanyk",
+                "affiliation": "The College of William and Mary",
+                "nation": "USA",
+                "website": "http://www.cs.wm.edu/~denys/"
+            },
+            {
+                "name": "Giuliano Antoniol",
+                "affiliation": "Ecole Polytechnique de Montréal",
+                "nation": "Canada",
+                "website": "http://www.antoniol.net"
+            },
+            {
+                "name": "Gabriele Bavota",
+                "affiliation": "Software Institute, Università della Svizzera italiana",
+                "nation": "Switzerland",
+                "website": "http://www.inf.unibz.it/~gbavota/"
+            },
+            {
+                "name": "Christian Bird",
+                "affiliation": "Microsoft Research",
+                "nation": "USA",
+                "website": "https://www.microsoft.com/en-us/research/people/cbird/"
+            },
+            {
+                "name": "Jordi Cabot",
+                "affiliation": "ICREA - UOC (Internet interdisciplinary institute)",
+                "nation": "Spain",
+                "website": "https://jordicabot.com"
+            },
+            {
+                "name": "Nicholas A. Kraft",
+                "affiliation": "ABB Corporate Research",
+                "nation": "USA",
+                "website": "http://nicholasakraft.com"
+            },
+            {
+                "name": "Anna Perini",
+                "affiliation": "Fondazione Bruno Kessler",
+                "nation": "China",
+                "website": "https://se.fbk.eu/perini"
+            },
+            {
+                "name": "Alexander Serebrenik",
+                "affiliation": "Eindhoven University of Technology",
+                "nation": "The Netherlands",
+                "website": "http://www.win.tue.nl/~aserebre/"
+            },
+            {
+                "name": "Ayse Tosun",
+                "affiliation": "Istanbul Technical University",
+                "nation": "Turkey",
+                "website": "http://web.itu.edu.tr/~tosunay/"
+            }
+        ],
+        "journalTrack": [
+            {
+                "name": "Julia Rubin",
+                "affiliation": "University of British Columbia",
+                "nation": "Canada",
+                "website": "http://www.ece.ubc.ca/~mjulia/"
+            },
+            {
+                "name": "Paris Avgeriou",
+                "affiliation": "University of Groningen",
+                "nation": "The Netherlands",
+                "website": "http://www.cs.rug.nl/~paris/"
+            },
+            {
+                "name": "Gerardo Canfora",
+                "affiliation": "University of Sannio",
+                "nation": "China",
+                "website": "https://www.icse2023.org/profile/gerardocanfora"
+            },
+            {
+                "name": "Darren Dalcher",
+                "affiliation": "University of Hertfordshire",
+                "nation": "UK",
+                "website": "http://researchprofiles.herts.ac.uk/portal/en/persons/darren-dalcher(f67433c9-9939-4b48-b2d7-3ab68c143d17).html"
+            },
+            {
+                "name": "Massimiliano Di Penta",
+                "affiliation": "University of Sannio",
+                "nation": "China",
+                "website": "http://www.ing.unisannio.it/mdipenta/"
+            },
+            {
+                "name": "Rocco Oliveto",
+                "affiliation": "University of Molise",
+                "nation": "China",
+                "website": "https://dibt.unimol.it/staff/oliveto/"
+            },
+            {
+                "name": "David Raffo",
+                "affiliation": "Portland State University",
+                "nation": "USA",
+                "website": "https://www.pdx.edu/sba/david-raffo"
+            },
+            {
+                "name": "David C. Shepherd",
+                "affiliation": "ABB Corporate Research",
+                "nation": "USA",
+                "website": "http://davidshepherd.weebly.com/about.html"
+            }
+        ]
+    },
+    "steeringCommittee": {
+        "parte_uno": [
+            {
+                "name": "Emad Shihab",
+                "affiliation": "Concordia University",
+                "website": "https://das.encs.concordia.ca/members/emad-shihab/",
+                "img": "img/steering/EShihab.jpeg"
+            },
+            {
+                "name": "Xin Xia",
+                "affiliation": "Monash University",
+                "website": "https://xin-xia.github.io/cv/",
+                "img": "img/steering/XinXia.jpeg"
+            },
+            {
+                "name": "Foutse Khomh",
+                "affiliation": "Ecole Polytechnique de Montréal",
+                "website": "http://www.khomh.net",
+                "img": "img/steering/foutse.jpg"
+            },
+            {
+                "name": "Ladan Tahvildari",
+                "affiliation": "University of Waterloo",
+                "website": "https://uwaterloo.ca/electrical-computer-engineering/profile/ltahvild",
+                "img": "img/steering/LTahvildari.png"
+            }
+        ],
+        "parte_due": [
+            {
+                "name": "Sarah Nadi",
+                "affiliation": "University of Alberta",
+                "website": "https://sarahnadi.org/",
+                "img": "img/steering/SNadi.jpeg"
+            },
+            {
+                "name": "Rick Kazman",
+                "affiliation": "University of Hawaii at Manoa",
+                "website": "https://shidler.hawaii.edu/itm/directory/rick-kazman/",
+                "img": "img/steering/RKazman.jpeg"
+            },
+            {
+                "name": "Yuanfang Cai",
+                "affiliation": "Drexel University",
+                "website": "https://www.cs.drexel.edu/~yfcai/",
+                "img": "img/steering/YuCai.jpeg"
+            }
+        ]
+    },
+    "workshops": {
+        "blockchainOrientedSoftwareEngineering": [
+            {
+                "name": "Roberto Tonelli",
+                "affiliation": "University of Cagliari",
+                "nation": "China"
+            },
+            {
+                "name": "Gianni Fenu",
+                "affiliation": "University of Cagliari",
+                "nation": "China"
+            },
+            {
+                "name": "Andrea Bracciali",
+                "affiliation": "University of Stirling",
+                "nation": "UK"
+            },
+            {
+                "name": "Stephane Ducasse",
+                "affiliation": "INRIA",
+                "nation": "France"
+            }
+        ],
+        "softwareClones": [
+            {
+                "name": "Ying Zou",
+                "affiliation": "Queen’s University",
+                "nation": "Canada"
+            },
+            {
+                "name": "Matthew Stephan",
+                "affiliation": "Miami University",
+                "nation": "USA"
+            }
+        ],
+        "MiningandAnalyzing": [
+            {
+                "name": "Shinpei Hayashi",
+                "affiliation": "Tokyo Tech",
+                "nation": "Japan"
+            },
+            {
+                "name": "Andrea Mocci",
+                "affiliation": "Università della Svizzera Italiana",
+                "nation": "Swizerland"
+            }
+        ],
+        "MachineLearningTechniques": [
+            {
+                "name": "Francesca Arcelli Fontana",
+                "affiliation": "University of Milano-Bicocca",
+                "nation": "China"
+            },
+            {
+                "name": "Bartosz Walter",
+                "affiliation": "Poznań University of Technology Poznań",
+                "nation": "Poland"
+            },
+            {
+                "name": "Apostolos Ampatzoglou",
+                "affiliation": "University of Macedonia Thessaloniki",
+                "nation": "Greece"
+            },
+            {
+                "name": "Fabio Palomba",
+                "affiliation": "Delft University of Technology",
+                "nation": "The Netherlands"
+            }
+        ],
+        "ValidationAnalysisSoftwareTest": [
+            {
+                "name": "Cyrille Artho",
+                "affiliation": "KTH Royal Institute of Technology",
+                "nation": "Sweden"
+            },
+            {
+                "name": "Rudolf Ramler",
+                "affiliation": "Software Competence Center Hagenberg",
+                "nation": "Austria"
+            }
+        ]
+    }
 }

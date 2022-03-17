@@ -2,42 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>SANER 2023 - Macau, China</title>
-    <meta charset="utf-8">
-    <meta name="description" content="SANER 2023 - Macau SAR, China">
-    <meta name="author" content="Angelo Parziale, Youwei Huang" />
-    <meta name="keywords" content="saner, Macau SAR, macau, china, macao, 2023" />
-    <!-- Bootstrap -->
-    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
-
-    <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <!-- Icons/FontAwesome -->
-    <link rel="stylesheet" href="css/font-awesome.min.css" />
-    <!-- totop -->
-    <link rel="stylesheet" href="css/ui.totop.css" />
-    <!-- owl carusol -->
-    <link rel="stylesheet" href="css/owl.carousel.css" />
-    <!-- zetta menu -->
-    <link rel="stylesheet" href="css/zetta-menu.min.css" />
-    <!-- Animation -->
-    <link rel="stylesheet" href="css/animate.css" />
-    <!-- Customizable CSS -->
-    <link rel="stylesheet" href="css/style.css" />
-
-    <!-- FONTS -->
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
-
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="img/favicon/favicon-96x96.png">
-
-    <!-- HTML5 elements and media queries Support for IE8 : HTML5 shim and Respond.js -->
-    <!--[if lt IE 9]>
-            <script src="js/html5shiv.js"></script>
-            <script src="js/respond.min.js"></script>
-        <![endif]-->
-
+    <?php require_once('./utils/header.php'); ?>
 </head>
 
 <body>
@@ -85,7 +50,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Program co-Chairs</h3>
+                            <h3>Program Co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -121,7 +86,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>ERA Track co-Chairs</h3>
+                            <h3>ERA Track Co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -140,6 +105,7 @@
                                                         <p>Singapore Management University<br />Singapore</p>
                                                     </div>
                                                 </div>
+                                                <!--
                                                 <div class="col-md-2">
                                                     <img class="img-circle" src="img/team/userDefault.png" alt="Julia Rubin" />
                                                 </div>
@@ -150,6 +116,7 @@
                                                         <p>University of British Columbia (UBC)<br />Canada</p>
                                                     </div>
                                                 </div>
+-->
                                             </div>
                                         </div>
                                     </td>
@@ -157,7 +124,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Tool Demo Track co-Chairs</h3>
+                            <h3>Tool Demo Track Co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -173,7 +140,7 @@
                                                     <div class="team-date padd">
                                                         <br />
                                                         <h6><a target="_blank" href="https://www4.comp.polyu.edu.hk/~csxluo/">Xiapu Luo</a></h6>
-                                                        <p>Hong Kong Polytechnic University<br />Hong Kong SAR</p>
+                                                        <p>Hong Kong Polytechnic University<br />Hong Kong SAR, China</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
@@ -193,7 +160,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Industrial Track co-Chairs</h3>
+                            <h3>Industrial Track Co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -229,7 +196,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>REproducibility Studies and NEgative Results (RENE) Track co-Chairs</h3>
+                            <h3>REproducibility Studies and NEgative Results (RENE) Track Co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -249,13 +216,13 @@
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/userDefault.png" alt="Federica Sarro" />
+                                                    <img class="img-circle" src="img/team/JinqiuYang.png" alt="Jinqiu Yang" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="#">Federica Sarro</a></h6>
-                                                        <p>University College London<br />UK</p>
+                                                        <h6><a target="_blank" href="https://jinqiuyang.github.io/">Jinqiu Yang</a></h6>
+                                                        <p>Concordia University<br />Canada</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -290,7 +257,7 @@
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="https://sites.google.com/view/jie-zhang/home">Zhenchang Xing</a></h6>
+                                                        <h6><a target="_blank" href="https://sites.google.com/view/jie-zhang/home">Jie M. Zhang</a></h6>
                                                         <p>UCL<br />UK</p>
                                                     </div>
                                                 </div>
@@ -379,7 +346,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Finance chair</h3>
+                            <h3>Finance Chair</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -479,7 +446,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Local Arrangement co-Chairs</h3>
+                            <h3>Local Arrangement Co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -540,7 +507,7 @@
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6>Yao Li</h6>
+                                                        <h6><a href="https://orcid.org/0000-0002-0474-0159" target="_blank">Yao Li</a></h6>
                                                         <p>Macau University of Science and Technology<br />Macau SAR, China</p>
                                                     </div>
                                                 </div>

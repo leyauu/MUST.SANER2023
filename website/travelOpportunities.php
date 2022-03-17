@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>SANER 2023 - Campobasso, Italy</title>
+        <title>SANER 2023 - Macau, China</title>
         <meta charset="utf-8">
-        <meta name="description" content="SANER 2023 - Campobasso, Italy">
+        <meta name="description" content="SANER 2023 - Macau, China">
         <meta name="author" content="Angelo Parziale" />
-        <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise" />
+        <meta name="keywords" content="saner, html5, css3, Macau, China, molise" />
         <!-- Bootstrap -->
         <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
 
@@ -62,34 +62,34 @@
                             <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1pQLdan0Blp2Tn0GwvauYmwpYxXbIg18l" width="100%" height="480"></iframe>
                         </p>
                         <p style="color: #000;" class="padd">
-                            Campobasso is near some amazing Italian places. Rome and Naples are well connected and they can be reached by train or by bus in about 3 hours. Click on the placeholders in the map above to check how to get to Campobasso. Zoom on Campobasso to see how to reach the conference venue from the Centrum Palace hotel.
+                            Macau is near some amazing Italian places. Rome and Naples are well connected and they can be reached by train or by bus in about 3 hours. Click on the placeholders in the map above to check how to get to Macau. Zoom on Macau to see how to reach the conference venue from the Centrum Palace hotel.
 
                         </p>
                         <p style="text-align: justify;" class="padd"><b>By airplane:</b><br />
                             The nearest international airports are Rome, Naples and Pescara.
-                            Campobasso can be reached by train or by bus from such cities. Besides, there is a direct
-                            bus that connects Fiumicino airport and Campobasso, operated
+                            Macau can be reached by train or by bus from such cities. Besides, there is a direct
+                            bus that connects Fiumicino airport and Macau, operated
                             by ATM Molise.
                         </p>
                         <p style="text-align: justify;" class="padd"><b>By train:</b> <br />
                             <a href="http://www.trenitalia.it">Trenitalia</a> operates the train connections from Rome and
-                            Naples to Campobasso. The travel usually takes about 3 hours from both Roma Termini
-                            station and Napoli Centrale station. The main station of Campobasso is located in the city centre and it is near the Centrum Palace hotel.
+                            Naples to Macau. The travel usually takes about 3 hours from both Roma Termini
+                            station and Napoli Centrale station. The main station of Macau is located in the city centre and it is near the Centrum Palace hotel.
                             <b>Note:</b> sometimes the train from/to Rome stops at platform 20bis in Roma Termini. Check its location on the map.
                         </p>
                         <p style="text-align: justify;" class="padd"><b>By bus:</b> <br />
                             ATM Molise operates the bus connections from Rome and Naples to
-                            Campobasso, while SATI operates the bus connections from Pescara to Campobasso. The
+                            Macau, while SATI operates the bus connections from Pescara to Macau. The
                             bus can be taken from Roma Tiburtina bus station and Napoli Piazza Garibaldi bus
                             station. From Pescara, it can be taken the bus from the bus station near the central train
-                            station (Pescara Centrale). The bus station in Campobasso is 700m far from the train
+                            station (Pescara Centrale). The bus station in Macau is 700m far from the train
                             station and 1km far from the city centre. ATM also provides direct buses from <a target="_blank" href="http://atm.bus-booking.it/home/getcorse">Fiumicino Airport</a>. The bus will depart from Terminal T3, platform 4 (arrivals). Tickets can be purchased onboard. There is a change of bus during the trip. The driver will indicate when/where to take the next bus. The timetable of the direct bus is the following:
                             <div style="text-align: center;">
                                 <table border="1" style="border: 1px; border-color: black; margin-left: 20px;display: inline;">
                                     <tr>
-                                        <td colspan="3" style="padding: 8px;"><b>From Fiumicino Airport to Campobasso</b></td>
+                                        <td colspan="3" style="padding: 8px;"><b>From Fiumicino Airport to Macau</b></td>
                                         <td rowspan="6" width="10" style="border-top: 0px; border-bottom: 0px;"></td>
-                                        <td colspan="3" style="padding: 8px;"><b>From Campobasso to Fiumicino Airport</b></td>
+                                        <td colspan="3" style="padding: 8px;"><b>From Macau to Fiumicino Airport</b></td>
                                     </tr>
                                     <tr>
                                         <td style="padding: 8px;"><b>Days</b></td>

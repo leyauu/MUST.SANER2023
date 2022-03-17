@@ -16,47 +16,46 @@
                         <li style="background: #fff;"></li>
 
                         <!-- Home Menu -->
-                        <li <?php if (basename($_SERVER['PHP_SELF']) == 'index.php') echo 'class = "zm-active"'?> >
-                            <a  href="index">Home</a>
+                        <li <?php if (basename($_SERVER['PHP_SELF']) == 'index.php') echo 'class = "zm-active"' ?>>
+                            <a href="index">Home</a>
                         </li>
                         <!-- /Home Menu -->
                         <!-- Program Menu -->
-                        <li
-                            <?php
-                            if (basename($_SERVER['PHP_SELF']) == 'keynote.php' 
-                                    || basename($_SERVER['PHP_SELF']) == 'accepted.php'
-                                    || basename($_SERVER['PHP_SELF']) == 'gallery.php'
-                                    || basename($_SERVER['PHP_SELF']) == 'detailedProgram.php'
-                                    || basename($_SERVER['PHP_SELF']) == 'programOverview.php'
-                                    || basename($_SERVER['PHP_SELF']) == 'socialEvents.php') {
+                        <li <?php
+                            if (
+                                basename($_SERVER['PHP_SELF']) == 'keynote.php'
+                                || basename($_SERVER['PHP_SELF']) == 'accepted.php'
+                                || basename($_SERVER['PHP_SELF']) == 'gallery.php'
+                                || basename($_SERVER['PHP_SELF']) == 'detailedProgram.php'
+                                || basename($_SERVER['PHP_SELF']) == 'programOverview.php'
+                                || basename($_SERVER['PHP_SELF']) == 'socialEvents.php'
+                            ) {
                                 echo 'id="key" class = "zm-active"';
                             }
-                            ?>
-                        ><a>Program <span class="caret"></span></a>
+                            ?>><a>Program <span class="caret"></span></a>
                             <ul class="w-200">
                                 <li><a href="programOverview">Overview</a></li>
                                 <li><a href="keynotes">Keynotes</a></li>
                                 <li><a href="accepted">Accepted Papers</a></li>
-                                <li><a href="gallery">Photo Gallery</a></li>
+                                <!-- <li><a href="gallery">Photo Gallery</a></li> -->
                                 <li><a href="detailedProgram">Detailed Program</a></li>
-                                <li><a href="socialEvents">Social Events</a></li>
+                                <!--<li><a href="socialEvents">Social Events</a></li>-->
                             </ul>
                         </li>
                         <!-- /Program Menu -->
                         <!-- Call For Papers -->
-                        <li
-                            <?php
-                            if ((basename($_SERVER['PHP_SELF']) == 'restrack.php') 
-                                || (basename($_SERVER['PHP_SELF']) == 'eratrack.php') 
-                                || (basename($_SERVER['PHP_SELF']) == 'tooltrack.php') 
-                                || (basename($_SERVER['PHP_SELF']) == 'industrialtrack.php') 
-                                || (basename($_SERVER['PHP_SELF']) == 'negativerestrack.php') 
-                                || (basename($_SERVER['PHP_SELF']) == 'workshoproposals.php') 
-                                || (basename($_SERVER['PHP_SELF']) == 'journalFirstTrack.php')) {
+                        <li <?php
+                            if ((basename($_SERVER['PHP_SELF']) == 'restrack.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'eratrack.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'tooltrack.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'industrialtrack.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'negativerestrack.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'workshoproposals.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'journalFirstTrack.php')
+                            ) {
                                 echo 'class = "zm-active"';
                             }
-                            ?>
-                        ><a>Call For Papers <span class="caret"></span></a>
+                            ?>><a>Call For Papers <span class="caret"></span></a>
                             <ul class="w-200">
                                 <li><a href="restrack">Research Track</a></li>
                                 <li><a href="eratrack">ERA Track</a></li>
@@ -69,73 +68,72 @@
                         </li>
                         <!-- /Call For Papers -->
                         <!-- Workshops -->
-                        <li
-                            <?php
-                            if ((basename($_SERVER['PHP_SELF']) == 'w_blockchainOriented.php') 
-                                || (basename($_SERVER['PHP_SELF']) == 'w_softwareClones.php') 
-                                || (basename($_SERVER['PHP_SELF']) == 'w_miningAndAnalyzing.php') 
-                                || (basename($_SERVER['PHP_SELF']) == 'w_machineLearningTechniques.php') 
-                                || (basename($_SERVER['PHP_SELF']) == 'w_analysisEvolutionSftTest.php')) {
+                        <li <?php
+                            if ((basename($_SERVER['PHP_SELF']) == 'w_blockchainOriented.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'w_softwareClones.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'w_miningAndAnalyzing.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'w_machineLearningTechniques.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'w_analysisEvolutionSftTest.php')
+                            ) {
                                 echo 'class = "zm-active"';
                             }
-                            ?>
-                        ><a>Workshops <span class="caret"></span></a>
+                            ?>><a>Workshops <span class="caret"></span></a>
                             <ul class="w-200">
+                                <!--
                                 <li><a href="blockchainOrientedSoftwareEngineering">IWBOSE 2023</a></li>
                                 <li><a href="softwareClones">IWSC 2023</a></li>
                                 <li><a href="miningAndAnalyzingInteractionHistories">MAINT 2023</a></li>
                                 <li><a href="MachineLearningTechniques">MaLTeSQuE 2023</a></li>
                                 <li><a href="ValidationAnalysisEvolutionSoftwareTests">VST 2023</a></li>
+-->
                             </ul>
                         </li>
                         <!-- /Workshops -->
                         <!-- Registration -->
-                        <li <?php if (basename($_SERVER['PHP_SELF']) == 'registration.php') echo 'class = "zm-active"'?>>
+                        <li <?php if (basename($_SERVER['PHP_SELF']) == 'registration.php') echo 'class = "zm-active"' ?>>
                             <a href="registration">Registration</a>
                         </li>
                         <!-- /Registration -->
                         <!-- Venue -->
-                        <li <?php if (basename($_SERVER['PHP_SELF']) == 'venue.php') echo 'class = "zm-active"'?>>
+                        <li <?php if (basename($_SERVER['PHP_SELF']) == 'venue.php') echo 'class = "zm-active"' ?>>
                             <a href="venue">Venue</a>
                         </li>
                         <!-- /Venue -->
-                        <!-- Travel Information -->
-                        <li
-                          <?php
-                            if ((basename($_SERVER['PHP_SELF']) == 'accommodation.php') 
-                                || (basename($_SERVER['PHP_SELF']) == 'travelOpportunities.php') 
-                                || (basename($_SERVER['PHP_SELF']) == 'visaInformation.php')) {
-                              echo 'class = "zm-active"';
+                        <!-- Travel Information 
+                        <li <?php
+                            if ((basename($_SERVER['PHP_SELF']) == 'accommodation.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'travelOpportunities.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'visaInformation.php')
+                            ) {
+                                echo 'class = "zm-active"';
                             }
-                          ?>
-                        ><a>Travel Information <span class="caret"></span></a>
+                            ?>><a>Travel Information <span class="caret"></span></a>
                             <ul class="w-200">
                                 <li><a href="accommodation">Accommodation</a></li>
                                 <li><a href="howToArrive">How to get to the venue</a></li>
                                 <li><a href="visaInformation">Visa Information</a></li>
                             </ul>
-                        </li>
+                        </li>-->
                         <!-- /Travel Information -->
                         <!-- Supporters start -->
-                        <li <?php if (basename($_SERVER['PHP_SELF']) == 'supporters.php') echo 'class = "zm-active"'?>>
+                        <li <?php if (basename($_SERVER['PHP_SELF']) == 'supporters.php') echo 'class = "zm-active"' ?>>
                             <a href="supporters">Supporters</a>
                         </li>
                         <!-- Supporters end -->
                         <!-- Organization -->
-                        <li
-                        <?php
-                          if ((basename($_SERVER['PHP_SELF']) == 'organizingCommittee.php') 
-                                || (basename($_SERVER['PHP_SELF']) == 'steeringCommittee.php') 
-                                || (basename($_SERVER['PHP_SELF']) == 'programCommittee.php')) {
-                            echo 'class = "zm-active"';
-                          }
-                        ?>
-                        ><a>Organization <span class="caret"></span></a>
-                          <ul class="w-200">
-                              <li><a href="organizingCommittee">Organizing Committee</a></li>
-                              <li><a href="programCommittee">Program Committee</a></li>
-                              <li><a href="steeringCommittee">Steering Committee</a></li>
-                          </ul>
+                        <li <?php
+                            if ((basename($_SERVER['PHP_SELF']) == 'organizingCommittee.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'steeringCommittee.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'programCommittee.php')
+                            ) {
+                                echo 'class = "zm-active"';
+                            }
+                            ?>><a>Organization <span class="caret"></span></a>
+                            <ul class="w-200">
+                                <li><a href="organizingCommittee">Organizing Committee</a></li>
+                                <li><a href="programCommittee">Program Committee</a></li>
+                                <li><a href="steeringCommittee">Steering Committee</a></li>
+                            </ul>
                         </li>
                         <!-- Organization end -->
                         <!-- Search Place

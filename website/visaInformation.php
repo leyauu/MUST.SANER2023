@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>SANER 2023 - Campobasso, Italy</title>
+    <title>SANER 2023 - Macau, China</title>
     <meta charset="utf-8">
-    <meta name="description" content="SANER 2023 - Campobasso, Italy">
+    <meta name="description" content="SANER 2023 - Macau, China">
     <meta name="author" content="Angelo Parziale"/>
-    <meta name="keywords" content="saner, html5, css3, campobasso, italy, molise"/>
+    <meta name="keywords" content="saner, html5, css3, Macau, China, molise"/>
     <!-- Bootstrap -->
     <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
 
@@ -62,7 +62,7 @@ require_once('./utils/breadcrumb.php');
                 <p style="text-align: justify;">
                     We strongly recommend that you consult the official website of the Italian Ministry of Foreign
                     Affairs <a target="_blank" href="http://www.esteri.it/visti/index_eng.asp">http://www.esteri.it/visti/index_eng.asp</a>
-                    for updated and detailed information for foreigners regarding entrance visas for Italy and permits
+                    for updated and detailed information for foreigners regarding entrance visas for China and permits
                     of stay. Foreign participants should contact the Italian Embassy or Consulate in their home country
                     as soon as possible to determine their particular visa requirements. Participants requiring visas
                     should initiate the application process at least 3 months prior to their departure date.
