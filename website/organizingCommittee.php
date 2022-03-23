@@ -270,7 +270,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Workshop Chair</h3>
+                            <h3>Workshop co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
