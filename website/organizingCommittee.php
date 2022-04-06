@@ -85,6 +85,7 @@
                                 </tr>
                             </tbody>
                         </table>
+
                         <div class="top-description-text" style="text-align: left;">
                             <h3>ERA Track co-Chairs</h3>
                             <hr class="lineHr">
@@ -512,6 +513,32 @@
                                                     </div>
                                                 </div>
 
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <div class="top-description-text" style="text-align: left;">
+                            <h3>Awards co-Chairs</h3>
+                            <hr class="lineHr">
+                        </div>
+                        <table class="table" style="width: 100%; margin-top: -4em;">
+                            <tbody style="text-align: center;">
+                                <tr>
+                                    <td style="border: none; text-align: left;">
+                                        <div class="container">
+                                            <div class="row">
+                                                <div class="col-md-2">
+                                                    <img class="img-circle" src="img/team/tingchen.jpeg" alt="Ting Chen" />
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <div class="team-date padd">
+                                                        <br />
+                                                        <h6><a target="_blank" href="https://faculty.uestc.edu.cn/chenting/en/index.htm">Ting Chen</a></h6>
+                                                        <p>University of Electronic Science and Technology of China<br />China</p>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </td>

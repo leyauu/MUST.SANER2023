@@ -33,7 +33,7 @@
                 <img style="width:100%;height:100%;object-fit: cover;" src="sliderimages/banner1.png" alt="Ruínas da Antiga Catedral de São Paulo">
                 <div class="carousel-caption" style="top:15%;left:15%;text-align:left;">
                     <h3 style="color:#21252b">SANER 2023</h3>
-                    <p style="color:#21252b">30th IEEE International Conference on <br />Software Analysis, Evolution and Reengineering <br />Macau, China, 2023.
+                    <p style="color:#21252b">30th IEEE International Conference on <br />Software Analysis, Evolution and Reengineering <br />Macau, China, March 21st-24th, 2023.
                     </p>
                 </div>
             </div>
