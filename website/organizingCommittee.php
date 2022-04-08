@@ -40,7 +40,7 @@
                                                     <div class="team-date padd">
                                                         <br />
                                                         <h6><a href="https://cszhangtao.github.io" target="_blank">Tao Zhang</a></h6>
-                                                        <p>Macau University of Science and Technology <br />Macau SAR, China</p>
+                                                        <p>Macau University of Science and Technology <br />Macao SAR, China</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -106,18 +106,16 @@
                                                         <p>Singapore Management University<br />Singapore</p>
                                                     </div>
                                                 </div>
-                                                <!--
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/userDefault.png" alt="Julia Rubin" />
+                                                    <img class="img-circle" src="img/team/xiaoyuanxie.gif" alt="Xiaoyuan Xie" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="#">Julia Rubin</a></h6>
-                                                        <p>University of British Columbia (UBC)<br />Canada</p>
+                                                        <h6><a target="_blank" href="https://xiaoyuanxie.github.io/">Xiaoyuan Xie</a></h6>
+                                                        <p>Wuhan University<br />China</p>
                                                     </div>
                                                 </div>
--->
                                             </div>
                                         </div>
                                     </td>
@@ -363,7 +361,7 @@
                                                     <div class="team-date padd">
                                                         <br />
                                                         <h6><a target="_blank" href="https://huangrubing.github.io/">Rubing Huang</a></h6>
-                                                        <p>Macau University of Science and Technology<br />Macau SAR, China</p>
+                                                        <p>Macau University of Science and Technology<br />Macao SAR, China</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -389,7 +387,7 @@
                                                     <div class="team-date padd">
                                                         <br />
                                                         <h6><a target="_blank" href="https://www.must.edu.mo/en/fi/staff/subrota">Subrota Kumar Mondal</a></h6>
-                                                        <p>Macau University of Science and Technology<br />Macau SAR, China</p>
+                                                        <p>Macau University of Science and Technology<br />Macao SAR, China</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
@@ -463,7 +461,7 @@
                                                     <div class="team-date padd">
                                                         <br />
                                                         <h6><a href="https://www.must.edu.mo/en/fi/staff/lijianqing" target="_blank">Jianqing Li</a></h6>
-                                                        <p>Macau University of Science and Technology<br />Macau SAR, China</p>
+                                                        <p>Macau University of Science and Technology<br />Macao SAR, China</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
@@ -473,7 +471,7 @@
                                                     <div class="team-date padd">
                                                         <br />
                                                         <h6><a href="https://www.must.edu.mo/en/fi/staff/pengyuyang" target="_blank">Yuyang Peng</a></h6>
-                                                        <p>Macau University of Science and Technology<br />Macau SAR, China</p>
+                                                        <p>Macau University of Science and Technology<br />Macao SAR, China</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -499,7 +497,7 @@
                                                     <div class="team-date padd">
                                                         <br />
                                                         <h6><a href="https://www.linkedin.com/in/youwei-huang-354708b0/" target="_blank">Youwei Huang</a></h6>
-                                                        <p>Macau University of Science and Technology<br />Macau SAR, China</p>
+                                                        <p>Macau University of Science and Technology<br />Macao SAR, China</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
@@ -509,7 +507,7 @@
                                                     <div class="team-date padd">
                                                         <br />
                                                         <h6><a href="https://orcid.org/0000-0002-0474-0159" target="_blank">Yao Li</a></h6>
-                                                        <p>Macau University of Science and Technology<br />Macau SAR, China</p>
+                                                        <p>Macau University of Science and Technology<br />Macao SAR, China</p>
                                                     </div>
                                                 </div>
 

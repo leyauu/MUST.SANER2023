@@ -26,7 +26,7 @@ LE COSTANTI FACEBOOK E LINKEDIN SONO STATE DEFINITE NELL' HEADER TOP BAR
                 <address>
                     <p>
                         <i class="fa fa-map-marker"></i>Macau University of Science and Technology<br>
-                        Faculty of Information Technology<br />Avenida Wai Long, Taipa, Macau<br>
+                        Faculty of Information Technology<br />Avenida Wai Long, Taipa, Macao SAR<br>
                         <i class="fa fa-envelope"></i>&nbsp;<a href="mailto:saner2023.must@gmail.com">saner2023.must@gmail.com</a>
                     </p>
                 </address>

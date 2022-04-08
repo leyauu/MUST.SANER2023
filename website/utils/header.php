@@ -1,8 +1,8 @@
-<title>SANER 2023 - Macau, China</title>
+<title>SANER 2023 - Macao, China</title>
 <meta charset="utf-8">
-<meta name="description" content="SANER 2023 - Macau, China">
+<meta name="description" content="SANER 2023 - Macao, China">
 <meta name="author" content="Angelo Parziale" />
-<meta name="keywords" content="saner, Macau SAR, macau, china, macao, 2023" />
+<meta name="keywords" content="saner, Macao SAR, Macau, China, Macao, 2023" />
 <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
 <?php
 require_once('./utils/googleAnalysis.php');

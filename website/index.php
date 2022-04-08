@@ -33,7 +33,7 @@
                 <img style="width:100%;height:100%;object-fit: cover;" src="sliderimages/banner1.png" alt="Ruínas da Antiga Catedral de São Paulo">
                 <div class="carousel-caption" style="top:15%;left:15%;text-align:left;">
                     <h3 style="color:#21252b">SANER 2023</h3>
-                    <p style="color:#21252b">30th IEEE International Conference on <br />Software Analysis, Evolution and Reengineering <br />Macau, China, March 21st-24th, 2023.
+                    <p style="color:#21252b">30th IEEE International Conference on <br />Software Analysis, Evolution and Reengineering <br />Macao SAR, China, March 21st-24th, 2023.
                     </p>
                 </div>
             </div>
@@ -90,7 +90,7 @@
                 <br>
                 <div class="well">
                     <p>
-                        This 30th edition of the IEEE International Conference on Software Analysis, Evolution and Reengineering will be held at the Macau University of Science and Technology in Macau SAR, China, 2023.
+                        This 30th edition of the IEEE International Conference on Software Analysis, Evolution and Reengineering will be held at the Macau University of Science and Technology in Macao SAR, China, 2023.
                         <b>A special issue based on selection of best papers from SANER 2023 will be published in Springer’s Journal of <a target="_blank" href="http://www.springer.com/computer/swe/journal/10664">Empirical Software Engineering (EMSE).</a></b>
                     </p>
                 </div>
