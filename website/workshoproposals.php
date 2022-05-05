@@ -47,7 +47,7 @@
                         <li>Paper selection criteria and mechanism (<strong>Important note:</strong> SANER 2023 follows a full double-blind review process.)</li>
                     </ul>
                     <p style="text-align: justify;">
-                        Please send your proposal via email to Takashi Kobayashi <a href="mailto:tkobaya@c.titech.ac.jp">tkobaya@c.titech.ac.jp</a>
+                        Please send your proposal via email to Weiyi Shang <a href="mailto:shang@encs.concordia.ca">shang@encs.concordia.ca</a>
                     </p>
                     <!--
                     <p style="text-align: justify;">

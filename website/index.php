@@ -105,6 +105,8 @@
                     <div class="panel panel-body" style="padding-bottom: 0;">
                         <strong>March 16, 2022:</strong> Our official website is launched: <a href="https://saner2023.must.edu.mo/">saner2023.must.edu.mo</a>
                         <br>
+                        <strong>Apri 30, 2022:</strong> Research track deadline is confirmed
+                        <br>
                     </div>
                 </div>
                 <div class="panel panel-primary" style="border-radius: 4px;">
@@ -114,14 +116,11 @@
                     <div class="panel panel-body">
                         <div id="date1" style="display: block;">
                             <p style="width:100%; text-align: center;"><b>Research Track</b></p>
-                            <!--
                             <p>
-                                <li style="list-style: none;">Abstract: <span class="expired">October 20, 2017 AoE</span></li>
-                                <li style="list-style: none;">Paper: <span class="expired">October 27, 2017 AoE</span></li>
-                                <li style="list-style: none;">Notifications: <span class="expired">December 17, 2017</span></li>
-                                <li style="list-style: none;">Camera Ready: <span class="expired">January 15, 2023</span></li>
-                            </p>
--->
+                                <li style="list-style: none;">Abstract: <span class="expired">October 14, 2022 AoE</span></li>
+                                <li style="list-style: none;">Paper: <span class="expired">October 21, 2022 AoE</span></li>
+                                <li style="list-style: none;">Notifications: <span class="expired">December 16, 2022 AoE</span></li>
+                                <li style="list-style: none;">Camera Ready: <span class="expired">January 13, 2023 AoE</span></li>
                         </div>
                         <div id="date2" style="display: none;">
                             <p style="width:100%; text-align: center;"><b>ERA Track</b></p>

@@ -34,12 +34,14 @@
                         <span>The participating journals that partner with SANER are:</span>
                     <ul>
                         <li><a target="_blank" href="http://www.springer.com/computer/swe/journal/10664">Empirical Software Engineering</a> (EMSE)</li>
+                        <!--
                         <li><a href="https://www.journals.elsevier.com/journal-of-systems-and-software/" target="_blank">Journal
                                 of Systems and Software</a> (JSS)
                         </li>
                         <li><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481" target="_blank">Journal
                                 of Software: Evolution and Process</a> (JSEP)
                         </li>
+-->
                     </ul>
                     </p>
                     <br>
