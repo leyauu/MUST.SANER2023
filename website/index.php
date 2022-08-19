@@ -117,21 +117,19 @@
                         <div id="date1" style="display: block;">
                             <p style="width:100%; text-align: center;"><b>Research Track</b></p>
                             <p>
-                                <li style="list-style: none;">Abstract: <span class="expired">October 14, 2022 AoE</span></li>
-                                <li style="list-style: none;">Paper: <span class="expired">October 21, 2022 AoE</span></li>
+                                <li style="list-style: none;">Abstract submission: <span class="expired">October 14, 2022 AoE</span></li>
+                                <li style="list-style: none;">Paper submission: <span class="expired">October 21, 2022 AoE</span></li>
                                 <li style="list-style: none;">Notifications: <span class="expired">December 16, 2022 AoE</span></li>
                                 <li style="list-style: none;">Camera Ready: <span class="expired">January 13, 2023 AoE</span></li>
                         </div>
                         <div id="date2" style="display: none;">
                             <p style="width:100%; text-align: center;"><b>ERA Track</b></p>
-                            <!--
                             <p>
-                                <li style="list-style: none;">Abstract: <del>January 5, 2023</del> <span class="expired">January 8, 2023 AoE</span></li>
-                                <li style="list-style: none;">Paper: <span class="expired">January 12, 2023 AoE</span></li>
-                                <li style="list-style: none;">Notifications: <span class="expired">February 9, 2023</span></li>
-                                <li style="list-style: none;">Camera Ready: <span class="expired">February 22, 2023</span></li>
+                                <li style="list-style: none;">Abstract submission: <span class="expired">November 11, 2022 AoE</span></li>
+                                <li style="list-style: none;">Paper submission: <span class="expired">November 18, 2022 AoE</span></li>
+                                <li style="list-style: none;">Notifications: <span class="expired">December 17, 2022 AoE</span></li>
+                                <li style="list-style: none;">Camera Ready: <span class="expired">January. 13, 2023 AoE</span></li>
                             </p>
--->
                         </div>
                         <div id="date3" style="display: none;">
                             <p style="width:100%; text-align: center;"><b>Tool Demo Track</b></p>

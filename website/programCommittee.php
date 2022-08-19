@@ -13,7 +13,7 @@
         }
 
         .my-col {
-            height: 320px;
+            height: 28rem;
         }
 
         p {
@@ -49,7 +49,7 @@
                     <div class="row text-center">
                         <?php foreach ($json['Research Track'] as $key => $value) { ?>
                             <div class="col-md-3 my-col">
-                                <p><img class="avatar" src="<?php echo $value['img'] ?>" alt=""></p>
+                                <p><img class="avatar" src="/img/commitee/<?php echo $value['name']; ?>.jpg" alt="" onerror="javascript:this.src='<?php echo $value['img'] ?>';this.onerror=null;"></p>
                                 <p>
                                     <?php if ($value['website'] != '') { ?>
                                         <a href="<?php echo $value['website']; ?>" target="_blank">
@@ -79,7 +79,7 @@
                     <div class="row text-center">
                         <?php foreach ($json['ERA Track'] as $key => $value) { ?>
                             <div class="col-md-3 my-col">
-                                <p><img class="avatar" src="<?php echo $value['img'] ?>" alt=""></p>
+                                <p><img class="avatar" src="/img/commitee/<?php echo $value['name']; ?>.jpg" alt="" onerror="javascript:this.src='<?php echo $value['img'] ?>';this.onerror=null;"></p>
                                 <p>
                                     <?php if ($value['website'] != '') { ?>
                                         <a href="<?php echo $value['website']; ?>" target="_blank">
@@ -102,6 +102,7 @@
                         <?php } ?>
                     </div>
 
+                    <!--
                     <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
                         <h3>Tool Demo Track</h3>
                         <hr class="lineHr">
@@ -160,9 +161,10 @@
                                 <p><?php echo $value['nation']; ?></p>
                             </div>
                         <?php } ?>
-                    </div>
+                                    -->
                 </div>
             </div>
+        </div>
         </div>
     </section>
 
