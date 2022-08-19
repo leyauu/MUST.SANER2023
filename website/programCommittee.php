@@ -2,202 +2,172 @@
 <html lang="en">
 
 <head>
-    <?php require_once('./utils/header.php'); ?>
+    <?php require_once './utils/header.php'; ?>
+    <style>
+        .avatar {
+            width: 130px;
+            height: 130px;
+            object-fit: cover;
+            border-radius: 100%;
+            margin: 15px 0;
+        }
+
+        .my-col {
+            height: 320px;
+        }
+
+        p {
+            line-height: 20px;
+        }
+    </style>
 </head>
 
 <body>
 
     <?php
-    require_once('./utils/headerTopBar.php');
-    require_once('./utils/navbar.php');
+    require_once './utils/headerTopBar.php';
+    require_once './utils/navbar.php';
     ?>
 
     <!-- Breadcrumbs -->
-    <?php
-    require_once('./utils/breadcrumb.php');
-    ?>
+    <?php require_once './utils/breadcrumb.php'; ?>
     <!-- end Breadcrumbs -->
+
+    <?php
+    $content = file_get_contents('config/commiteeMembers.json');
+    $json = json_decode($content, true);
+    ?>
 
     <section class="content">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p>Coming soon...</p>
-                    <!--
                     <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
                         <h3>Research Track</h3>
                         <hr class="lineHr">
                     </div>
-                    <?php
-                    $content = file_get_contents('config/production.json');
-                    $json = json_decode($content, true);
-                    ?>
-                    <div class="row"> <?php
-                                        foreach ($json['commiteeMembers']['researchTrack'] as $key => $value) {
-                                        ?>
-                            <div class="col-md-4">
-                                <?php if (!is_null($value['website'])) { ?>
-                                    <a href="<?php echo $value['website'] ?>" target="_blank"><?php echo $value['name'] ?></a><?php if ($value['name'] == 'Massimiliano Di Penta' || $value['name'] == 'David C. Shepherd') {
-                                                                                                                                    echo ' <span style="font-size: 18px;">(co-Chair)</span>';
-                                                                                                                                } ?>
-                                <?php } else { ?>
-                                    <a><?php echo $value['name'] ?></a>
-                                <?php } ?>
-                                <p style="margin: 0;"><?php echo $value['affiliation'] ?></p>
-                                <p><?php echo $value['nation'] ?></p>
+                    <div class="row text-center">
+                        <?php foreach ($json['Research Track'] as $key => $value) { ?>
+                            <div class="col-md-3 my-col">
+                                <p><img class="avatar" src="<?php echo $value['img'] ?>" alt=""></p>
+                                <p>
+                                    <?php if ($value['website'] != '') { ?>
+                                        <a href="<?php echo $value['website']; ?>" target="_blank">
+                                            <?php echo $value['name']; ?></a>
+                                        <?php
+                                        if (
+                                            $value['name'] == 'Massimiliano Di Penta' ||
+                                            $value['name'] == 'David C. Shepherd'
+                                        ) {
+                                            echo ' <span style="font-size: 18px;">(co-Chair)</span>';
+                                        } ?>
+                                    <?php } else {
+                                    ?>
+                                        <a><?php echo $value['name']; ?></a>
+                                    <?php } ?>
+                                </p>
+                                <p><?php echo $value['affiliation']; ?></p>
+                                <p><?php echo $value['nation']; ?></p>
                             </div>
-                        <?php
-                                        }
-                        ?>
+                        <?php } ?>
                     </div>
--->
-                    <!--
+
                     <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
                         <h3>Early Research Achievement Track</h3>
                         <hr class="lineHr">
                     </div>
-                    <?php
-                    $content = file_get_contents('config/production.json');
-                    $json = json_decode($content, true);
-                    ?>
-                    <div class="row"> <?php
-                                        foreach ($json['commiteeMembers']['era_track'] as $key => $value) {
-                                        ?>
-                            <div class="col-md-4">
-                                <?php if (!is_null($value['website'])) { ?>
-                                    <a href="<?php echo $value['website'] ?>" target="_blank"><?php echo $value['name'] ?></a><?php if ($value['name'] == 'Jens Krinke' || $value['name'] == 'Shane McIntosh') {
-                                                                                                                                    echo ' <span style="font-size: 18px;">(co-Chair)</span>';
-                                                                                                                                } ?>
-                                <?php } else { ?>
-                                    <a><?php echo $value['name'] ?></a>
-                                <?php } ?>
-                                <p style="margin: 0;"><?php echo $value['affiliation'] ?></p>
-                                <p><?php echo $value['nation'] ?></p>
+                    <div class="row text-center">
+                        <?php foreach ($json['ERA Track'] as $key => $value) { ?>
+                            <div class="col-md-3 my-col">
+                                <p><img class="avatar" src="<?php echo $value['img'] ?>" alt=""></p>
+                                <p>
+                                    <?php if ($value['website'] != '') { ?>
+                                        <a href="<?php echo $value['website']; ?>" target="_blank">
+                                            <?php echo $value['name']; ?></a>
+                                        <?php
+                                        if (
+                                            $value['name'] == 'Massimiliano Di Penta' ||
+                                            $value['name'] == 'David C. Shepherd'
+                                        ) {
+                                            echo ' <span style="font-size: 18px;">(co-Chair)</span>';
+                                        } ?>
+                                    <?php } else {
+                                    ?>
+                                        <a><?php echo $value['name']; ?></a>
+                                    <?php } ?>
+                                </p>
+                                <p><?php echo $value['affiliation']; ?></p>
+                                <p><?php echo $value['nation']; ?></p>
                             </div>
-                        <?php
-                                        }
-                        ?>
+                        <?php } ?>
                     </div>
--->
-                    <!--
+
                     <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
                         <h3>Tool Demo Track</h3>
                         <hr class="lineHr">
                     </div>
-                    <?php
-                    $content = file_get_contents('config/production.json');
-                    $json = json_decode($content, true);
-                    ?>
-                    <div class="row"> <?php
-                                        foreach ($json['commiteeMembers']['tool_track'] as $key => $value) {
-                                        ?>
-                            <div class="col-md-4">
-                                <?php if (!is_null($value['website'])) { ?>
-                                    <a href="<?php echo $value['website'] ?>" target="_blank"><?php echo $value['name'] ?></a><?php if ($value['name'] == 'Mario Linares Vasquez' || $value['name'] == 'Luca Ponzanelli') {
-                                                                                                                                    echo ' <span style="font-size: 18px;">(co-Chair)</span>';
-                                                                                                                                } ?>
-                                <?php } else { ?>
-                                    <a><?php echo $value['name'] ?></a>
-                                <?php } ?>
-                                <p style="margin: 0;"><?php echo $value['affiliation'] ?></p>
-                                <p><?php echo $value['nation'] ?></p>
+                    <div class="row text-center">
+                        <?php foreach ($json['Tool Demo Track'] as $key => $value) { ?>
+                            <div class="col-md-3 my-col">
+                                <p><img class="avatar" src="<?php echo $value['img'] ?>" alt=""></p>
+                                <p>
+                                    <?php if ($value['website'] != '') { ?>
+                                        <a href="<?php echo $value['website']; ?>" target="_blank">
+                                            <?php echo $value['name']; ?></a>
+                                        <?php
+                                        if (
+                                            $value['name'] == 'Massimiliano Di Penta' ||
+                                            $value['name'] == 'David C. Shepherd'
+                                        ) {
+                                            echo ' <span style="font-size: 18px;">(co-Chair)</span>';
+                                        } ?>
+                                    <?php } else {
+                                    ?>
+                                        <a><?php echo $value['name']; ?></a>
+                                    <?php } ?>
+                                </p>
+                                <p><?php echo $value['affiliation']; ?></p>
+                                <p><?php echo $value['nation']; ?></p>
                             </div>
-                        <?php
-                                        }
-                        ?>
+                        <?php } ?>
                     </div>
--->
-                    <!--
-                    <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
-                        <h3>Industrial Track</h3>
-                        <hr class="lineHr">
-                    </div>
-                    <?php
-                    $content = file_get_contents('config/production.json');
-                    $json = json_decode($content, true);
-                    ?>
-                    <div class="row"> <?php
-                                        foreach ($json['commiteeMembers']['industry_track'] as $key => $value) {
-                                        ?>
-                            <div class="col-md-4">
-                                <?php if (!is_null($value['website'])) { ?>
-                                    <a href="<?php echo $value['website'] ?>" target="_blank"><?php echo $value['name'] ?></a><?php if ($value['name'] == 'Dongmei Zhang' || $value['name'] == 'Neha Rungta') {
-                                                                                                                                    echo ' <span style="font-size: 18px;">(co-Chair)</span>';
-                                                                                                                                } ?>
-                                <?php } else { ?>
-                                    <a><?php echo $value['name'] ?></a>
-                                <?php } ?>
-                                <p style="margin: 0;"><?php echo $value['affiliation'] ?></p>
-                                <p><?php echo $value['nation'] ?></p>
-                            </div>
-                        <?php
-                                        }
-                        ?>
-                    </div>
--->
-                    <!--
-                    <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
-                        <h3>Journal First Track</h3>
-                        <hr class="lineHr">
-                    </div>
-                    <?php
-                    $content = file_get_contents('config/production.json');
-                    $json = json_decode($content, true);
-                    ?>
-                    <div class="row"> <?php
-                                        foreach ($json['commiteeMembers']['journalTrack'] as $key => $value) {
-                                        ?>
-                            <div class="col-md-4">
-                                <?php if (!is_null($value['website'])) { ?>
-                                    <a href="<?php echo $value['website'] ?>" target="_blank"><?php echo $value['name'] ?></a><?php if ($value['name'] == 'Julia Rubin') {
-                                                                                                                                    echo ' <span style="font-size: 18px;">(Chair)</span>';
-                                                                                                                                } ?>
-                                <?php } else { ?>
-                                    <a><?php echo $value['name'] ?></a>
-                                <?php } ?>
-                                <p style="margin: 0;"><?php echo $value['affiliation'] ?></p>
-                                <p><?php echo $value['nation'] ?></p>
-                            </div>
-                        <?php
-                                        }
-                        ?>
-                    </div>
--->
-                    <!--
+
                     <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
                         <h3>REproducibility Studies and NEgative Results Track</h3>
                         <hr class="lineHr">
                     </div>
-                    <?php
-                    $content = file_get_contents('config/production.json');
-                    $json = json_decode($content, true);
-                    ?>
-                    <div class="row"> <?php
-                                        foreach ($json['commiteeMembers']['rene_track'] as $key => $value) {
-                                        ?>
-                            <div class="col-md-4">
-                                <?php if (!is_null($value['website'])) { ?>
-                                    <a href="<?php echo $value['website'] ?>" target="_blank"><?php echo $value['name'] ?></a><?php if ($value['name'] == 'Denys Poshyvanyk' || $value['name'] == 'Neil Ernst') {
-                                                                                                                                    echo ' <span style="font-size: 18px;">(co-Chair)</span>';
-                                                                                                                                } ?>
-                                <?php } else { ?>
-                                    <a><?php echo $value['name'] ?></a>
-                                <?php } ?>
-                                <p style="margin: 0;"><?php echo $value['affiliation'] ?></p>
-                                <p><?php echo $value['nation'] ?></p>
+                    <div class="row text-center">
+                        <?php foreach ($json['RENE Track'] as $key => $value) { ?>
+                            <div class="col-md-3 my-col">
+                                <p><img class="avatar" src="<?php echo $value['img'] ?>" alt=""></p>
+                                <p>
+                                    <?php if ($value['website'] != '') { ?>
+                                        <a href="<?php echo $value['website']; ?>" target="_blank">
+                                            <?php echo $value['name']; ?></a>
+                                        <?php
+                                        if (
+                                            $value['name'] == 'Massimiliano Di Penta' ||
+                                            $value['name'] == 'David C. Shepherd'
+                                        ) {
+                                            echo ' <span style="font-size: 18px;">(co-Chair)</span>';
+                                        } ?>
+                                    <?php } else {
+                                    ?>
+                                        <a><?php echo $value['name']; ?></a>
+                                    <?php } ?>
+                                </p>
+                                <p><?php echo $value['affiliation']; ?></p>
+                                <p><?php echo $value['nation']; ?></p>
                             </div>
-                        <?php
-                                        }
-                        ?>
+                        <?php } ?>
                     </div>
--->
                 </div>
             </div>
         </div>
     </section>
 
     <!-- footer -->
-    <?php require_once('./utils/footer.php') ?>
+    <?php require_once './utils/footer.php'; ?>
     <!-- end footer -->
 
     <!-- jQuery -->
