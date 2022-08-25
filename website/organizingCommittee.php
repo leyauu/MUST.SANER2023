@@ -175,7 +175,7 @@
                                                     <div class="team-date padd">
                                                         <br />
                                                         <h6><a target="_blank" href="https://de.linkedin.com/in/hadil-abukwaik">Hadil Abukwaik</a></h6>
-                                                        <p>ABB Corporate Research<br />Germany</p>
+                                                        <p>BASF<br />Germany</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
