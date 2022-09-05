@@ -75,7 +75,6 @@
                         Length: There are two formats. Appendices to conference submissions or previous work by the authors can be described in 4 pages. New reproducibility studies and new descriptions of negative results will have a length of 10 pages.
                     </p>
                     </p>
-                    <!--
                     <p style="text-align: justify;">
                         <br>
                         <strong>Important note: the RENE track of SANER 2023 DOES NOT FOLLOW a full double-blind review process.</strong>
@@ -84,14 +83,13 @@
                         <br>
                         <strong>Important Dates</strong>
                     <ul>
-                        <li>Abstract submission deadline: January 5, 2023 AoE</li>
-                        <li>Paper submission deadline: January 12, 2023 AoE</li>
-                        <li>Notifications: February 9, 2023</li>
-                        <li>Camera Ready: February 22, 2023</li>
+                        <li>Abstract submission deadline: November 11, 2022 AoE</li>
+                        <li>Paper submission deadline: November 18, 2022 AoE</li>
+                        <li>Notifications: December 17 2022 AoE</li>
+                        <li>Camera Ready: January 13, 2023 AoE</li>
                         <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2023">https://easychair.org/conferences/?conf=saner2023</a></li>
                     </ul>
                     </p>
--->
                 </div>
             </div>
         </div><!-- end of row -->
