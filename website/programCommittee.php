@@ -102,7 +102,6 @@
                         <?php } ?>
                     </div>
 
-                    <!--
                     <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
                         <h3>Tool Demo Track</h3>
                         <hr class="lineHr">
@@ -110,7 +109,7 @@
                     <div class="row text-center">
                         <?php foreach ($json['Tool Demo Track'] as $key => $value) { ?>
                             <div class="col-md-3 my-col">
-                                <p><img class="avatar" src="<?php echo $value['img'] ?>" alt=""></p>
+                                <p><img class="avatar" src="/img/commitee/<?php echo $value['name']; ?>.jpg" alt="" onerror="javascript:this.src='<?php echo $value['img'] ?>';this.onerror=null;"></p>
                                 <p>
                                     <?php if ($value['website'] != '') { ?>
                                         <a href="<?php echo $value['website']; ?>" target="_blank">
@@ -133,6 +132,7 @@
                         <?php } ?>
                     </div>
 
+                    <!--
                     <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
                         <h3>REproducibility Studies and NEgative Results Track</h3>
                         <hr class="lineHr">
