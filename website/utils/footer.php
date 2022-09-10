@@ -16,7 +16,7 @@ LE COSTANTI FACEBOOK E LINKEDIN SONO STATE DEFINITE NELL' HEADER TOP BAR
                     SANER follows the highly successful <a style="cursor: pointer;">IEEE CSMR-WCRE</a> Software Evolution Week, which was held in Antwerp, Belgium, 2014.
                 </p>
                 <p>
-                    Web Design by <a href="https://github.com/aparzi/saner2018" target="_blank">Angelo Parziale</a> (University of Moline)
+                    Web Design by <a href="https://github.com/aparzi/saner2018" target="_blank">Angelo Parziale</a> (<a href="https://www.unimol.it/" target="_blank">University of Molise</a>)
                 </p>
             </div>
 
