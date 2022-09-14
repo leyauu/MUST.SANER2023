@@ -46,21 +46,17 @@
                         Submissions should be at most 5 pages (including all text, references, appendices, and figures) and conform to the <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target="_blank">IEEE proceedings style</a> (i.e., the same used from the main SANER conference). All submissions have to be written exclusively in English. Submissions must not have been previously published or concurrently submitted elsewhere.
                     </p>
                     Papers must be submitted in PDF format electronically through Easy Chair.
-                    <!--
                     <p style="text-align: justify;">
                         <br>
                         <strong>Important Dates</strong>
                     <ul>
-                        <li>Abstract Submission deadline: January 5, 2023 AoE</li>
-                        <li>Paper Submission deadline: January 12, 2023 AoE</li>
-                        <li>Notification: February 9, 2023</li>
-                        <li>Camera Ready: February 22, 2023</li>
+                        <li>Abstract Submission deadline: November 13, 2022 AoE</li>
+                        <li>Paper Submission deadline: November 20, 2022 AoE</li>
+                        <li>Notification: December 20, 2022 AoE</li>
+                        <li>Camera Ready: January 13, 2023 AoE</li>
                         <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2023">https://easychair.org/conferences/?conf=saner2023</a></li>
                     </ul>
-
                     </p>
--->
-
                 </div>
             </div>
         </div><!-- end of row -->
