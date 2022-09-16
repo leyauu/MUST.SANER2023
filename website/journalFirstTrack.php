@@ -86,18 +86,15 @@
                     <p style="text-align: justify; margin-top: 15px;">
                         The accepted journal-first papers will be listed in the conference program. Each paper will also have a one-page entry in the SANER proceedings; that entry will be the abstract submitted by the authors. Full journal-first manuscripts are published through the journals and will not be part of the SANER proceedings.
                     </p>
-                    <!--
                     <p style="text-align: justify;">
                         <br>
                         <strong>Important Dates</strong>
                     <ul>
-                        <li>Submission: January 26, 2023, 23:59 AoE</li>
-                        <li>Notification: February 16, 2023</li>
-                        <li>Camera Ready: February 22, 2023</li>
-                        <li>Submission Page: <a href="https://easychair.org/conferences/?conf=saner2023j1c2" target="_blank">https://easychair.org/conferences/?conf=saner2023j1c2</a></li>
+                        <li>Submission: Nov. 18th, 2022</li>
+                        <li>Notification: Dec. 17th, 2022</li>
+                        <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2023">https://easychair.org/conferences/?conf=saner2023</a></li>
                     </ul>
                     </p>
--->
                 </div>
             </div>
         </div><!-- end of row -->

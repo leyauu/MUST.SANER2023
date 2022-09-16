@@ -163,17 +163,14 @@
                             <p>
                                 <li style="list-style: none;">Abstract submission: <span class="expired">November 11, 2022 AoE</span></li>
                                 <li style="list-style: none;">Paper submission: <span class="expired">November 18, 2022 AoE</span></li>
-                                <li style="list-style: none;">Notifications: <span class="expired">December 17 2022 AoE</span></li>
+                                <li style="list-style: none;">Notifications: <span class="expired">December 17, 2022 AoE</span></li>
                                 <li style="list-style: none;">Camera Ready: <span class="expired">January 13, 2023 AoE</span></li>
                             </p>
                         </div>
                         <div id="date7" style="display: none;">
-                            <p style="width:100%; text-align: center;"><b>Journal First Track</b></p>
-                            <!--
-                            <li style="list-style: none;">Submission: <span class="expired">January 26, 2023, 23:59 AoE</span></li>
-                            <li style="list-style: none;">Notification: <span class="expired">February 16, 2023</span></li>
-                            <li style="list-style: none;">Camera Ready: <span class="expired">February 22, 2023</span></li>
-                        -->
+                            <p style="width:100%; text-align: center;"><b>Journal First Track AoE</b></p>
+                            <li style="list-style: none;">Submission: <span class="expired">November 18th, 2022 AoE</span></li>
+                            <li style="list-style: none;">Notification: <span class="expired">December 17th, 2022 AoE</span></li>
                         </div>
                         <ul class="pager" style="margin-top: 5px; margin-bottom: 0px;">
                             <li class="previous">
