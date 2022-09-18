@@ -151,12 +151,10 @@
                         </div>
                         <div id="date5" style="display: none;">
                             <p style="width:100%; text-align: center;"><b>Workshop Proposals</b></p>
-                            <!--
                             <p>
-                                <li style="list-style: none;">Proposal: <span class="expired">October 5, 2017</span></li>
-                                <li style="list-style: none;">Notifications: <span class="expired">October 9, 2017</span></li>
+                                <li style="list-style: none;">Submission: <span class="expired">October 6, 2022</span></li>
+                                <li style="list-style: none;">Notifications: <span class="expired">October 26, 2022</span></li>
                             </p>
--->
                         </div>
                         <div id="date6" style="display: none;">
                             <p style="width:100%; text-align: center;"><b>RENE Track</b></p>

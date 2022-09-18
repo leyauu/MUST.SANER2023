@@ -47,18 +47,14 @@
                         <li>Paper selection criteria and mechanism (<strong>Important note:</strong> SANER 2023 follows a full double-blind review process.)</li>
                     </ul>
                     <p style="text-align: justify;">
-                        Please send your proposal via email to Weiyi Shang <a href="mailto:shang@encs.concordia.ca">shang@encs.concordia.ca</a>
-                    </p>
-                    <!--
-                    <p style="text-align: justify;">
                         <br>
                         <strong>Important Dates</strong>
                     <ul>
-                        <li>Proposal submission deadline: <del>September 30, 2017 AoE</del>&nbsp;October 5, 2017 AoE</li>
-                        <li>Notifications: October 9, 2017</li>
+                        <li>Submission: October 6, 2022 AoE</li>
+                        <li>Notifications: October 26, 2022 AoE</li>
+                        <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2023">https://easychair.org/conferences/?conf=saner2023</a></li>
                     </ul>
                     </p>
--->
                 </div>
             </div>
         </div><!-- end of row -->
