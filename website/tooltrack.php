@@ -61,9 +61,15 @@
                         Accepted tool demonstrations will be allocated 5 pages in the conference proceedings. Demonstrators will be invited to (i) give a presentation that will be scheduled into the conference program, and (ii) have a hands-on session in which SANER attendants can use and experiment with the tools. Commercial products and products that are currently being commercialized, cannot be accepted. The demonstrations are intended to highlight scientific contributions and consequently should not be sales pitches.
                     </p>
                     <br>
-                    <strong>Best Tool Demo Award</strong>
+                    <strong>The Special Issue</strong>
                     <p style="text-align: justify; margin-top: 15px;">
-                        <strong>The best tool demonstrations will be invited to submit a blog post to the IEEE Software Blog <a href="http://blog.ieeesoftware.org" target="_blank">http://blog.ieeesoftware.org</a>. This dissemination award is a recognition of the SANER community to high quality tools that can impact the research and practice in the areas of software maintenance, reverse engineering and reengineering.</strong> Attendees at the tool demo and hand-on sessions will have the opportunity to rate/rank the best tools by means of a publicly available app. In addition to the tools quality perceived by the SANER attendants, the best tools will be selected based on the following criteria:
+                        <strong>The best tool demonstrations will be invited to submit an extension version to the Science of Computer Programming <a href="https://www.sciencedirect.com/journal/science-of-computer-programming" target="_blank">https://www.sciencedirect.com/journal/science-of-computer-programming</a></strong>.
+                        <!--
+                            This dissemination award is a recognition of the SANER community to high quality tools that can impact the research and practice in the areas of software maintenance, reverse engineering and reengineering.</strong>
+                        Attendees at the tool demo and hand-on sessions will have the opportunity to rate/rank the best tools by means of a publicly available app.
+                        In addition to the tools quality perceived by the SANER attendants, the best tools will be selected based on the following criteria:
+-->
+                        In addition to the tools quality perceived by the SANER attendants, the best tools will be selected based on the following criteria:
                     <ol>
                         <li>Public source code availability</li>
                         <li>Ease of installation and use</li>
