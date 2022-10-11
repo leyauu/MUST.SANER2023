@@ -132,7 +132,6 @@
                         <?php } ?>
                     </div>
 
-                    <!--
                     <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
                         <h3>REproducibility Studies and NEgative Results Track</h3>
                         <hr class="lineHr">
@@ -140,7 +139,7 @@
                     <div class="row text-center">
                         <?php foreach ($json['RENE Track'] as $key => $value) { ?>
                             <div class="col-md-3 my-col">
-                                <p><img class="avatar" src="<?php echo $value['img'] ?>" alt=""></p>
+                                <p><img class="avatar" src="/img/commitee/<?php echo $value['name']; ?>.jpg" alt="" onerror="javascript:this.src='<?php echo $value['img'] ?>';this.onerror=null;"></p>
                                 <p>
                                     <?php if ($value['website'] != '') { ?>
                                         <a href="<?php echo $value['website']; ?>" target="_blank">
@@ -161,10 +160,9 @@
                                 <p><?php echo $value['nation']; ?></p>
                             </div>
                         <?php } ?>
-                                    -->
+                    </div>
                 </div>
             </div>
-        </div>
         </div>
     </section>
 
