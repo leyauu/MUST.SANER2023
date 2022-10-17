@@ -161,6 +161,36 @@
                             </div>
                         <?php } ?>
                     </div>
+
+                    <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
+                        <h3>Industrial Track</h3>
+                        <hr class="lineHr">
+                    </div>
+                    <div class="row text-center">
+                        <?php foreach ($json['Industrial Track'] as $key => $value) { ?>
+                            <div class="col-md-3 my-col">
+                                <p><img class="avatar" src="/img/commitee/<?php echo $value['name']; ?>.jpg" alt="" onerror="javascript:this.src='<?php echo $value['img'] ?>';this.onerror=null;"></p>
+                                <p>
+                                    <?php if ($value['website'] != '') { ?>
+                                        <a href="<?php echo $value['website']; ?>" target="_blank">
+                                            <?php echo $value['name']; ?></a>
+                                        <?php
+                                        if (
+                                            $value['name'] == 'Massimiliano Di Penta' ||
+                                            $value['name'] == 'David C. Shepherd'
+                                        ) {
+                                            echo ' <span style="font-size: 18px;">(co-Chair)</span>';
+                                        } ?>
+                                    <?php } else {
+                                    ?>
+                                        <a><?php echo $value['name']; ?></a>
+                                    <?php } ?>
+                                </p>
+                                <p><?php echo $value['affiliation']; ?></p>
+                                <p><?php echo $value['nation']; ?></p>
+                            </div>
+                        <?php } ?>
+                    </div>
                 </div>
             </div>
         </div>
