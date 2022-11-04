@@ -54,12 +54,12 @@
                             <thead>
                                 <tr>
                                     <th></th>
-                                    <th style="text-align: center;"><img src="img/sponsor/bronze.png" alt="bronze" /><br /><span>Bronze</span>
+                                    <th style="text-align: center;"><img src="img/sponsor/2kUSD.png" width="80" alt=""><br><img src="img/sponsor/bronze.png" alt="bronze" /><br /><span>Bronze</span>
                                     </th>
-                                    <th style="text-align: center;"><img src="img/sponsor/silver.png" alt="silver" /><br /><span>Silver</span>
+                                    <th style="text-align: center;"><img src="img/sponsor/3kUSD.png" width="80" alt=""><br><img src="img/sponsor/silver.png" alt="silver" /><br /><span>Silver</span>
                                     </th>
-                                    <th style="text-align: center;"><img src="img/sponsor/gold.png" alt="gold" /><br /><span>Gold</span></th>
-                                    <th style="text-align: center;"><img src="img/sponsor/platinum.png" alt="platinum" /><br /><span>Platinum</span></th>
+                                    <th style="text-align: center;"><img src="img/sponsor/5kUSD.png" width="80" alt=""><br><img src="img/sponsor/gold.png" alt="gold" /><br /><span>Gold</span></th>
+                                    <th style="text-align: center;"><img src="img/sponsor/7kUSD.png" width="80" alt=""><br><img src="img/sponsor/platinum.png" alt="platinum" /><br /><span>Platinum</span></th>
                                 </tr>
                             </thead>
                             <tbody>
