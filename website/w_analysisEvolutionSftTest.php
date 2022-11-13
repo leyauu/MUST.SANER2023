@@ -57,7 +57,7 @@ require_once ('./utils/breadcrumb.php');
         <div class="row">
             <div class="col-md-12">
                 <div class="top-description-text" style="text-align: left; margin: 30px 0 0 0;">
-                    <h3>6th Workshop on Validation, Analysis and Evolution of Software Tests (VST 2023)</h3>
+                    <h3>6th Workshop on Validation, Analysis and Evolution of Software Tests</h3>
                     <p><b>Home page:</b><span>&nbsp;<a target="_blank" href="https://vstworkshop.github.io/vst2023/">https://vstworkshop.github.io/vst2023/</a></span></p>
                     <hr class="lineHr">
                 </div><!-- end top-description-text -->
@@ -99,7 +99,6 @@ require_once ('./utils/breadcrumb.php');
          <!--   <h3>Organizers</h3>
                 <hr class="lineHr"> -->
                 <p style="text-align: justify;">
-                    <br>
                     <strong>Important Dates</strong>
                 <ul>
                     <li>Abstract submission deadline: December 11, 2022 AoE</li>
@@ -114,7 +113,7 @@ require_once ('./utils/breadcrumb.php');
                </p>
             </div>
         </div>
-        <?php
+        <!--<?php
         $content = file_get_contents('config/production.json');
         $json = json_decode($content, true);
         ?>
@@ -128,7 +127,7 @@ require_once ('./utils/breadcrumb.php');
                 </div>
                 <?php
             }
-            ?>
+            ?> -->
         </div>
     </div>
 </section>
