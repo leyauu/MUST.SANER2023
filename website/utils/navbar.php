@@ -84,8 +84,8 @@
                                 <li><a href="softwareClones">IWSC 2023</a></li>
                                 <li><a href="miningAndAnalyzingInteractionHistories">MAINT 2023</a></li>
                                 <li><a href="MachineLearningTechniques">MaLTeSQuE 2023</a></li>
-                                <li><a href="ValidationAnalysisEvolutionSoftwareTests">VST 2023</a></li>
 -->
+                                <li><a href="ValidationAnalysisEvolutionSoftwareTests">VST 2023</a></li>
                             </ul>
                         </li>
                         <!-- /Workshops -->
