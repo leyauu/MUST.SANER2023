@@ -391,16 +391,15 @@
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/zhouxu.jpeg" alt="Zhou Xu" />
+                                                    <img class="img-circle" src="img/team/tingchen.jpeg" alt="Ting Chen" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="http://www.cse.cqu.edu.cn/info/2097/5325.htm">Zhou Xu</a></h6>
-                                                        <p>Chongqing University<br />China</p>
+                                                        <h6><a target="_blank" href="https://faculty.uestc.edu.cn/chenting/en/index.htm">Ting Chen</a></h6>
+                                                        <p>University of Electronic Science and Technology of China<br />China</p>
                                                     </div>
                                                 </div>
-
                                             </div>
                                         </div>
                                     </td>
@@ -526,6 +525,7 @@
                                 <tr>
                                     <td style="border: none; text-align: left;">
                                         <div class="container">
+                                            <!--
                                             <div class="row">
                                                 <div class="col-md-2">
                                                     <img class="img-circle" src="img/team/tingchen.jpeg" alt="Ting Chen" />
@@ -537,7 +537,7 @@
                                                         <p>University of Electronic Science and Technology of China<br />China</p>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </td>
                                 </tr>
