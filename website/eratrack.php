@@ -63,10 +63,10 @@
                         <br>
                         <strong>Important Dates</strong>
                     <ul>
-                        <li style="list-style: none;">Abstract submission: <span class="expired">November 11, 2022 AoE</span></li>
-                        <li style="list-style: none;">Paper submission: <span class="expired">November 18, 2022 AoE</span></li>
-                        <li style="list-style: none;">Notifications: <span class="expired">December 17, 2022 AoE</span></li>
-                        <li style="list-style: none;">Camera Ready: <span class="expired">January. 13, 2023 AoE</span></li>
+                        <li style="list-style: none;">Abstract submission: <span style="color:red">November 13, 2022 AoE (Extend)</span></li>
+                        <li style="list-style: none;">Paper submission: <span class="">November 18, 2022 AoE</span></li>
+                        <li style="list-style: none;">Notifications: <span class="">December 17, 2022 AoE</span></li>
+                        <li style="list-style: none;">Camera Ready: <span class="">January. 13, 2023 AoE</span></li>
                         <a target="_blank" href="https://easychair.org/conferences/?conf=saner2023" style="color: blue">https://easychair.org/conferences/?conf=saner2023</a>
                     </ul>
                     </p>

@@ -125,7 +125,7 @@
                         <div id="date2" style="display: none;">
                             <p style="width:100%; text-align: center;"><b>ERA Track</b></p>
                             <p>
-                                <li style="list-style: none;">Abstract submission: <span class="expired">November 11, 2022 AoE</span></li>
+                                <li style="list-style: none;">Abstract submission: <span class="expired">November 13, 2022 (Extended)</span></li>
                                 <li style="list-style: none;">Paper submission: <span class="expired">November 18, 2022 AoE</span></li>
                                 <li style="list-style: none;">Notifications: <span class="expired">December 17, 2022 AoE</span></li>
                                 <li style="list-style: none;">Camera Ready: <span class="expired">January. 13, 2023 AoE</span></li>
@@ -143,8 +143,8 @@
                         <div id="date4" style="display: none;">
                             <p style="width:100%; text-align: center;"><b>Industrial Track</b></p>
                             <p>
-                                <li style="list-style: none;">Abstract submission: <span class="expired">November 13, 2022 AoE</span></li>
-                                <li style="list-style: none;">Paper submission: <span class="expired">November 20, 2022 AoE</span></li>
+                                <li style="list-style: none;">Abstract submission: <span class="expired">November 20, 2022 (Extended)</span></li>
+                                <li style="list-style: none;">Paper submission: <span class="expired">November 27, 2022 (Extended)</span></li>
                                 <li style="list-style: none;">Notifications: <span class="expired">December 20, 2022 AoE</span></li>
                                 <li style="list-style: none;">Camera Ready: <span class="expired">January 13, 2023 AoE</span></li>
                             </p>
