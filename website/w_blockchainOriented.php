@@ -57,29 +57,29 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="top-description-text" style="text-align: left; margin: 30px 0 0 0;">
-                        <h3>1st International Workshop on Blockchain Oriented Software Engineering</h3>
-                        <p><b>Home page:</b><span>&nbsp;<a target="_blank" href="http://www.agilegroup.eu/iwbose2023/">http://www.agilegroup.eu/iwbose2023/</a></span></p>
+                        <h3>6th International Workshop on Blockchain Oriented Software Engineering</h3>
+                        <p><b>Home page:</b><span>&nbsp;<a target="_blank" href="https://www.agile-group.org/iwbose2023/">https://www.agile-group.org/iwbose2023/</a></span></p>
                         <hr class="lineHr">
                     </div><!-- end top-description-text -->
 
                         <p style="text-align: justify;">
-                            The First International Workshop on Blockchain Oriented Software Engineering is held as a
-                            Workshop at SANER 2023, and aims at gathering together researchers from the academia and
-                            from the industry to focus on the new challenges posed by the new software technology
-                            supporting the various blockchains infrastructure. The Workshop’s goal is to gather together
-                            practitioners and researchers to discuss on progresses on the research and on the practical usage
-                            of blockchain technologies and smart contracts, focusing on the application and definition of
-                            software engineering principles and practices specific for such software technology, and for the
-                            technologies relying on it. Motivations for this workshop are the ever-increasing interest both in
-                            the research community and in the industry on Blockchain and smart contracts principles and
-                            applications, being the management of cryptocurrencies the most popular topic. These novelties
-                            call for specific tools, paradigms, principles, approaches and research to deal with it and for a
-                            specific Blockchain Oriented Software Engineering (BOSE).
+                            The 6th International Workshop on Blockchain Oriented Software Engineering (BOSE), held 
+                            within SANER 2023 conference is aimed at gathering together researchers and practitioners 
+                            to discuss the new challenges posed to software engineers by the new software technology 
+                            supporting the various blockchains infrastructures. The focus of BOSE is on the (un-)application 
+                            of specific software engineering development best practices to software revolving around Blockchain.
+                            Motivations for this workshop are the ever-increasing interest both in the research community and 
+                            in the industry on Blockchain and smart contracts principles and applications, being the management 
+                            of cryptocurrencies the most popular topic. Furthermore, the last years have seen the creation of new 
+                            and specialized languages for blockchain applications and smart contracts. These novelties call for 
+                            specific tools, paradigms, principles, approaches and research to deal with it and for a specific Blockchain
+                            Oriented Software Engineering.
+
                         </p>
                         <p>Workshop topics include, not exhaustively, the following:</p>
                         <ul>
                             <li>Blockchain Oriented Software Engineering</li>
-                            <li>Blockchain software analysis and reengineering</li>
+                            <li>Blockchain software analysis and re-engineering</li>
                             <li>Formal specification of Blockchain behavior</li>
                             <li>Agile and Lean processes for Blockchain software development</li>
                             <li>Tools for Blockchain software distributed development and community management</li>
@@ -104,11 +104,21 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3>Organizers</h3>
-                    <hr class="lineHr">
+                    <!-- <h3>Organizers</h3>
+                    <hr class="lineHr"> -->
+                    <p style="text-align: justify;">
+                        <strong>Important Dates</strong>
+                    <ul>
+                        <li>Abstract submission deadline: 16 December 2022</li>
+                        <li>Paper submission deadline: 23 December 2022</li>
+                        <li>Notifications: 09 January 2023</li>
+                        <li>Camera Ready: 16 January 2023</li>
+                        <li>Workshop date: 21-24 March 2023</li>
+                        <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=iwbose2023">https://easychair.org/conferences/?conf=iwbose2023</a></li>
+               </ul>
                 </div>
             </div>
-            <?php
+            <!-- <?php
             $content = file_get_contents('config/production.json');
             $json = json_decode($content, true);
             ?>
@@ -122,7 +132,7 @@
                     </div>
                     <?php
                 }
-                ?>
+                ?> -->
             </div>
         </div>
     </section>
