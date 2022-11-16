@@ -525,19 +525,29 @@
                                 <tr>
                                     <td style="border: none; text-align: left;">
                                         <div class="container">
-                                            <!--
                                             <div class="row">
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/tingchen.jpeg" alt="Ting Chen" />
+                                                    <img class="img-circle" src="https://person.dibris.unige.it/ricca-filippo/img/filippo_foto.jpg" alt=" Filippo Ricca" />
                                                 </div>
-                                                <div class="col-md-6">
+                                                <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="https://faculty.uestc.edu.cn/chenting/en/index.htm">Ting Chen</a></h6>
-                                                        <p>University of Electronic Science and Technology of China<br />China</p>
+                                                        <h6><a target="_blank" href="https://person.dibris.unige.it/ricca-filippo/">Filippo Ricca</a></h6>
+                                                        <p>University of Genoa<br />Italy</p>
                                                     </div>
                                                 </div>
-                                            </div> -->
+                                                <div class="col-md-2">
+                                                    <img class="img-circle" src="https://dibt.unimol.it/staff/oliveto/img/personal/personal-image.jpg" alt="Rocco Oliveto" />
+                                                </div>
+                                                <div class="col-md-4">
+                                                    <div class="team-date padd">
+                                                        <br />
+                                                        <h6><a target="_blank" href="https://dibt.unimol.it/staff/oliveto/">Rocco Oliveto</a></h6>
+                                                        <p>University of Molise<br />Italy</p>
+                                                    </div>
+                                                </div>
+
+                                            </div>
                                         </div>
                                     </td>
                                 </tr>
@@ -551,6 +561,7 @@
         .img-circle {
             width: 155px;
             height: 155px;
+            object-fit: cover;
         }
     </style>
 

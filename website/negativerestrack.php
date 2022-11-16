@@ -83,8 +83,8 @@
                         <br>
                         <strong>Important Dates</strong>
                     <ul>
-                        <li>Abstract submission deadline: November 11, 2022 AoE</li>
-                        <li>Paper submission deadline: November 18, 2022 AoE</li>
+                        <li>Abstract submission deadline: <span style="color:red">November 18, 2022 AoE (Extended)</span></li>
+                        <li>Paper submission deadline: <span style="color:red">November 20, 2022 AoE (Extended)</span></li>
                         <li>Notifications: December 17 2022 AoE</li>
                         <li>Camera Ready: January 13, 2023 AoE</li>
                         <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2023">https://easychair.org/conferences/?conf=saner2023</a></li>
