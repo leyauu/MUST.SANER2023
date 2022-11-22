@@ -80,6 +80,7 @@
                             ?>><a>Workshops <span class="caret"></span></a>
                             <ul class="w-200">
                                 <li><a href="blockchainOrientedSoftwareEngineering">IWBOSE 2023</a></li>
+                                <li><a href="deepLearningSoftwareEngineering">SE&DL 2023</a></li>
                                 <!--
                                 <li><a href="softwareClones">IWSC 2023</a></li>
                                 <li><a href="miningAndAnalyzingInteractionHistories">MAINT 2023</a></li>
