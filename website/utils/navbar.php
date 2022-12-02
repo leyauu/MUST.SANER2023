@@ -70,10 +70,12 @@
                         <!-- Workshops -->
                         <li <?php
                             if ((basename($_SERVER['PHP_SELF']) == 'w_blockchainOriented.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'w_softwareDL.php')
                                 || (basename($_SERVER['PHP_SELF']) == 'w_softwareClones.php')
                                 || (basename($_SERVER['PHP_SELF']) == 'w_miningAndAnalyzing.php')
                                 || (basename($_SERVER['PHP_SELF']) == 'w_machineLearningTechniques.php')
                                 || (basename($_SERVER['PHP_SELF']) == 'w_analysisEvolutionSftTest.php')
+                                || (basename($_SERVER['PHP_SELF']) == 'w_Human.php')
                             ) {
                                 echo 'class = "zm-active"';
                             }
@@ -81,6 +83,7 @@
                             <ul class="w-200">
                                 <li><a href="blockchainOrientedSoftwareEngineering">IWBOSE 2023</a></li>
                                 <li><a href="deepLearningSoftwareEngineering">SE&DL 2023</a></li>
+                                <li><a href="HumanCentricExperimentsinSoftwareEngineering">HUMAN 2023</a></li>
                                 <!--
                                 <li><a href="softwareClones">IWSC 2023</a></li>
                                 <li><a href="miningAndAnalyzingInteractionHistories">MAINT 2023</a></li>
