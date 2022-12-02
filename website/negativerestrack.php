@@ -83,7 +83,7 @@
                         <br>
                         <strong>Important Dates</strong>
                     <ul>
-                        <li>Abstract submission deadline: <span style="color:red">November 18, 2022 AoE (Extended)</span></li>
+                        <li>Abstract submission deadline: <span style="">November 11, 2022 AoE</span></li>
                         <li>Paper submission deadline: <span style="color:red">November 20, 2022 AoE (Extended)</span></li>
                         <li>Notifications: December 17 2022 AoE</li>
                         <li>Camera Ready: January 13, 2023 AoE</li>
