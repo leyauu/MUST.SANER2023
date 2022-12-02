@@ -57,7 +57,7 @@ require_once ('./utils/breadcrumb.php');
         <div class="row">
             <div class="col-md-12">
                 <div class="top-description-text" style="text-align: left; margin: 30px 0 0 0;">
-                    <h3>The 2nd International Workshop on Quantum Software Analysis, Evolution and Reengineering</h3>
+                    <h3>2nd International Workshop on Quantum Software Analysis, Evolution and Reengineering</h3>
                     <p><b>Home page:</b><span>&nbsp;<a target="_blank" href="https://q-se.github.io/qsaner2023/">https://q-se.github.io/qsaner2023/</a></span></p>
                     <hr class="lineHr">
                 </div><!-- end top-description-text -->
@@ -104,7 +104,7 @@ require_once ('./utils/breadcrumb.php');
                         <li>Submission: 18 December 2022</li>
                         <li>Notifications: 08 January 2023</li>
                         <li>Camera Ready: 13 January 2023</li>
-                        <li>Submission Page: <a target="_blank" href="https://q-se.github.io/qsaner2023/TBA">https://q-se.github.io/qsaner2023/TBA</a></li>
+                        <li>Submission Page: <a target="_blank" href="https://q-se.github.io/qsaner2023/TBA">https://q-se.github.io/qsaner2023/TBA (TBA)</a></li>
                     </ul>
             </div>
         </div>
