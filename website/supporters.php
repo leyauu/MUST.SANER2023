@@ -208,6 +208,12 @@
                                 <a href="https://www.huawei.com/en/" target="_blank">
                                     <img src="img/supported/huawei.png" alt="Huawei" />
                                 </a>
+                                <!--<a href="http://www.ynu.edu.cn/" target="_blank">
+                                    <img src="img/supported/YNU.png" alt="YNU" />
+                                </a>
+                                <a href="http://www.sei.ynu.edu.cn/info/1084/1126.htm" target="_blank">
+                                   <img src="img/supported/YNU_lab.png" alt="YNU_lab" width="200" height="200"/>
+                                </a>-->
                             </div>
                         </div>
                         <!--
