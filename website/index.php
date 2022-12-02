@@ -126,9 +126,9 @@
                             <p style="width:100%; text-align: center;"><b>ERA Track</b></p>
                             <p>
                                 <li style="list-style: none;">Abstract submission: <span class="expired">November 13, 2022 (Extended)</span></li>
-                                <li style="list-style: none;">Paper submission: <span class="expired">November 18, 2022 AoE</span></li>
+                                <li style="list-style: none;">Paper submission: <span class="expired">November 20, 2022 AoE (Extended)</span></li>
                                 <li style="list-style: none;">Notifications: <span class="expired">December 17, 2022 AoE</span></li>
-                                <li style="list-style: none;">Camera Ready: <span class="expired">January. 13, 2023 AoE</span></li>
+                                <li style="list-style: none;">Camera Ready: <span class="expired">January 13, 2023 AoE</span></li>
                             </p>
                         </div>
                         <div id="date3" style="display: none;">
@@ -159,15 +159,15 @@
                         <div id="date6" style="display: none;">
                             <p style="width:100%; text-align: center;"><b>RENE Track</b></p>
                             <p>
-                                <li style="list-style: none;">Abstract submission: <span class="expired">November 18, 2022 (extended)</span></li>
-                                <li style="list-style: none;">Paper submission: <span class="expired">November 20, 2022 (extended)</span></li>
+                                <li style="list-style: none;">Abstract submission: <span class="expired">November 18, 2022 (Extended)</span></li>
+                                <li style="list-style: none;">Paper submission: <span class="expired">November 20, 2022 (Extended)</span></li>
                                 <li style="list-style: none;">Notifications: <span class="expired">December 17, 2022 AoE</span></li>
                                 <li style="list-style: none;">Camera Ready: <span class="expired">January 13, 2023 AoE</span></li>
                             </p>
                         </div>
                         <div id="date7" style="display: none;">
                             <p style="width:100%; text-align: center;"><b>Journal First Track AoE</b></p>
-                            <li style="list-style: none;">Submission: <span class="expired">November 18th, 2022 AoE</span></li>
+                            <li style="list-style: none;">Submission: <span class="expired">December 12th, 2022 AoE (Extended)</span></li>
                             <li style="list-style: none;">Notification: <span class="expired">December 17th, 2022 AoE</span></li>
                         </div>
                         <ul class="pager" style="margin-top: 5px; margin-bottom: 0px;">
@@ -244,12 +244,12 @@
                                         <a href="https://www.huawei.com/en/" target="_blank">
                                             <img src="img/supported/huawei.png" alt="Huawei" />
                                         </a>
-                                        <!--<a href="http://www.ynu.edu.cn/" target="_blank">
-                                            <img src="img/supported/YNU.png" alt="YNU" />
-                                        </a>
-                                        <a href="http://www.sei.ynu.edu.cn/info/1084/1126.htm" target="_blank">
-                                            <img src="img/supported/YNU_lab.png" alt="YNU_lab" width="200" height="200"/>
-                                        </a>-->
+                                        <!--<a href="http://www.ynu.edu.cn/" target="_blank">-->
+                                        <!--    <img src="img/supported/YNU.png" alt="YNU" />-->
+                                        <!--</a>-->
+                                        <!--<a href="http://www.sei.ynu.edu.cn/info/1084/1126.htm" target="_blank">-->
+                                        <!--    <img src="img/supported/YNU_lab.png" alt="YNU_lab" />-->
+                                        <!--</a>-->
                                     </span>
                                 </td>
                             </tr>
