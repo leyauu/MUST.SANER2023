@@ -93,8 +93,8 @@
                         <br>
                         <strong>Important Dates</strong>
                     <ul>
-                        <li>Submission: Nov. 18th, 2022</li>
-                        <li>Notification: Dec. 17th, 2022</li>
+                        <li>Submission: <span style="color:red">Dec. 12th, 2022 (Extended)</span></li>
+                        <li>Notification: <span style="">Dec. 17th, 2022</span></li>
                         <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2023">https://easychair.org/conferences/?conf=saner2023</a></li>
                     </ul>
                     </p>
