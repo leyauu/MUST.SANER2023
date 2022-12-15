@@ -102,11 +102,24 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3>Organizers</h3>
-                    <hr class="lineHr">
+                    <!-- <h3>Organizers</h3> -->
+                    <!-- <hr class="lineHr"> -->
+                    <strong>Important Dates</strong>
+                    <ul>
+                        <li>Abstract submission deadline: December 13, 2022 AoE</li>
+                        <li>Paper submission deadline: December 20, 2022 AoE</li>
+                        <li>Notifications: January 15, 2023</li>
+                        <li>Camera Ready: January 22, 2023</li>
+                        <!--<li>Workshop date: 21-24 March 2023</li>-->
+                        <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=sedl2023">https://easychair.org/conferences/?conf=sedl2023</a></li>
+                    </ul>
+                    <br>
+                    <p style="text-align: justify;">
+                    For further information visit the workshop's official page: <a target="_blank" href="https://SE-DLworkshop.github.io/">https://SE-DLworkshop.github.io/</a>
+                    </p>
                 </div>
             </div>
-            <?php
+            <!-- <?php
             $content = file_get_contents('config/production.json');
             $json = json_decode($content, true);
             ?>
@@ -120,7 +133,7 @@
                     </div>
                 <?php
                                 }
-                ?>
+                ?> -->
             </div>
         </div>
     </section>
