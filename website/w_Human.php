@@ -102,7 +102,7 @@ require_once ('./utils/breadcrumb.php');
                 <p style="text-align: justify;">
                     <strong>Important Dates</strong>
                     <ul>
-                        <li>Submission: 16 December 2022 AOE</li>
+                        <li>Submission: <span style="color:red">December 18, 2022 AoE (Extended)</span></li>
                         <li>Notifications: 06 January 2023 AOE</li>
                         <li>Camera Ready: 13 January 2023 AOE</li>
                         <li>Submission Page: <a target="_blank" href="https://easychair.org/account/signin_timeout?l=t6JJuJHKle53WehtUXDlD4">https://easychair.org/account/signin_timeout?l=t6JJuJHKle53WehtUXDlD4</a></li>
