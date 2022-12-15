@@ -75,7 +75,7 @@
                     <ul>
                         <li>the paper title;</li>
                         <li>names of all authors;</li>
-                        <li>an extended abstract (1 page);</li>
+                        <li>an extended abstract (1 page) <b>by using IEEE double-column format</b> ;</li>
                         <li>a short statement on how the work satisfies the J1C2 criteria;</li>
                         <li>a pointer to the original journal paper.</li>
                     </ul>
