@@ -107,7 +107,7 @@
                     <strong>Important Dates</strong>
                     <ul>
                         <li>Abstract submission deadline: December 13, 2022 AoE</li>
-                        <li>Paper submission deadline: December 20, 2022 AoE</li>
+                        <li>Paper submission deadline: December 31, 2022 AoE</li>
                         <li>Notifications: January 15, 2023</li>
                         <li>Camera Ready: January 22, 2023</li>
                         <!--<li>Workshop date: 21-24 March 2023</li>-->
