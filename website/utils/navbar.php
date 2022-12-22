@@ -96,7 +96,7 @@
                         <!-- /Workshops -->
                         <!-- Registration -->
                         <li <?php if (basename($_SERVER['PHP_SELF']) == 'registration.php') echo 'class = "zm-active"' ?>>
-                            <a href="registration">Registration</a>
+                            <a href="https://saner2023.scimeeting.cn/">Registration</a>
                         </li>
                         <!-- /Registration -->
                         <!-- Venue -->
