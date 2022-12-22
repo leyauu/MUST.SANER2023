@@ -85,7 +85,7 @@
                 </p>
                 <br>
                 <p>
-                    <b>SANER</b> will feature technical research paper sessions, workshops, an early research achievements track, an industry paper track, a tool demonstration track, and for the first time a dedicated track on negative results in software analysis, evolution and reengineering.
+                    <b>SANER</b> will feature technical research paper sessions, workshops, an early research achievements track, an industry paper track, a tool demonstration track, and a dedicated track on negative results in software analysis, evolution and reengineering.
                 </p>
                 <br>
                 <div class="well">
