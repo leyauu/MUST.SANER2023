@@ -36,4 +36,4 @@ RewriteRule ^ValidationAnalysisEvolutionSoftwareTests$ w_analysisEvolutionSftTes
 RewriteRule ^HumanCentricExperimentsinSoftwareEngineering$ w_Human.php?p=HUMAN_2023 [L]
 RewriteRule ^QuantumSoftwareAnalysisEvolutionandReengineering$ w_Qsaner.php?p=Q-SANER_2023 [L]
 ### Registration
-RewriteRule ^registration$ registration.php?p=Registration [L]
+#RewriteRule ^registration$ registration.php?p=Registration [L]
